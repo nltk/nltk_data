@@ -7,7 +7,7 @@ BASEURL = https://raw.github.com/nltk/nltk_data/master/packages
 pkg_index:
 	$(PYTHON) tools/build_pkg_index.py . $(BASEURL) index.xml
 	$(JAVA) org.apache.xalan.xslt.Process -IN index.xml -XSL index.xsl -OUT index.html
-	git add index.xml
-	git commit -m "updated data index" index.xml
-	echo switch to gh-pages branch and push index.html
+	git add index.xml index.html
+	git commit -m "updated data index" index.xml index.html
+
 
