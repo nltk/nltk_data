@@ -1,0 +1,5 @@
+<package id="swadesh" name="Swadesh Wordlists"
+         webpage="http://en.wiktionary.org/wiki/Appendix:Swadesh_list"
+         license="GNU Free Documentation License"
+         unzip="1"
+         />

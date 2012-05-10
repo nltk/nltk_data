@@ -1,0 +1,6 @@
+<package id="dependency_treebank" name="Dependency Parsed Treebank"
+         sample="True"
+         copyright="Copyright (C) 1995 University of Pennsylvania"
+         license="This is a 10% fragment of Penn Treebank, (C) LDC 1995, which has been dependency parsed.  It is made available under fair use for the purposes of illustrating NLTK tools for tokenizing, tagging, chunking and parsing.  This data is for non-commercial use only."
+         unzip="1"
+         />

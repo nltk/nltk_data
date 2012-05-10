@@ -1,0 +1,8 @@
+<package id="shakespeare" 
+         name="Shakespeare XML Corpus Sample"
+         license="public domain"
+         copyright="public domain"
+         webpage="http://www.andrew.cmu.edu/user/akj/shakespeare/"
+         sample="True"
+         unzip="1"
+         />

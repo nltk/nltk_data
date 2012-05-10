@@ -1,0 +1,4 @@
+<package id="ieer" name="NIST IE-ER DATA SAMPLE"
+         webpage="http://www.itl.nist.gov/iad/894.01/tests/ie-er/er_99/er_99.htm"
+         unzip="1"
+         />

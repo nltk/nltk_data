@@ -1,0 +1,5 @@
+<package id="europarl_raw" name="Sample European Parliament Proceedings Parallel Corpus"
+    author="Philipp Koehn, University of Edinburgh"
+    webpage="http://www.statmt.org/europarl"
+    unzip="1"
+/>

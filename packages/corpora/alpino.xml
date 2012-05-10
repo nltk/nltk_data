@@ -1,0 +1,6 @@
+<package id="alpino" name="Alpino Dutch Treebank"
+         webpage="http://www.let.rug.nl/~vannoord/trees/"
+         contact="Gertjan Van Noord"
+         license="Distributed with permission of Gertjan Van Noord"
+         unzip="1"
+         />

@@ -1,0 +1,6 @@
+<package id="nombank.1.0" name="NomBank Corpus 1.0"
+    contact="Adam Meyers"
+    webpage="http://nlp.cs.nyu.edu/meyers/NomBank.html"
+    license="Distributed with permission"
+    unzip="0"
+/>

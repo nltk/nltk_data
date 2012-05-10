@@ -1,0 +1,4 @@
+<package id="conll2002" name="CONLL 2002 Named Entity Recognition Corpus"
+         webpage="http://www.cnts.ua.ac.be/conll2002/ner/"
+         unzip="1"
+         />

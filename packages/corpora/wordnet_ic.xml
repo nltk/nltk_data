@@ -1,0 +1,5 @@
+<package id='wordnet_ic' name='WordNet-InfoContent'
+         version='3.0'
+         webpage='http://wn-similarity.sourceforge.net'
+         unzip="1"
+         />

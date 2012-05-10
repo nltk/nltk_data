@@ -1,0 +1,6 @@
+<package id="nps_chat" name="NPS Chat"
+         author="Craig Martell (cmartell@nps.edu)"
+         webpage="http://faculty.nps.edu/cmartell/NPSChat.htm"
+         license="This corpus is distributed solely for non-commercial, non-profit educational and research use. It is a derivative compilation work of multiple works whose copyrights are held by the respective original authors."
+         unzip="1"
+         />

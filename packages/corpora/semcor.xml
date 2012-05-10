@@ -1,0 +1,6 @@
+<package id="semcor" name="SemCor 3.0"
+         author="Rada Mihalcea (rada@cs.unt.edu)"
+         webpage="http://www.cse.unt.edu/~rada/downloads.html#semcor"
+         license="You are granted permission to use, copy, modify and distribute this database for any purpose and without fee and royalty is hereby granted, provided that you agree to comply with the Princeton copyright notice and statements, including the disclaimer, and that the same appear on ALL copies of the database, including modifications that you make for internal use or for distribution.  See semcor/README for more information."
+         unzip="0"
+         />

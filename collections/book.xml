@@ -1,0 +1,33 @@
+<collection id="book" name="Everything used in the NLTK Book">
+    <item ref="brown"/>
+    <item ref="chat80"/>
+    <item ref="cmudict"/>
+    <item ref="conll2000"/>
+    <item ref="conll2002"/>
+    <item ref="dependency_treebank"/>
+    <item ref="genesis"/>
+    <item ref="gutenberg"/>
+    <item ref="ieer"/>
+    <item ref="inaugural"/>
+    <item ref="movie_reviews"/>
+    <item ref="nps_chat"/>
+    <item ref="names"/>
+    <item ref="ppattach"/>
+    <item ref="reuters"/>
+    <item ref="state_union"/>
+    <item ref="stopwords"/>
+    <item ref="swadesh"/>
+    <item ref="treebank"/>
+    <item ref="toolbox"/>
+    <item ref="udhr"/>
+    <item ref="unicode_samples"/>
+    <item ref="webtext"/>
+    <item ref="wordnet"/>
+    <item ref="wordnet_ic"/>
+    <item ref="words"/>
+    <item ref="maxent_treebank_pos_tagger"/>
+    <item ref="maxent_ne_chunker"/>
+    <item ref="punkt"/>
+    <item ref="book_grammars"/>
+    <item ref="tagsets"/>
+</collection>

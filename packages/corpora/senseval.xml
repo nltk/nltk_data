@@ -1,0 +1,6 @@
+<package id="senseval" name="SENSEVAL 2 Corpus: Sense Tagged Text"
+         contact="Ted Pedersen (tpederse@umn.edu)"
+         license="Distributed with permission."
+         webpage="http://www.senseval.org/"
+         unzip="1"
+         />

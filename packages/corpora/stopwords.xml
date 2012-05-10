@@ -1,0 +1,4 @@
+<package id="stopwords" name="Stopwords Corpus"
+         webpage="ftp://ftp.cs.cornell.edu/pub/smart/english.stop and http://snowball.tartarus.org/"
+         unzip="1"
+         />

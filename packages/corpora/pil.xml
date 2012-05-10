@@ -1,0 +1,6 @@
+<package id="pil" name="The Patient Information Leaflet (PIL) Corpus"
+         version="Version 2.0 (31 March 2006)"
+         webpage="http://mcs.open.ac.uk/nlg/old_projects/pills/corpus/"
+         license="Distributed with permission"
+         unzip="1"
+         />

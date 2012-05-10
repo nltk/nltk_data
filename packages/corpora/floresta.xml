@@ -1,0 +1,5 @@
+<package id="floresta" name="Portuguese Treebank"
+         license="Non-commercial use only"
+         webpage="http://www.linguateca.pt/Floresta/"
+         unzip="1"
+         />

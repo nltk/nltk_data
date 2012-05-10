@@ -1,0 +1,8 @@
+<package id="large_grammars" 
+         name="Large context-free and feature-based grammars for parser comparison"
+	 webpage="http://www.informatics.sussex.ac.uk/research/groups/nlp/carroll/elsps.html"
+         contact="John A. Carroll"
+	 license="See the individual grammar files"
+         languages="English"
+         unzip="1"
+         />

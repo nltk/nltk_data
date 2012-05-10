@@ -1,0 +1,4 @@
+<package id="gazetteers" name="Gazeteer Lists"
+         license="GNU Free Documentation License; or public domain (depending on the file)"
+         unzip="1"
+         />

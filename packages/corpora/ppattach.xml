@@ -1,0 +1,7 @@
+<package id="ppattach" name="Prepositional Phrase Attachment Corpus"
+         author="Adwait Ratnaparkhi"
+         webpage="ftp://ftp.cis.upenn.edu/pub/adwait/PPattachData/"
+         copyright="(C) 1994 Adwait Ratnaparkhi"
+         license="Distributed with the permission of the author."
+         unzip="1"
+         />

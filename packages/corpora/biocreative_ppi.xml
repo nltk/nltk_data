@@ -1,0 +1,7 @@
+<package id="biocreative_ppi" 
+         name="BioCreAtIvE (Critical Assessment of Information Extraction Systems in Biology)"
+         webpage="http://www.mitre.org/public/biocreative/"
+         copyright="Public Domain (not copyrighted)"
+         license="Public Domain"
+         unzip="1"
+         />

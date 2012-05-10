@@ -1,0 +1,5 @@
+<package id="switchboard" name="Switchboard Corpus Sample"
+         sample="True"
+         license="Permission is granted for use of this material in accordance with the Open Content License [http://opencontent.org/opl.shtml].  This corpus contains transcripts and annotations for 36 calls from the Switchboard Corpus [http://www.ldc.upenn.edu/Catalog/LDC93S7.html]."
+         unzip="1"
+         />

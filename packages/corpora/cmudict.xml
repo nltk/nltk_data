@@ -1,0 +1,9 @@
+<package id="cmudict" 
+         name="The Carnegie Mellon Pronouncing Dictionary (0.6)"
+         webpage="ftp://ftp.cs.cmu.edu/project/speech/dict/"
+         copyright="Copyright 1998 Carnegie Mellon University"
+         license="Use of this dictionary, for any research or commercial purpose, is completely unrestricted.  If you use or redistribute this material, we would appreciate acknowlegement of its origin."
+         unzip="1"
+         />
+
+

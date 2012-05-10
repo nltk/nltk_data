@@ -1,0 +1,6 @@
+<package id="gutenberg" name="Project Gutenberg Selections"
+         webpage="http://gutenberg.net/"
+         license="public domain"
+         copyright="public domain"
+         unzip="1"
+         />

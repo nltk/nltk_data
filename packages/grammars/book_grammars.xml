@@ -1,0 +1,6 @@
+<package id="book_grammars" 
+         name="Grammars from NLTK Book"
+         author="Ewan Klein"
+         languages="English"
+         unzip="1"
+         />

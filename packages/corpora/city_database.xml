@@ -1,0 +1,5 @@
+<package id="city_database"
+         name="City Database"
+         note="A very small database of information about cities"
+         unzip="1"
+         />

@@ -1,0 +1,6 @@
+<package id="udhr" name="Universal Declaration of Human Rights Corpus"
+         webpage="http://www.un.org/Overview/rights.html"
+         license="public domain"
+         copyright="public domain"
+         unzip="1"
+         />

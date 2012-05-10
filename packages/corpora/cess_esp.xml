@@ -1,0 +1,5 @@
+<package id="cess_esp" name="CESS-ESP Treebank"
+         webpage="http://clic.ub.edu/cessece/"
+         license="If you use these corpora for research, please cite thusly: CESS-Cat project (M. Antonia Martí, MarionaTaulé, Lluís Márquez, Manuel Bertran (2007) ?CESS-ECE: A Multilingual and Multilevel Annotated Corpus? in http://www.lsi.upc.edu/~mbertran/cess-ece/publications)."
+         unzip="1"
+         />

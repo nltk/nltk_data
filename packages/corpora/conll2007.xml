@@ -1,0 +1,7 @@
+<package id="conll2007" name="Dependency Treebanks from CoNLL 2007 (Catalan and Basque Subset)"
+         webpage="http://nextens.uvt.nl/depparse-wiki/DataDownload"
+         contact="Kepa Sarasola"
+         copyright="Copyright (C) 2007 The University of the Basque Country"
+         license="Creative Commons Attribution-NonCommercial-NoDerivativeWorks license"
+         unzip="0"
+         />

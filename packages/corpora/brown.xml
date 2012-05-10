@@ -1,0 +1,6 @@
+<package id="brown" name="Brown Corpus"
+         author="W. N. Francis and H. Kucera"
+         license="May be used for non-commercial purposes."
+         webpage="http://www.hit.uib.no/icame/brown/bcm.html"
+         unzip="1"
+         />

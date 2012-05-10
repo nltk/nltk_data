@@ -1,0 +1,7 @@
+<package id="mac_morpho" 
+         name="MAC-MORPHO: Brazilian Portuguese news text with part-of-speech tags"
+         webpage="http://www.nilc.icmc.usp.br/lacioweb/"
+         license="Distributed with permission of Núcleo Interinstitucional de Lingüística Computacional (NILC), Universidade de São Paulo (USP) in São Carlos, Universidade Federal de São Carlos (UFSCar), Universidade Estadual Paulista (UNESP) of Araraquara."
+         unzip="1"
+         />
+

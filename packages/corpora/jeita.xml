@@ -1,0 +1,5 @@
+<package id="jeita"
+         name="JEITA Public Morphologically Tagged Corpus (in ChaSen format)"
+         webpage="http://lilyx.net/pages/nltkjapanesecorpus.html"
+         license="Freely re-distributable under the same license as the original JEITA corpus. Each document retains its own license from Aozora bunko and Project Sugita Genpaku."
+         unzip="0" />

@@ -1,0 +1,5 @@
+<package id="qc" name="Experimental Data for Question Classification"
+         author="Xin Li and Dan Roth, UIUC"
+         webpage="http://l2r.cs.uiuc.edu/~cogcomp/Data/QA/QC/"
+         unzip="1"
+         />

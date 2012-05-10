@@ -1,0 +1,7 @@
+<package id="sinica_treebank" 
+         name="Sinica Treebank Corpus Sample"
+         webpage="http://rocling.iis.sinica.edu.tw/CKIP/engversion/treebank.htm"
+         license="Distributed with the Natural Language Toolkit under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike License [http://creativecommons.org/licenses/by-nc-sa/2.5/]."
+         sample="True"
+         unzip="1"
+         />

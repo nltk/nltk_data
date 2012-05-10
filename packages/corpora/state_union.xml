@@ -1,0 +1,7 @@
+<package id="state_union" 
+         name="C-Span State of the Union Address Corpus"
+         webpage="http://www.c-span.org/executive/stateoftheunion.asp"
+         copyright="public domain"
+         license="public domain"
+         unzip="1"
+         />

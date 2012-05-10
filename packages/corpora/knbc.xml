@@ -1,0 +1,5 @@
+<package id="knbc" name="KNB Corpus (Annotated blog corpus)"
+         webpage="http://lilyx.net/pages/nltkjapanesecorpus.html"
+         license="Freely re-distributable under the same license as the original KNB Corpus."
+         unzip="0" />
+

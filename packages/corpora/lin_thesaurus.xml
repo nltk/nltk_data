@@ -1,0 +1,7 @@
+<package id="lin_thesaurus"
+         name="Lin's Dependency Thesaurus"
+         author="Dekang Lin"
+         webpage="http://webdocs.cs.ualberta.ca/~lindek/downloads.htm"
+         license="Distributed with permission of Dekang Lin"
+         unzip="1"
+         />

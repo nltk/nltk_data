@@ -1,0 +1,7 @@
+<package id="brown_tei" name="Brown Corpus (TEI XML Version)"
+         author="W. N. Francis and H. Kucera"
+         license="May be used for non-commercial purposes."
+         webpage="http://www.hit.uib.no/icame/brown/bcm.html"
+         contact="Lou Burnard -- lou.burnard@oucs.ox.ac.uk"
+         unzip="1"
+         />

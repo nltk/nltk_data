@@ -1,0 +1,6 @@
+<package id="basque_grammars" 
+         name="Grammars for Basque"
+         author="Kepa Sarasola"
+         languages="Spanish"
+         unzip="1"
+         />

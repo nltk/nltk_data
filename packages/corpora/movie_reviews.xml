@@ -1,0 +1,7 @@
+<package id="movie_reviews" 
+         name="Sentiment Polarity Dataset Version 2.0"
+         author="Bo Pang and Lillian Lee"
+         webpage="http://www.cs.cornell.edu/people/pabo/movie-review-data/"
+         license="Distributed with permission from the authors"
+         unzip="1"
+         />

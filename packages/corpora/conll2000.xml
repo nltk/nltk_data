@@ -1,0 +1,5 @@
+<package id="conll2000" name="CONLL 2000 Chunking Corpus"
+         webpage="http://www.cnts.ua.ac.be/conll2000/chunking/"
+         contact="Erik Tjong Kim Sang (erikt@uia.ua.ac.be)"
+         unzip="1"
+         />
