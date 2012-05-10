@@ -2,7 +2,7 @@ PYTHON = python
 JAVA = java -classpath /opt/local/share/java/xalan.jar
 
 #BASEURL = http://nltk.googlecode.com/svn/trunk/nltk_data/packages
-BASEURL = https://raw.github.com/nltk/nltk_data/master/packages
+BASEURL = http://nltk.github.com/nltk_data/packages
 
 pkg_index:
 	$(PYTHON) tools/build_pkg_index.py . $(BASEURL) index.xml
