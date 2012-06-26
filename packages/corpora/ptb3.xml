@@ -1,0 +1,5 @@
+<package id="ptb3" name="Penn Treebank"
+         copyright="Copyright (C) 1995 University of Pennsylvania"
+         license="This is a stub for the full Penn Treebank Corpus version 3."
+         unzip="1"
+         />

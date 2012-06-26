@@ -39,6 +39,7 @@
     <item ref="ppattach"/>
     <item ref="problem_reports"/>
     <item ref="propbank"/>
+    <item ref="ptb3"/>
     <item ref="qc"/>
     <item ref="reuters"/>
     <item ref="rte"/>
