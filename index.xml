@@ -44,7 +44,7 @@
     <package author="Adwait Ratnaparkhi" checksum="cce212b7ace8e64722ba2f41f802a5d0" copyright="(C) 1994 Adwait Ratnaparkhi" id="ppattach" license="Distributed with the permission of the author." name="Prepositional Phrase Attachment Corpus" size="781714" subdir="corpora" unzip="1" unzipped_size="3113650" url="http://nltk.github.com/nltk_data/packages/corpora/ppattach.zip" webpage="ftp://ftp.cis.upenn.edu/pub/adwait/PPattachData/" />
     <package author="Andrew Ko, Carnegie Mellon University" checksum="8781ace4c0a181c5875cdbfc01e895fb" id="problem_reports" name="Problem Report Corpus" size="1032942" subdir="corpora" unzip="1" unzipped_size="3467763" url="http://nltk.github.com/nltk_data/packages/corpora/problem_reports.zip" webpage="http://www.cs.cmu.edu/~marmalade/reports.html" />
     <package checksum="2397782c6e6f46c9657f85db8a5421f6" contact="Martha Palmer" id="propbank" license="Distributed with permission" name="Proposition Bank Corpus 1.0" size="5323498" subdir="corpora" unzip="0" unzipped_size="18831005" url="http://nltk.github.com/nltk_data/packages/corpora/propbank.zip" webpage="http://verbs.colorado.edu/~mpalmer/projects/ace.html" />
-    <package checksum="65889eee2485d3a044fdb2c47daf2d6d" copyright="Copyright (C) 1995 University of Pennsylvania" id="ptb3" license="This is a stub for the full Penn Treebank Corpus version 3." name="Penn Treebank" size="6293" subdir="corpora" unzip="1" unzipped_size="63036" url="http://nltk.github.com/nltk_data/packages/corpora/ptb3.zip" />
+    <package checksum="7b633a1b7770279eab00bc1108769c67" copyright="Copyright (C) 1995 University of Pennsylvania" id="ptb" license="This is a stub for the full Penn Treebank Corpus version 3." name="Penn Treebank" size="6289" subdir="corpora" unzip="1" unzipped_size="63036" url="http://nltk.github.com/nltk_data/packages/corpora/ptb.zip" />
     <package author="Xin Li and Dan Roth, UIUC" checksum="afd4145ac31cb8d7db715974b9b8b57a" id="qc" name="Experimental Data for Question Classification" size="125456" subdir="corpora" unzip="1" unzipped_size="361090" url="http://nltk.github.com/nltk_data/packages/corpora/qc.zip" webpage="http://l2r.cs.uiuc.edu/~cogcomp/Data/QA/QC/" />
     <package checksum="c2acb24d5cccf8035e0fe8d29f440a68" id="reuters" license="The copyright for the text of newswire articles and Reuters annotations in the Reuters-21578 collection resides with Reuters Ltd. Reuters Ltd. and Carnegie Group, Inc. have agreed to allow the free distribution of this data *for research purposes only*.  If you publish results based on this data set, please acknowledge its use, refer to the data set by the name &apos;Reuters-21578, Distribution 1.0&apos;, and inform your readers of the current location of the data set." name="The Reuters-21578 benchmark corpus, ApteMod version" size="6378691" subdir="corpora" unzip="1" unzipped_size="9073648" url="http://nltk.github.com/nltk_data/packages/corpora/reuters.zip" webpage="http://kdd.ics.uci.edu/databases/reuters21578/reuters21578.html" />
     <package checksum="ca21663daa326a3bb53001c3d82e62d6" id="rte" name="PASCAL RTE Challenges 1, 2, and 3" size="386303" subdir="corpora" unzip="1" unzipped_size="1279930" url="http://nltk.github.com/nltk_data/packages/corpora/rte.zip" webpage="http://www.pascal-network.org/Challenges/RTE/" />
@@ -120,7 +120,7 @@
       <item ref="ppattach" />
       <item ref="problem_reports" />
       <item ref="propbank" />
-      <item ref="ptb3" />
+      <item ref="ptb" />
       <item ref="qc" />
       <item ref="reuters" />
       <item ref="rte" />
@@ -185,7 +185,7 @@
       <item ref="ppattach" />
       <item ref="problem_reports" />
       <item ref="propbank" />
-      <item ref="ptb3" />
+      <item ref="ptb" />
       <item ref="qc" />
       <item ref="reuters" />
       <item ref="rte" />
