@@ -1,4 +1,4 @@
 nltk_data
 =========
 
-NLTK Data
+NLTK Data lives in the gh-pages branch of this repository.
