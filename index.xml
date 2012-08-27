@@ -37,6 +37,7 @@
     <package author="Mark Kantrowitz and Bill Ross" checksum="93844d7c995ad28f40528c08a3430175" copyright="Copyright (C) 1991 Mark Kantrowitz" id="names" license="You may use the lists of names for any purpose, so long as credit is given in any published work. You may also redistribute the list if you provide the recipients with a copy of this README file. The lists are not in the public domain (I retain the copyright on the lists) but are freely redistributable.  If you have any additions to the lists of names, I would appreciate receiving them." name="Names Corpus, Version 1.3 (1994-03-29)" size="21326" subdir="corpora" unzip="1" unzipped_size="56572" url="http://nltk.github.com/nltk_data/packages/corpora/names.zip" webpage="http://www-2.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/" />
     <package checksum="1d0b08de34eba1f013ecb8169d2e3bec" contact="Adam Meyers" id="nombank.1.0" license="Distributed with permission" name="NomBank Corpus 1.0" size="6683763" subdir="corpora" unzip="0" unzipped_size="42327812" url="http://nltk.github.com/nltk_data/packages/corpora/nombank.1.0.zip" webpage="http://nlp.cs.nyu.edu/meyers/NomBank.html" />
     <package author="Craig Martell (cmartell@nps.edu)" checksum="72d1b905ba2be48d711690b012856c79" id="nps_chat" license="This corpus is distributed solely for non-commercial, non-profit educational and research use. It is a derivative compilation work of multiple works whose copyrights are held by the respective original authors." name="NPS Chat" size="301366" subdir="corpora" unzip="1" unzipped_size="2578726" url="http://nltk.github.com/nltk_data/packages/corpora/nps_chat.zip" webpage="http://faculty.nps.edu/cmartell/NPSChat.htm" />
+    <package checksum="4ac76e2048a86e16509c11cf95a90ab8" id="oanc_masc" license="Open Data: opendefinition.org." name="Open American National Corpus: Manually Annotated Sub-Corpus" size="10652413" subdir="corpora" unzip="0" unzipped_size="120937410" url="http://nltk.github.com/nltk_data/packages/corpora/oanc_masc.zip" />
     <package author="Cathy Bow, University of Melbourne" checksum="745ee9036c5ca3226be24c97515f5707" id="paradigms" license="Distributed with the permission of the author" name="Paradigm Corpus" size="24902" subdir="corpora" unzip="1" unzipped_size="361186" url="http://nltk.github.com/nltk_data/packages/corpora/paradigms.zip" />
     <package checksum="e72135042dc48772acad309a6adbb6f0" id="pe08" license="Distributed with permission" name="Cross-Framework and Cross-Domain Parser Evaluation Shared Task" size="80735" subdir="corpora" unzip="1" unzipped_size="296619" url="http://nltk.github.com/nltk_data/packages/corpora/pe08.zip" version="Release 3 (20 April 2008)" webpage=" http://www-tsujii.is.s.u-tokyo.ac.jp/pe08-st/" />
     <package checksum="d07b2ca7b5b351a24f4db8ae8fbc9e98" id="pil" license="Distributed with permission" name="The Patient Information Leaflet (PIL) Corpus" size="1510205" subdir="corpora" unzip="1" unzipped_size="4170899" url="http://nltk.github.com/nltk_data/packages/corpora/pil.zip" version="Version 2.0 (31 March 2006)" webpage="http://mcs.open.ac.uk/nlg/old_projects/pills/corpus/" />
@@ -114,6 +115,7 @@
       <item ref="names" />
       <item ref="nombank.1.0" />
       <item ref="nps_chat" />
+      <item ref="oanc_masc" />
       <item ref="paradigms" />
       <item ref="pil" />
       <item ref="pl196x" />
@@ -186,6 +188,7 @@
       <item ref="problem_reports" />
       <item ref="propbank" />
       <item ref="ptb" />
+      <item ref="oanc_masc" />
       <item ref="qc" />
       <item ref="reuters" />
       <item ref="rte" />
