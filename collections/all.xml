@@ -40,6 +40,7 @@
     <item ref="problem_reports"/>
     <item ref="propbank"/>
     <item ref="ptb"/>
+    <item ref="oanc_masc"/>
     <item ref="qc"/>
     <item ref="reuters"/>
     <item ref="rte"/>
