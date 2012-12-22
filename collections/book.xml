@@ -20,6 +20,7 @@
     <item ref="treebank"/>
     <item ref="toolbox"/>
     <item ref="udhr"/>
+    <item ref="udhr2"/>
     <item ref="unicode_samples"/>
     <item ref="webtext"/>
     <item ref="wordnet"/>

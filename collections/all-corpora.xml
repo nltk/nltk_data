@@ -55,6 +55,7 @@
     <item ref="toolbox"/>
     <item ref="treebank"/>
     <item ref="udhr"/>
+    <item ref="udhr2"/>
     <item ref="unicode_samples"/>
     <item ref="verbnet"/>
     <item ref="webtext"/>
