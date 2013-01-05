@@ -1,6 +1,0 @@
-<package id='punkt' 
-         name='Punkt Tokenizer Models'
-         author='Jan Strunk'
-         languages="Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Italian, Norwegian, Polish, Portuguese, Slovene, Spanish, Swedish, Turkish"
-         unzip="1"
-         />
