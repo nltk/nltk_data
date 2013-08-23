@@ -20,6 +20,7 @@
     <package checksum="631e959acaa42eea718daf04c5cdfa76" copyright="Copyright (C) 1995 University of Pennsylvania" id="dependency_treebank" license="This is a 10% fragment of Penn Treebank, (C) LDC 1995, which has been dependency parsed.  It is made available under fair use for the purposes of illustrating NLTK tools for tokenizing, tagging, chunking and parsing.  This data is for non-commercial use only." name="Dependency Parsed Treebank" sample="True" size="457429" subdir="corpora" unzip="1" unzipped_size="1069540" url="http://nltk.github.com/nltk_data/packages/corpora/dependency_treebank.zip" />
     <package author="Philipp Koehn, University of Edinburgh" checksum="7621d5675990b1decc012c823716ee76" id="europarl_raw" name="Sample European Parliament Proceedings Parallel Corpus" size="12594977" subdir="corpora" unzip="1" unzipped_size="41396100" url="http://nltk.github.com/nltk_data/packages/corpora/europarl_raw.zip" webpage="http://www.statmt.org/europarl" />
     <package checksum="de5f1df09949f080e0f616f0bc55967d" id="floresta" license="Non-commercial use only" name="Portuguese Treebank" size="1882021" subdir="corpora" unzip="1" unzipped_size="16414136" url="http://nltk.github.com/nltk_data/packages/corpora/floresta.zip" webpage="http://www.linguateca.pt/Floresta/" />
+    <package author="Collin F. Baker" checksum="cf68365950b2f048bcb48619de81f50a" id="framenet_v15" license="May be used for non-commercial purposes." name="FrameNet 1.5" size="69337891" subdir="corpora" unzip="0" unzipped_size="579133737" url="http://nltk.github.com/nltk_data/packages/corpora/framenet_v15.zip" webpage="http://framenet.icsi.berkeley.edu" />
     <package checksum="1dd15c714a2be985c482a13d90e9caa4" id="gazetteers" license="GNU Free Documentation License; or public domain (depending on the file)" name="Gazeteer Lists" size="8265" subdir="corpora" unzip="1" unzipped_size="12711" url="http://nltk.github.com/nltk_data/packages/corpora/gazetteers.zip" />
     <package checksum="2a76432753c01fe179684e0ae3a4d023" copyright="public domain" id="genesis" license="public domain" name="Genesis Corpus" size="473239" subdir="corpora" unzip="1" unzipped_size="1426122" url="http://nltk.github.com/nltk_data/packages/corpora/genesis.zip" />
     <package checksum="48c9c8605cd70b0230687557ee543633" copyright="public domain" id="gutenberg" license="public domain" name="Project Gutenberg Selections" size="4251829" subdir="corpora" unzip="1" unzipped_size="11802669" url="http://nltk.github.com/nltk_data/packages/corpora/gutenberg.zip" webpage="http://gutenberg.net/" />
@@ -99,6 +100,7 @@
       <item ref="conll2007" />
       <item ref="dependency_treebank" />
       <item ref="floresta" />
+      <item ref="framenet_v15" />
       <item ref="gazetteers" />
       <item ref="genesis" />
       <item ref="gutenberg" />
@@ -166,6 +168,7 @@
       <item ref="dependency_treebank" />
       <item ref="europarl_raw" />
       <item ref="floresta" />
+      <item ref="framenet_v15" />
       <item ref="gazetteers" />
       <item ref="genesis" />
       <item ref="gutenberg" />
