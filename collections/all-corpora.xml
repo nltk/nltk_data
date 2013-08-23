@@ -15,6 +15,7 @@
     <item ref="conll2007"/>
     <item ref="dependency_treebank"/>
     <item ref="floresta"/>
+    <item ref="framenet_v15"/>
     <item ref="gazetteers"/>
     <item ref="genesis"/>
     <item ref="gutenberg"/>
