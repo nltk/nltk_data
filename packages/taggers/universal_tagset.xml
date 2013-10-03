@@ -1,0 +1,4 @@
+<package id='universal_tagset' 
+         name='Mappings to the Universal Part-of-Speech Tagset'
+         unzip="1"
+         />
