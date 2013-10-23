@@ -23,6 +23,7 @@ ROOT, BASE_URL, OUT = sys.argv[1:]
 
 index = build_index(ROOT, BASE_URL)
 s = ElementTree.tostring(index)
+s = s.decode("utf8")
 out = open(OUT, 'w')
 out.write(xml_header)
 out.write(s)
