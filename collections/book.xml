@@ -31,5 +31,6 @@
     <item ref="universal_tagset"/>
     <item ref="punkt"/>
     <item ref="book_grammars"/>
+    <item ref="city_database"/>
     <item ref="tagsets"/>
 </collection>
