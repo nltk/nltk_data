@@ -14,9 +14,11 @@
     <item ref="names"/>
     <item ref="ppattach"/>
     <item ref="reuters"/>
+    <item ref="senseval"/>
     <item ref="state_union"/>
     <item ref="stopwords"/>
     <item ref="swadesh"/>
+    <item ref="timit"/>
     <item ref="treebank"/>
     <item ref="toolbox"/>
     <item ref="udhr"/>
