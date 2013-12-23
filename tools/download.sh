@@ -23,9 +23,8 @@ function usage() {
 function items() {
   python << END
 import xml.etree.ElementTree as e
-root = e.parse('$1').getroot()
-for i in [items.get('ref') for items in root.findall('item')]:
-  print i
+for item in e.parse('$1').getroot().findall('item'):
+  print item.get('ref')
 END
 }
 
