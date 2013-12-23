@@ -1,18 +1,4 @@
 #!/bin/bash
-
-function debug() {
-  # debug $package $target_dir $target_file
-  echo collection=$collection
-  echo data_dir=$data_dir
-  echo script_dir=$script_dir
-  echo repo_dir=$repo_dir
-  echo package_dir=$package_dir
-  echo collections_dir=$collections_dir
-  echo package=$1
-  echo target_dir=$2
-  echo target_file=$3
-}
-
 function usage() {
   echo
   echo "Usage: $(basename $0) <collection name>"
