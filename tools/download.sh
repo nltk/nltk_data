@@ -34,6 +34,15 @@ function usage() {
   echo
 }
 
+function items() {
+  python << END
+import xml.etree.ElementTree as e
+root = e.parse('$1').getroot()
+for i in [items.get('ref') for items in root.findall('item')]:
+  print i
+END
+}
+
 [ $# -eq 0 ] && { usage; exit 1; }
 
 collection=$1
@@ -46,7 +55,7 @@ collections_dir=$repo_dir/collections
 mkdir -p $data_dir
 pushd $data_dir
 
-sed -n 's/.*<item ref="\(.*\)".*/\1/p' $collections_dir/$collection.xml | 
+items $collections_dir/$collection.xml |
 while read item 
 do
   package=$(find $package_dir -name $item.zip -print)
@@ -58,3 +67,4 @@ do
 done
 
 popd
+
