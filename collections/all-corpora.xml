@@ -29,6 +29,7 @@
     <item ref="lin_thesaurus"/>
     <item ref="mac_morpho"/>
     <item ref="machado"/>
+    <item ref="masc_tagged"/>
     <item ref="movie_reviews"/>
     <item ref="names"/>
     <item ref="nombank.1.0"/>

@@ -1,0 +1,7 @@
+<package id="masc_tagged" name="MASC Tagged Corpus"
+         copyright="Copyright (C) 2014 American National Corpus"
+         author="Nancy Ide"
+         license="This data may be used for the purposes of linguistic education, research, and development, including commercial development."
+         webpage="http://www.anc.org/"
+         unzip="0"
+         />
