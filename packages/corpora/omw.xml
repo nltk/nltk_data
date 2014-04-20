@@ -1,0 +1,7 @@
+<package id="omw" name="Open Multilingual Wordnet"
+         author="Francis Bond"
+         license="Please consult the LICENSE files included with the individual Wordnets. Note that all permit redistribution."
+         copyright="Please consult the copyright statements of the individual Wordnets"
+         webpage="http://compling.hss.ntu.edu.sg/omw/"
+         unzip="1"
+         />
