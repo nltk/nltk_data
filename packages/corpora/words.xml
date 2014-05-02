@@ -1,5 +1,6 @@
-<package id='words' name='Word Lists'
-         license='public domain'
-         copyright='public domain'
+<package id="words" name="Word Lists"
+         webpage="http://en.wikipedia.org/wiki/Words_(Unix)"
+         license="public domain"
+         copyright="public domain"
          unzip="1"
          />
