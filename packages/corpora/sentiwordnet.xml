@@ -1,0 +1,9 @@
+<package id="sentiwordnet" name="SentiWordNet"
+         copyright="Copyright (C) 2013 SentiWordNet Project"
+         author="Stefano Baccianella, Andrea Esuli, and Fabrizio Sebastiani"
+         license="Creative Commons Attribution ShareAlike 3.0 Unported license"
+         webpage="http://sentiwordnet.isti.cnr.it/"
+         unzip="1"
+         />
+
+
