@@ -54,6 +54,7 @@
     <package checksum="ca21663daa326a3bb53001c3d82e62d6" id="rte" name="PASCAL RTE Challenges 1, 2, and 3" size="386303" subdir="corpora" unzip="1" unzipped_size="1279930" url="http://nltk.github.com/nltk_data/packages/corpora/rte.zip" webpage="http://www.pascal-network.org/Challenges/RTE/" />
     <package author="Rada Mihalcea (rada@cs.unt.edu)" checksum="46c095f0ab7090132567f87252af724f" id="semcor" license="You are granted permission to use, copy, modify and distribute this database for any purpose and without fee and royalty is hereby granted, provided that you agree to comply with the Princeton copyright notice and statements, including the disclaimer, and that the same appear on ALL copies of the database, including modifications that you make for internal use or for distribution.  See semcor/README for more information." name="SemCor 3.0" size="4397021" subdir="corpora" unzip="0" unzipped_size="37425596" url="http://nltk.github.com/nltk_data/packages/corpora/semcor.zip" webpage="http://www.cse.unt.edu/~rada/downloads.html#semcor" />
     <package checksum="bfc6a33c62ddc2ec24b02701a2f364ff" contact="Ted Pedersen (tpederse@umn.edu)" id="senseval" license="Distributed with permission." name="SENSEVAL 2 Corpus: Sense Tagged Text" size="2151350" subdir="corpora" unzip="1" unzipped_size="16463075" url="http://nltk.github.com/nltk_data/packages/corpora/senseval.zip" webpage="http://www.senseval.org/" />
+    <package author="Stefano Baccianella, Andrea Esuli, and Fabrizio Sebastiani" checksum="5043f00829b7db4dd5f21507e092b76a" copyright="Copyright (C) 2013 SentiWordNet Project" id="sentiwordnet" license="Creative Commons Attribution ShareAlike 3.0 Unported license" name="SentiWordNet" size="4686546" subdir="corpora" unzip="1" unzipped_size="13591402" url="http://nltk.github.com/nltk_data/packages/corpora/sentiwordnet.zip" webpage="http://sentiwordnet.isti.cnr.it/" />
     <package checksum="2332b32a7d83d657092ba4667c2c84c3" copyright="public domain" id="shakespeare" license="public domain" name="Shakespeare XML Corpus Sample" sample="True" size="475458" subdir="corpora" unzip="1" unzipped_size="1727210" url="http://nltk.github.com/nltk_data/packages/corpora/shakespeare.zip" webpage="http://www.andrew.cmu.edu/user/akj/shakespeare/" />
     <package checksum="3e314e26c852c5796488244ffef2ac91" id="sinica_treebank" license="Distributed with the Natural Language Toolkit under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike License [http://creativecommons.org/licenses/by-nc-sa/2.5/]." name="Sinica Treebank Corpus Sample" sample="True" size="899237" subdir="corpora" unzip="1" unzipped_size="3293082" url="http://nltk.github.com/nltk_data/packages/corpora/sinica_treebank.zip" webpage="http://rocling.iis.sinica.edu.tw/CKIP/engversion/treebank.htm" />
     <package author="Sofia Gustafson-Capkova, Yvonne Samuelsson, and Martin Volk" checksum="8743ff232d76aaf2ff8a10523503a659" id="smultron" name="SMULTRON Corpus Sample" size="166207" subdir="corpora" unzip="1" unzipped_size="1677647" url="http://nltk.github.com/nltk_data/packages/corpora/smultron.zip" webpage="http://www.ling.su.se/DaLi/research/smultron/index.htm" />
@@ -136,6 +137,7 @@
       <item ref="rte" />
       <item ref="semcor" />
       <item ref="senseval" />
+      <item ref="sentiwordnet" />
       <item ref="shakespeare" />
       <item ref="sinica_treebank" />
       <item ref="state_union" />
@@ -207,6 +209,7 @@
       <item ref="rte" />
       <item ref="semcor" />
       <item ref="senseval" />
+      <item ref="sentiwordnet" />
       <item ref="shakespeare" />
       <item ref="sinica_treebank" />
       <item ref="smultron" />
