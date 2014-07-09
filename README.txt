@@ -1,4 +1,4 @@
-Data Distribution for NLTK 0.9.6
+Data Distribution for NLTK
 
 Install using NLTK downloader: nltk.download()
 

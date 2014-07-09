@@ -1,5 +1,4 @@
 PYTHON = python
-JAVA = java -classpath /opt/local/share/java/xalan.jar
 BASEURL = http://nltk.github.com/nltk_data/packages
 
 pkg_index:
