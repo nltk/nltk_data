@@ -1,4 +1,5 @@
 <collection id="book" name="Everything used in the NLTK Book">
+    <item ref="abc"/>
     <item ref="brown"/>
     <item ref="chat80"/>
     <item ref="cmudict"/>
