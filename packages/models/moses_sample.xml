@@ -1,0 +1,5 @@
+<package id="moses_sample"
+         name="Moses Sample Models"
+         webpage="http://www.statmt.org/moses/?n=Moses.SampleData"
+         unzip="1"
+         />
