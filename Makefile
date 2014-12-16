@@ -1,5 +1,5 @@
 PYTHON = python
-BASEURL = http://nltk.github.com/nltk_data/packages
+BASEURL = http://www.nltk.org/nltk_data/packages
 
 pkg_index:
 	$(PYTHON) tools/build_pkg_index.py . $(BASEURL) index.xml
