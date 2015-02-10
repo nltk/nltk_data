@@ -84,4 +84,5 @@
     <item ref="basque_grammars"/>
     <item ref="large_grammars"/>
     <item ref="tagsets"/>
+    <item ref="snowball_data"/>
 </collection>
