@@ -17,6 +17,7 @@
     <package checksum="9529b285edd5fe47271da69df1052301" contact="Erik Tjong Kim Sang (erikt@uia.ua.ac.be)" id="conll2000" name="CONLL 2000 Chunking Corpus" size="756607" subdir="corpora" unzip="1" unzipped_size="3495903" url="http://www.nltk.org/nltk_data/packages/corpora/conll2000.zip" webpage="http://www.cnts.ua.ac.be/conll2000/chunking/" />
     <package checksum="67bb4ca75fa81544d42a159524726e78" id="conll2002" name="CONLL 2002 Named Entity Recognition Corpus" size="1867449" subdir="corpora" unzip="1" unzipped_size="7785638" url="http://www.nltk.org/nltk_data/packages/corpora/conll2002.zip" webpage="http://www.cnts.ua.ac.be/conll2002/ner/" />
     <package checksum="b9015928e35c41f0695525289df5208f" contact="Kepa Sarasola" copyright="Copyright (C) 2007 The University of the Basque Country" id="conll2007" license="Creative Commons Attribution-NonCommercial-NoDerivativeWorks license" name="Dependency Treebanks from CoNLL 2007 (Catalan and Basque Subset)" size="1242958" subdir="corpora" unzip="0" unzipped_size="6399295" url="http://www.nltk.org/nltk_data/packages/corpora/conll2007.zip" webpage="http://nextens.uvt.nl/depparse-wiki/DataDownload" />
+    <package author="Kevin Scannell" checksum="3cc831382dec41b8d9a06d93ef300352" copyright="Copyright (C) 2010 Kevin Scannell" id="crubadan" license="GPLv3" name="Crubadan Corpus" size="5288655" subdir="corpora" unzip="0" unzipped_size="11256183" url="http://www.nltk.org/nltk_data/packages/corpora/crubadan.zip" webpage="http://borel.slu.edu/crubadan/" />
     <package checksum="631e959acaa42eea718daf04c5cdfa76" copyright="Copyright (C) 1995 University of Pennsylvania" id="dependency_treebank" license="This is a 10% fragment of Penn Treebank, (C) LDC 1995, which has been dependency parsed.  It is made available under fair use for the purposes of illustrating NLTK tools for tokenizing, tagging, chunking and parsing.  This data is for non-commercial use only." name="Dependency Parsed Treebank" sample="True" size="457429" subdir="corpora" unzip="1" unzipped_size="1069540" url="http://www.nltk.org/nltk_data/packages/corpora/dependency_treebank.zip" />
     <package author="Philipp Koehn, University of Edinburgh" checksum="7621d5675990b1decc012c823716ee76" id="europarl_raw" name="Sample European Parliament Proceedings Parallel Corpus" size="12594977" subdir="corpora" unzip="1" unzipped_size="41396100" url="http://www.nltk.org/nltk_data/packages/corpora/europarl_raw.zip" webpage="http://www.statmt.org/europarl" />
     <package checksum="de5f1df09949f080e0f616f0bc55967d" id="floresta" license="Non-commercial use only" name="Portuguese Treebank" size="1882021" subdir="corpora" unzip="1" unzipped_size="16414136" url="http://www.nltk.org/nltk_data/packages/corpora/floresta.zip" webpage="http://www.linguateca.pt/Floresta/" />
@@ -30,7 +31,6 @@
     <package checksum="96e30423d6887fad17fc44f2f30d920d" id="jeita" license="Freely re-distributable under the same license as the original JEITA corpus. Each document retains its own license from Aozora bunko and Project Sugita Genpaku." name="JEITA Public Morphologically Tagged Corpus (in ChaSen format)" size="16531215" subdir="corpora" unzip="0" unzipped_size="134170650" url="http://www.nltk.org/nltk_data/packages/corpora/jeita.zip" webpage="http://lilyx.net/pages/nltkjapanesecorpus.html" />
     <package checksum="68a8716e0233ad9c0ed0947952e4eb3e" id="kimmo" name="PC-KIMMO Data Files" size="186958" subdir="corpora" unzip="1" unzipped_size="814609" url="http://www.nltk.org/nltk_data/packages/corpora/kimmo.zip" webpage="http://www.sil.org/pckimmo/" />
     <package checksum="992f8a3647f333e28a9958eba4bd67c7" id="knbc" license="Freely re-distributable under the same license as the original KNB Corpus." name="KNB Corpus (Annotated blog corpus)" size="8760788" subdir="corpora" unzip="0" unzipped_size="23601139" url="http://www.nltk.org/nltk_data/packages/corpora/knbc.zip" webpage="http://lilyx.net/pages/nltkjapanesecorpus.html" />
-    <package author="Kevin Scannell" checksum="77b9b2faf5e08b1986d74f29bb2b3fc1" copyright="Copyright (C) 2010 Kevin Scannell" id="langid" license="GPLv3" name="Language Id Corpus" size="5278711" subdir="corpora" unzip="0" unzipped_size="11256183" url="http://www.nltk.org/nltk_data/packages/corpora/langid.zip" webpage="http://borel.slu.edu/crubadan/" />
     <package author="Dekang Lin" checksum="288cc15e4ed257c8598d6f7a30199db9" id="lin_thesaurus" license="Distributed with permission of Dekang Lin" name="Lin's Dependency Thesaurus" size="89154019" subdir="corpora" unzip="1" unzipped_size="210421609" url="http://www.nltk.org/nltk_data/packages/corpora/lin_thesaurus.zip" webpage="http://webdocs.cs.ualberta.ca/~lindek/downloads.htm" />
     <package checksum="cf216ae5b37cca24866909f8594c5395" id="mac_morpho" license="Distributed with permission of N&#250;cleo Interinstitucional de Ling&#252;&#237;stica Computacional (NILC), Universidade de S&#227;o Paulo (USP) in S&#227;o Carlos, Universidade Federal de S&#227;o Carlos (UFSCar), Universidade Estadual Paulista (UNESP) of Araraquara." name="MAC-MORPHO: Brazilian Portuguese news text with part-of-speech tags" size="3013904" subdir="corpora" unzip="1" unzipped_size="10941402" url="http://www.nltk.org/nltk_data/packages/corpora/mac_morpho.zip" webpage="http://www.nilc.icmc.usp.br/lacioweb/" />
     <package author="Machado de Assis" checksum="d186f7d6715479a8bec48b8b8030858e" id="machado" license="Public Domain" name="Machado de Assis -- Obra Completa" size="6151774" subdir="corpora" unzip="0" unzipped_size="14855338" url="http://www.nltk.org/nltk_data/packages/corpora/machado.zip" webpage="http://machado.mec.gov.br/" />
@@ -106,6 +106,7 @@
       <item ref="conll2000" />
       <item ref="conll2002" />
       <item ref="conll2007" />
+      <item ref="crubadan" />
       <item ref="dependency_treebank" />
       <item ref="floresta" />
       <item ref="framenet_v15" />
@@ -177,6 +178,7 @@
       <item ref="conll2000" />
       <item ref="conll2002" />
       <item ref="conll2007" />
+      <item ref="crubadan" />
       <item ref="dependency_treebank" />
       <item ref="europarl_raw" />
       <item ref="floresta" />
@@ -190,7 +192,6 @@
       <item ref="jeita" />
       <item ref="kimmo" />
       <item ref="knbc" />
-      <item ref="langid" />
       <item ref="lin_thesaurus" />
       <item ref="mac_morpho" />
       <item ref="machado" />
