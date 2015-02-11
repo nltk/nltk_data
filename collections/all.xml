@@ -85,5 +85,5 @@
     <item ref="large_grammars"/>
     <item ref="tagsets"/>
     <item ref="snowball_data"/>
-    <item ref="bllip_wsj_no_aux.xml"/>
+    <item ref="bllip_wsj_no_aux"/>
 </collection>
