@@ -1,0 +1,5 @@
+<package id="bllip_wsj_no_aux"
+         name="BLLIP Parser: WSJ Model"
+         webpage="http://nlp.stanford.edu/~mcclosky/models/"
+         unzip="1"
+         />
