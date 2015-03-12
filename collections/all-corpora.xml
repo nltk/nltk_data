@@ -13,6 +13,7 @@
     <item ref="conll2000"/>
     <item ref="conll2002"/>
     <item ref="conll2007"/>
+    <item ref="crubadan"/>
     <item ref="dependency_treebank"/>
     <item ref="floresta"/>
     <item ref="framenet_v15"/>
@@ -25,7 +26,6 @@
     <item ref="jeita"/>
     <item ref="kimmo"/>
     <item ref="knbc"/>
-    <item ref="langid"/>
     <item ref="lin_thesaurus"/>
     <item ref="mac_morpho"/>
     <item ref="machado"/>

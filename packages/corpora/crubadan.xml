@@ -1,0 +1,7 @@
+<package id="crubadan" name="Crubadan Corpus"
+         copyright="Copyright (C) 2010 Kevin Scannell"
+         author="Kevin Scannell"
+         license="GPLv3"
+         webpage="http://borel.slu.edu/crubadan/"
+         unzip="1"
+         />

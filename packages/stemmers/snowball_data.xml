@@ -1,0 +1,8 @@
+<package id='snowball_data' 
+         name='Snowball Data'
+         languages="Danish, Dutch, English, Finnish, French, German,
+         Hungarian, Italian, Norwegian, Portuguese, Romanian, Russian,
+         Spanish, Swedish, Turkish"
+         webpage="https://github.com/snowballstem/snowball-data"
+         unzip="0"
+         />
