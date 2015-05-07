@@ -1,0 +1,5 @@
+<package id="word2vec_sample"
+         name="Word2Vec Sample"
+         webpage="https://code.google.com/p/word2vec/"
+         unzip="1"
+         />
