@@ -62,6 +62,7 @@
     <item ref="timit"/>
     <item ref="toolbox"/>
     <item ref="treebank"/>
+    <item ref="twitter_samples"/>
     <item ref="udhr"/>
     <item ref="udhr2"/>
     <item ref="unicode_samples"/>

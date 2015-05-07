@@ -1,0 +1,8 @@
+<package id="twitter_samples" name="Twitter Samples"
+         copyright="Copyright (C) 2015 Twitter, Inc"
+         license="Must be used subject to Twitter Developer Agreement
+		  (https://dev.twitter.com/overview/terms/agreement)"
+	 note="Sample of Tweets collected from the Twitter APIs,
+	       observing the 50k limit required by https://dev.twitter.com/overview/terms/policy#6._Be_a_Good_Partner_to_Twitter "
+         unzip="1"
+         />
