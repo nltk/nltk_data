@@ -164,6 +164,7 @@
       <item ref="wordnet_ic" />
       <item ref="words" />
       <item ref="ycoe" />
+      <item ref="panlex_swadesh" />
     </collection>
     <collection id="all" name="All packages">
       <item ref="abc" />
@@ -255,6 +256,7 @@
       <item ref="snowball_data" />
       <item ref="bllip_wsj_no_aux" />
       <item ref="word2vec_sample" />
+      <item ref="panlex_swadesh" />
     </collection>
     <collection id="book" name="Everything used in the NLTK Book">
       <item ref="abc" />
@@ -294,6 +296,7 @@
       <item ref="book_grammars" />
       <item ref="city_database" />
       <item ref="tagsets" />
+      <item ref="panlex_swadesh" />
     </collection>
   </collections>
 </nltk_data>
