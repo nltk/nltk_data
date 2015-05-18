@@ -36,4 +36,5 @@
     <item ref="book_grammars"/>
     <item ref="city_database"/>
     <item ref="tagsets"/>
+    <item ref="panlex_swadesh"/>
 </collection>

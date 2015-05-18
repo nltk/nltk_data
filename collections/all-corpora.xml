@@ -68,4 +68,5 @@
     <item ref="wordnet_ic"/>
     <item ref="words"/>
     <item ref="ycoe"/>
+    <item ref="panlex_swadesh"/>
 </collection>

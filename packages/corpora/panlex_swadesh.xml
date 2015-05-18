@@ -1,0 +1,6 @@
+<package id="panlex_swadesh" name="PanLex Swadesh Corpora"
+         author="Jonathan Pool (editor)"
+         license="CC0 1.0 Universal"
+         webpage="http://panlex.org/"
+         unzip="0"
+         />

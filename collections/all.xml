@@ -88,4 +88,5 @@
     <item ref="snowball_data"/>
     <item ref="bllip_wsj_no_aux"/>
     <item ref="word2vec_sample"/>
+    <item ref="panlex_swadesh"/>
 </collection>
