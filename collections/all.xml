@@ -14,6 +14,7 @@
     <item ref="conll2002"/>
     <item ref="conll2007"/>
     <item ref="crubadan"/>
+     <item ref="customer_reviews_1"/>
     <item ref="dependency_treebank"/>
     <item ref="europarl_raw"/>
     <item ref="floresta"/>
