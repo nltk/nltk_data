@@ -1,0 +1,7 @@
+<package id="subjectivity" name="Subjectivity Dataset v1.0"
+	 author="Bo Pang and Lillian Lee"
+         copyright="Copyright (C) 2004 Lillian Lee and Bo Pang"
+         license="Creative Commons Attribution 4.0 International  [http://creativecommons.org/licenses/by/4.0/]"
+	 webpage=" http://www.cs.cornell.edu/People/pabo/people/pabo/movie-review-data"
+         unzip="1"
+         />
