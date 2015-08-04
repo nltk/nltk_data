@@ -1,0 +1,8 @@
+<package id="sentence_polarity" name="Sentence Polarity Dataset v1.0"
+	 author="Bo Pang and Lillian Lee"
+         copyright="Copyright (C) 2005 Bo Pang and Lillian Lee"
+         license="Creative Commons Attribution 4.0 International]"
+	 licenseurl = "http://creativecommons.org/licenses/by/4.0/"
+	 webpage="http://www.cs.cornell.edu/People/pabo/people/pabo/movie-review-data"
+         unzip="1"
+         />
