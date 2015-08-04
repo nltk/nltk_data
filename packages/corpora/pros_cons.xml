@@ -1,6 +1,9 @@
-<package id="pros_cons" name="Pros and Cons"
-         copyright="Copyright (C) 2005 Bing Liu"
-         license="Creative Commons Attribution 4.0 International  [http://creativecommons.org/licenses/by/4.0/]"
+<package id="pros_cons"
+	 name="Pros and Cons"
+	 author="Bing Liu"
+         copyright="Copyright (C) 2008 Bing Liu"
+         license="Creative Commons Attribution 4.0 International"
+	 licenseurl = "http://creativecommons.org/licenses/by/4.0/"
 	 webpage="http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets"
          unzip="1"
          />

@@ -1,6 +1,9 @@
-<package id="product_reviews_1" name="Product Reviews (5 Products)"
+<package id="product_reviews_1"
+	 name="Product Reviews (5 Products)"
+	 author="Bing Liu"
          copyright="Copyright (C) 2004 Bing Liu"
-         license="Creative Commons Attribution 4.0 International  [http://creativecommons.org/licenses/by/4.0/]"
+         license="Creative Commons Attribution 4.0 International"
+	 licenseurl = "http://creativecommons.org/licenses/by/4.0/"
 	 webpage="http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets"
          unzip="1"
          />

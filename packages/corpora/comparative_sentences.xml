@@ -1,5 +1,7 @@
-<package id="comparative_sentences" name="Comparative Sentence Dataset"
+<package id="comparative_sentences"
+	 name="Comparative Sentence Dataset"
          copyright="Copyright (C) 2006 Nitin Jindal and Bing Liu"
+	 author="Nitin Jindal and Bing Liu"
          license="Creative Commons Attribution 4.0 International"
 	 licenseurl = "http://creativecommons.org/licenses/by/4.0/"
 	 webpage="http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets"
