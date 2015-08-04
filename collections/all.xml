@@ -55,6 +55,7 @@
     <item ref="semcor"/>
     <item ref="senseval"/>
     <item ref="sentiwordnet"/>
+     <item ref="sentence_polarity"/>
     <item ref="shakespeare"/>
     <item ref="sinica_treebank"/>
     <item ref="smultron"/>
