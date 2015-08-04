@@ -1,0 +1,7 @@
+<package id="opinion_lexicon" name="Opinion Lexicon"
+         copyright="Copyright (C) 2011 Bing Liu"
+         license="Creative Commons Attribution 4.0 International"
+	 licenseurl = "http://creativecommons.org/licenses/by/4.0/"
+	 webpage="http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets"
+         unzip="1"
+         />
