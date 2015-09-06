@@ -69,4 +69,6 @@
     <item ref="words"/>
     <item ref="ycoe"/>
     <item ref="panlex_swadesh"/>
+    <item ref="mte_teip5"/>
 </collection>
+
