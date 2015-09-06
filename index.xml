@@ -37,6 +37,7 @@
     <package author="Machado de Assis" checksum="d186f7d6715479a8bec48b8b8030858e" id="machado" license="Public Domain" name="Machado de Assis -- Obra Completa" size="6151774" subdir="corpora" unzip="0" unzipped_size="14855338" url="http://www.nltk.org/nltk_data/packages/corpora/machado.zip" webpage="http://machado.mec.gov.br/" />
     <package author="Nancy Ide" checksum="a03d3ae8c6c2a1707885066e4d62582a" copyright="Copyright (C) 2014 American National Corpus" id="masc_tagged" license="This data may be used for the purposes of linguistic education, research, and development, including commercial development." name="MASC Tagged Corpus" size="1602143" subdir="corpora" unzip="0" unzipped_size="4963879" url="http://www.nltk.org/nltk_data/packages/corpora/masc_tagged.zip" webpage="http://www.anc.org/" />
     <package author="Bo Pang and Lillian Lee" checksum="155de2b77c6834dd8eea7cbe88e93acb" copyright="Copyright (C) 2004 Bo Pang and Lillian Lee" id="movie_reviews" license="Creative Commons Attribution 4.0 International" licenseurl="http://creativecommons.org/licenses/by/4.0/" name="Sentiment Polarity Dataset Version 2.0" size="4004848" subdir="corpora" unzip="1" unzipped_size="7790571" url="http://www.nltk.org/nltk_data/packages/corpora/movie_reviews.zip" webpage="http://www.cs.cornell.edu/people/pabo/movie-review-data/" />
+    <package author="Erjavec, Toma&#382;; Barbu, Ana-Maria; Derzhanski, Ivan; Dimitrova, Ludmila; Garab&#237;k, Radovan; Ide, Nancy; Kaalep, Heiki-Jaan; Kotsyba, Natalia; Krstev, Cvetana; Oravecz, Csaba; Petkevi&#269;, Vladim&#237;r; Priest-Dorman, Greg; QasemiZadeh, Behrang; Radziszewski, Adam; Simov, Kiril; Tufi&#351;, Dan and Zdravkova, Katerina" checksum="27aa12b3546cb241df8699506ab15128" id="mte_teip5" license="Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)" name="MULTEXT-East 1984 annotated corpus 4.0" size="14800561" subdir="corpora" unzip="0" unzipped_size="122461442" url="http://www.nltk.org/nltk_data/packages/corpora/mte_teip5.zip" webpage="https://www.clarin.si/repository/xmlui/handle/11356/1043" />
     <package author="Mark Kantrowitz and Bill Ross" checksum="93844d7c995ad28f40528c08a3430175" copyright="Copyright (C) 1991 Mark Kantrowitz" id="names" license="You may use the lists of names for any purpose, so long as credit is given in any published work. You may also redistribute the list if you provide the recipients with a copy of this README file. The lists are not in the public domain (I retain the copyright on the lists) but are freely redistributable.  If you have any additions to the lists of names, I would appreciate receiving them." name="Names Corpus, Version 1.3 (1994-03-29)" size="21326" subdir="corpora" unzip="1" unzipped_size="56572" url="http://www.nltk.org/nltk_data/packages/corpora/names.zip" webpage="http://www-2.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/" />
     <package checksum="1d0b08de34eba1f013ecb8169d2e3bec" contact="Adam Meyers" id="nombank.1.0" license="Distributed with permission" name="NomBank Corpus 1.0" size="6683763" subdir="corpora" unzip="0" unzipped_size="42327812" url="http://www.nltk.org/nltk_data/packages/corpora/nombank.1.0.zip" webpage="http://nlp.cs.nyu.edu/meyers/NomBank.html" />
     <package author="Craig Martell (cmartell@nps.edu)" checksum="72d1b905ba2be48d711690b012856c79" id="nps_chat" license="This corpus is distributed solely for non-commercial, non-profit educational and research use. It is a derivative compilation work of multiple works whose copyrights are held by the respective original authors." name="NPS Chat" size="301366" subdir="corpora" unzip="1" unzipped_size="2578726" url="http://www.nltk.org/nltk_data/packages/corpora/nps_chat.zip" webpage="http://faculty.nps.edu/cmartell/NPSChat.htm" />
@@ -172,6 +173,7 @@
       <item ref="words" />
       <item ref="ycoe" />
       <item ref="panlex_swadesh" />
+      <item ref="mte_teip5" />
     </collection>
     <collection id="all" name="All packages">
       <item ref="abc" />
@@ -271,6 +273,7 @@
       <item ref="bllip_wsj_no_aux" />
       <item ref="word2vec_sample" />
       <item ref="panlex_swadesh" />
+      <item ref="mte_teip5" />
     </collection>
     <collection id="book" name="Everything used in the NLTK Book">
       <item ref="abc" />
