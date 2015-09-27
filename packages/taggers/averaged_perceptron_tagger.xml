@@ -1,0 +1,5 @@
+<package id='averaged_perceptron_tagger' 
+         name='Averaged Perceptron Tagger'
+         languages="English"
+         unzip="1"
+         />
