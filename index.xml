@@ -96,6 +96,7 @@
     <package checksum="d1d1a23377f9ab4c12d77c7a078318ac" id="word2vec_sample" name="Word2Vec Sample" size="49396025" subdir="models" unzip="1" unzipped_size="138432415" url="http://www.nltk.org/nltk_data/packages/models/word2vec_sample.zip" webpage="https://code.google.com/p/word2vec/" />
     <package author="Viviane Moreira Orengo (vmorengo@inf.ufrgs.br) and Christian Huyck" checksum="648798996224694251834699fa6e55f7" id="rslp" languages="Portuguese" name="RSLP Stemmer (Removedor de Sufixos da Lingua Portuguesa)" size="3805" subdir="stemmers" unzip="1" unzipped_size="7269" url="http://www.nltk.org/nltk_data/packages/stemmers/rslp.zip" />
     <package checksum="cba1cf17b887789e6df5f2c87c6e56fb" id="snowball_data" languages="Danish, Dutch, English, Finnish, French, German,          Hungarian, Italian, Norwegian, Portuguese, Romanian, Russian,          Spanish, Swedish, Turkish" name="Snowball Data" size="6785405" subdir="stemmers" unzip="0" unzipped_size="36360836" url="http://www.nltk.org/nltk_data/packages/stemmers/snowball_data.zip" webpage="https://github.com/snowballstem/snowball-data" />
+    <package checksum="05c91d607ee1043181233365b3f76978" id="averaged_perceptron_tagger" languages="English" name="Averaged Perceptron Tagger" size="2526731" subdir="taggers" unzip="1" unzipped_size="6138625" url="http://www.nltk.org/nltk_data/packages/taggers/averaged_perceptron_tagger.zip" />
     <package checksum="b879eaf39f3dbb97c551e9df5db93ec9" id="hmm_treebank_pos_tagger" languages="English" name="Treebank Part of Speech Tagger (HMM)" size="750857" subdir="taggers" unzip="1" unzipped_size="750354" url="http://www.nltk.org/nltk_data/packages/taggers/hmm_treebank_pos_tagger.zip" />
     <package checksum="e3b8a5353056073e164c5b06d0cc1fa7" id="maxent_treebank_pos_tagger" languages="English" name="Treebank Part of Speech Tagger (Maximum entropy)" size="10156853" subdir="taggers" unzip="1" unzipped_size="17961132" url="http://www.nltk.org/nltk_data/packages/taggers/maxent_treebank_pos_tagger.zip" />
     <package checksum="9a30363dfc79250c9480663c761a7d82" id="universal_tagset" name="Mappings to the Universal Part-of-Speech Tagset" size="14390" subdir="taggers" unzip="1" unzipped_size="21552" url="http://www.nltk.org/nltk_data/packages/taggers/universal_tagset.zip" />
@@ -274,6 +275,7 @@
       <item ref="word2vec_sample" />
       <item ref="panlex_swadesh" />
       <item ref="mte_teip5" />
+      <item ref="averaged_perceptron_tagger.xml" />
     </collection>
     <collection id="book" name="Everything used in the NLTK Book">
       <item ref="abc" />
@@ -314,6 +316,7 @@
       <item ref="city_database" />
       <item ref="tagsets" />
       <item ref="panlex_swadesh" />
+      <item ref="averaged_perceptron_tagger.xml" />
     </collection>
   </collections>
 </nltk_data>
