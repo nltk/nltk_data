@@ -275,7 +275,7 @@
       <item ref="word2vec_sample" />
       <item ref="panlex_swadesh" />
       <item ref="mte_teip5" />
-      <item ref="averaged_perceptron_tagger.xml" />
+      <item ref="averaged_perceptron_tagger" />
     </collection>
     <collection id="book" name="Everything used in the NLTK Book">
       <item ref="abc" />
@@ -316,7 +316,7 @@
       <item ref="city_database" />
       <item ref="tagsets" />
       <item ref="panlex_swadesh" />
-      <item ref="averaged_perceptron_tagger.xml" />
+      <item ref="averaged_perceptron_tagger" />
     </collection>
   </collections>
 </nltk_data>
