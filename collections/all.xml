@@ -97,5 +97,5 @@
     <item ref="word2vec_sample"/>
     <item ref="panlex_swadesh"/>
     <item ref="mte_teip5"/>
-    <item ref="averaged_perceptron_tagger.xml"/>
+    <item ref="averaged_perceptron_tagger"/>
 </collection>
