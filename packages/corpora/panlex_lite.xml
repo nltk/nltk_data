@@ -1,0 +1,7 @@
+<package id="panlex_lite" name="PanLex Lite Corpus"
+         author="David Kamholz"
+         license="CC0 1.0 Universal"
+         webpage="http://panlex.org/"
+         unzip="1"
+         url="http://dev.panlex.org/db/panlex-lite-latest.zip"
+         />
