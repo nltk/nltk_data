@@ -27,5 +27,6 @@ s = s.decode("utf8")
 out = open(OUT, 'w')
 out.write(xml_header)
 out.write(s)
+out.write('\n')
 out.close()
 
