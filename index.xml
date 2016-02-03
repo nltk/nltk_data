@@ -41,10 +41,9 @@
     <package author="Mark Kantrowitz and Bill Ross" checksum="93844d7c995ad28f40528c08a3430175" copyright="Copyright (C) 1991 Mark Kantrowitz" id="names" license="You may use the lists of names for any purpose, so long as credit is given in any published work. You may also redistribute the list if you provide the recipients with a copy of this README file. The lists are not in the public domain (I retain the copyright on the lists) but are freely redistributable.  If you have any additions to the lists of names, I would appreciate receiving them." name="Names Corpus, Version 1.3 (1994-03-29)" size="21326" subdir="corpora" unzip="1" unzipped_size="56572" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/names.zip" webpage="http://www-2.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/" />
     <package checksum="1d0b08de34eba1f013ecb8169d2e3bec" contact="Adam Meyers" id="nombank.1.0" license="Distributed with permission" name="NomBank Corpus 1.0" size="6683763" subdir="corpora" unzip="0" unzipped_size="42327812" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/nombank.1.0.zip" webpage="http://nlp.cs.nyu.edu/meyers/NomBank.html" />
     <package author="Craig Martell (cmartell@nps.edu)" checksum="72d1b905ba2be48d711690b012856c79" id="nps_chat" license="This corpus is distributed solely for non-commercial, non-profit educational and research use. It is a derivative compilation work of multiple works whose copyrights are held by the respective original authors." name="NPS Chat" size="301366" subdir="corpora" unzip="1" unzipped_size="2578726" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/nps_chat.zip" webpage="http://faculty.nps.edu/cmartell/NPSChat.htm" />
-    <package checksum="4ac76e2048a86e16509c11cf95a90ab8" id="oanc_masc" license="Open Data: opendefinition.org." name="Open American National Corpus: Manually Annotated Sub-Corpus" size="10652413" subdir="corpora" unzip="0" unzipped_size="120937410" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/oanc_masc.zip" />
     <package author="Francis Bond" checksum="2206e933484adbeb01d09d8981786070" copyright="Please consult the copyright statements of the individual Wordnets" id="omw" license="Please consult the LICENSE files included with the individual Wordnets. Note that all permit redistribution." name="Open Multilingual Wordnet" size="11381206" subdir="corpora" unzip="1" unzipped_size="48320874" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/omw.zip" webpage="http://compling.hss.ntu.edu.sg/omw/" />
     <package author="Bing Liu" checksum="43a521f055063e001845b9d484a50173" copyright="Copyright (C) 2011 Bing Liu" id="opinion_lexicon" license="Creative Commons Attribution 4.0 International" licenseurl="http://creativecommons.org/licenses/by/4.0/" name="Opinion Lexicon" size="24947" subdir="corpora" unzip="1" unzipped_size="67865" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/opinion_lexicon.zip" webpage="http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets" />
-    <package author="David Kamholz" checksum="467faab25337a6e66d1533f83dfb8de5" id="panlex_lite" license="CC0 1.0 Universal" name="PanLex Lite Corpus" size="1798670125" subdir="corpora" unzip="1" unzipped_size="5410536433" url="http://dev.panlex.org/db/panlex_lite.zip" webpage="http://panlex.org/" />
+    <package author="David Kamholz" checksum="467faab25337a6e66d1533f83dfb8de5" id="panlex_lite" license="CC0 1.0 Universal" name="PanLex Lite Corpus" size="1798670125" subdir="corpora" unzip="1" unzipped_size="5410536433" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/panlex_lite.zip" webpage="http://panlex.org/" />
     <package author="Jonathan Pool (editor)" checksum="59a08f6c19d1d6d72cc03189983c8045" id="panlex_swadesh" license="CC0 1.0 Universal" name="PanLex Swadesh Corpora" size="2699578" subdir="corpora" unzip="0" unzipped_size="4103346" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/panlex_swadesh.zip" webpage="http://panlex.org/" />
     <package author="Cathy Bow, University of Melbourne" checksum="745ee9036c5ca3226be24c97515f5707" id="paradigms" license="Distributed with the permission of the author" name="Paradigm Corpus" size="24902" subdir="corpora" unzip="1" unzipped_size="361186" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/paradigms.zip" />
     <package checksum="e72135042dc48772acad309a6adbb6f0" id="pe08" license="Distributed with permission" name="Cross-Framework and Cross-Domain Parser Evaluation Shared Task" size="80735" subdir="corpora" unzip="1" unzipped_size="296619" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/pe08.zip" version="Release 3 (20 April 2008)" webpage=" http://www-tsujii.is.s.u-tokyo.ac.jp/pe08-st/" />
@@ -140,7 +139,6 @@
       <item ref="names" />
       <item ref="nombank.1.0" />
       <item ref="nps_chat" />
-      <item ref="oanc_masc" />
       <item ref="omw" />
       <item ref="paradigms" />
       <item ref="pil" />
@@ -217,7 +215,6 @@
       <item ref="names" />
       <item ref="nombank.1.0" />
       <item ref="nps_chat" />
-      <item ref="oanc_masc" />
       <item ref="omw" />
       <item ref="opinion_lexicon" />
       <item ref="paradigms" />
@@ -227,7 +224,6 @@
       <item ref="problem_reports" />
       <item ref="propbank" />
       <item ref="ptb" />
-      <item ref="oanc_masc" />
       <item ref="product_reviews_1" />
       <item ref="product_reviews_2" />
       <item ref="pros_cons" />
