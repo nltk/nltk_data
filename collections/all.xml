@@ -37,7 +37,6 @@
     <item ref="names"/>
     <item ref="nombank.1.0"/>
     <item ref="nps_chat"/>
-    <item ref="oanc_masc"/>
     <item ref="omw"/>
     <item ref="opinion_lexicon"/>   
     <item ref="paradigms"/>
@@ -47,7 +46,6 @@
     <item ref="problem_reports"/>
     <item ref="propbank"/>
     <item ref="ptb"/>
-    <item ref="oanc_masc"/>
     <item ref="product_reviews_1"/>
     <item ref="product_reviews_2"/>
     <item ref="pros_cons"/>
