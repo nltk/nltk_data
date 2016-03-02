@@ -1,0 +1,5 @@
+<package id="nonbreaking_prefixes" name="Non-Breaking Prefixes (Moses Decoder)"
+         webpage="https://github.com/moses-smt/mosesdecoder/tree/master/scripts/share/nonbreaking_prefixes"
+         license="Gnu LGPL"
+         unzip="1"
+         />
