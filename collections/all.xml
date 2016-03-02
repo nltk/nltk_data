@@ -99,4 +99,5 @@
     <item ref="panlex_lite"/>
     <item ref="perluniprops"/>
     <item ref="nonbreaking_prefixes"/>
+    <item ref="vader_lexicon"/>
 </collection>
