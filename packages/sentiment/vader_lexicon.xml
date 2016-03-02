@@ -1,0 +1,6 @@
+<package id="vader_lexicon" name="VADER Sentiment Lexicon"
+         author="C.J. Hutto and Eric Gilbert"
+         webpage="https://github.com/cjhutto/vaderSentiment"
+         license="MIT License"
+         unzip="0"
+         />
