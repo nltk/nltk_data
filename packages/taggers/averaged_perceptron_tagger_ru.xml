@@ -1,0 +1,6 @@
+<package id='averaged_perceptron_tagger_ru' 
+         name='Averaged Perceptron Tagger (Russian)'
+         webpage='http://www.ruscorpora.ru/en/'
+         languages="Russian"
+         unzip="1"
+         />
