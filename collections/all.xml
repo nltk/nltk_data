@@ -100,4 +100,5 @@
     <item ref="perluniprops"/>
     <item ref="nonbreaking_prefixes"/>
     <item ref="vader_lexicon"/>
+    <item ref="porter_test"/>
 </collection>
