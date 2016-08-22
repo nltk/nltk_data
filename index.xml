@@ -97,6 +97,7 @@
     <package checksum="715531d058ec253bd0683d0df23ec868" id="moses_sample" name="Moses Sample Models" size="10961490" subdir="models" unzip="1" unzipped_size="10985045" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/models/moses_sample.zip" webpage="http://www.statmt.org/moses/?n=Moses.SampleData" />
     <package checksum="d1d1a23377f9ab4c12d77c7a078318ac" id="word2vec_sample" name="Word2Vec Sample" size="49396025" subdir="models" unzip="1" unzipped_size="138432415" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/models/word2vec_sample.zip" webpage="https://code.google.com/p/word2vec/" />
     <package author="C.J. Hutto and Eric Gilbert" checksum="8b3824e2c39b655dd225fb266c8bea53" id="vader_lexicon" license="MIT License" name="VADER Sentiment Lexicon" size="90486" subdir="sentiment" unzip="0" unzipped_size="434147" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/sentiment/vader_lexicon.zip" webpage="https://github.com/cjhutto/vaderSentiment" />
+    <package checksum="6af70bbc602aecd18aa0b9cfa7be2aa1" id="porter_test" name="Porter Stemmer Test Files" size="200510" subdir="stemmers" unzip="1" unzipped_size="680060" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/stemmers/porter_test.zip" />
     <package author="Viviane Moreira Orengo (vmorengo@inf.ufrgs.br) and Christian Huyck" checksum="648798996224694251834699fa6e55f7" id="rslp" languages="Portuguese" name="RSLP Stemmer (Removedor de Sufixos da Lingua Portuguesa)" size="3805" subdir="stemmers" unzip="1" unzipped_size="7269" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/stemmers/rslp.zip" />
     <package checksum="cba1cf17b887789e6df5f2c87c6e56fb" id="snowball_data" languages="Danish, Dutch, English, Finnish, French, German,          Hungarian, Italian, Norwegian, Portuguese, Romanian, Russian,          Spanish, Swedish, Turkish" name="Snowball Data" size="6785405" subdir="stemmers" unzip="0" unzipped_size="36360836" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/stemmers/snowball_data.zip" webpage="https://github.com/snowballstem/snowball-data" />
     <package checksum="05c91d607ee1043181233365b3f76978" id="averaged_perceptron_tagger" languages="English" name="Averaged Perceptron Tagger" size="2526731" subdir="taggers" unzip="1" unzipped_size="6138625" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/taggers/averaged_perceptron_tagger.zip" />
@@ -283,6 +284,7 @@
       <item ref="perluniprops" />
       <item ref="nonbreaking_prefixes" />
       <item ref="vader_lexicon" />
+      <item ref="porter_test" />
     </collection>
     <collection id="book" name="Everything used in the NLTK Book">
       <item ref="abc" />
