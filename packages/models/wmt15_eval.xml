@@ -1,0 +1,5 @@
+<package id="wmt15_eval"
+         name="Evaluation data from WMT15"
+         webpage="http://www.statmt.org/wmt15/"
+         unzip="1"
+         />

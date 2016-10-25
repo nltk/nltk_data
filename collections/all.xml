@@ -101,4 +101,5 @@
     <item ref="nonbreaking_prefixes"/>
     <item ref="vader_lexicon"/>
     <item ref="porter_test"/>
+    <item ref="wmt15_eval"/>
 </collection>
