@@ -95,6 +95,7 @@
     <package checksum="7f2d9aaceb881e3bd2d3576e9c5bace9" id="perluniprops" license="" name="perluniprops: Index of Unicode Version 7.0.0 character properties in Perl" size="48770" subdir="misc" unzip="1" unzipped_size="74568" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/misc/perluniprops.zip" webpage="http://perldoc.perl.org/perluniprops.html" />
     <package checksum="51d0c9c288b4f790bf255b5c9c3533ab" id="bllip_wsj_no_aux" name="BLLIP Parser: WSJ Model" size="24516205" subdir="models" unzip="1" unzipped_size="54298623" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/models/bllip_wsj_no_aux.zip" webpage="http://nlp.stanford.edu/~mcclosky/models/" />
     <package checksum="715531d058ec253bd0683d0df23ec868" id="moses_sample" name="Moses Sample Models" size="10961490" subdir="models" unzip="1" unzipped_size="10985045" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/models/moses_sample.zip" webpage="http://www.statmt.org/moses/?n=Moses.SampleData" />
+    <package checksum="2067e40eaf94ccb632007b91073aa433" id="wmt15_eval" name="Evaluation data from WMT15" size="383096" subdir="models" unzip="1" unzipped_size="1247631" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/models/wmt15_eval.zip" webpage="http://www.statmt.org/wmt15/" />
     <package checksum="d1d1a23377f9ab4c12d77c7a078318ac" id="word2vec_sample" name="Word2Vec Sample" size="49396025" subdir="models" unzip="1" unzipped_size="138432415" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/models/word2vec_sample.zip" webpage="https://code.google.com/p/word2vec/" />
     <package author="C.J. Hutto and Eric Gilbert" checksum="8b3824e2c39b655dd225fb266c8bea53" id="vader_lexicon" license="MIT License" name="VADER Sentiment Lexicon" size="90486" subdir="sentiment" unzip="0" unzipped_size="434147" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/sentiment/vader_lexicon.zip" webpage="https://github.com/cjhutto/vaderSentiment" />
     <package checksum="6af70bbc602aecd18aa0b9cfa7be2aa1" id="porter_test" name="Porter Stemmer Test Files" size="200510" subdir="stemmers" unzip="1" unzipped_size="680060" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/stemmers/porter_test.zip" />
@@ -285,6 +286,7 @@
       <item ref="nonbreaking_prefixes" />
       <item ref="vader_lexicon" />
       <item ref="porter_test" />
+      <item ref="wmt15_eval" />
     </collection>
     <collection id="book" name="Everything used in the NLTK Book">
       <item ref="abc" />
