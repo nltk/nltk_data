@@ -7,6 +7,7 @@ chat80,chat80,Chat-80 Database,,,chat80.py,University of Pennsylvania,,http://ww
 cmudict,cmudict,Carnegie Mellon Pronouncing Dictionary,,,cmudict.py,,,,,
 conll2000,conll2000,CoNLL 2000 Chunking Corpus,,,conll2000.py,,,,,
 conll2002,conll2002,CoNLL 2002 NER Corpus,Dutch::Spanish,,conll2002.py,,,,,
+dolch,dolch,Dolch Word List,,,,,,,,
 genesis,genesis,Genesis Corpus,,,genesis.py,,,,,
 gutenberg,gutenberg,Project Gutenberg Selections,,,gutenberg.py,,,,,
 ieer,ieer,NIST 1999 Information Extraction ,Entity Recognition Corpus,,ieer.py,,,,,
