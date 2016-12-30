@@ -19,6 +19,7 @@
     <item ref="europarl_raw"/>
     <item ref="floresta"/>
     <item ref="framenet_v15"/>
+    <item ref="framenet_v17"/>
     <item ref="gazetteers"/>
     <item ref="genesis"/>
     <item ref="gutenberg"/>
