@@ -185,6 +185,7 @@
       <item ref="mte_teip5" />
       <item ref="panlex_lite" />
       <item ref="nonbreaking_prefixes" />
+      <item ref='mwa_ppdb' />
     </collection>
     <collection id="all" name="All packages">
       <item ref="abc" />
@@ -332,6 +333,7 @@
       <item ref="tagsets" />
       <item ref="panlex_swadesh" />
       <item ref="averaged_perceptron_tagger" />
+      <item ref='mwa_ppdb' />
     </collection>
   </collections>
 </nltk_data>
