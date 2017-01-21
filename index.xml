@@ -292,6 +292,7 @@
       <item ref="vader_lexicon" />
       <item ref="porter_test" />
       <item ref="wmt15_eval" />
+      <item ref='mwa_ppdb' />
     </collection>
     <collection id="book" name="Everything used in the NLTK Book">
       <item ref="abc" />
