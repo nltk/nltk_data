@@ -1,0 +1,5 @@
+<package id="mwa_ppdb" name="The monolingual word aligner (Sultan et al. 2015) subset of the Paraphrase Database."
+         webpage="http://www.cis.upenn.edu/~ccb/ppdb/"
+         license="Creative Commons Attribution 3.0 Unported (CC-BY)"
+         unzip="1"
+         />
