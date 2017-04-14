@@ -1,0 +1,4 @@
+<package id="dolch" name="Dolch Word List"
+         webpage="https://en.wikipedia.org/wiki/Dolch_word_list"
+         unzip="1"
+         />

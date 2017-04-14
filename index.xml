@@ -20,6 +20,7 @@
     <package checksum="b9015928e35c41f0695525289df5208f" contact="Kepa Sarasola" copyright="Copyright (C) 2007 The University of the Basque Country" id="conll2007" license="Creative Commons Attribution-NonCommercial-NoDerivativeWorks license" name="Dependency Treebanks from CoNLL 2007 (Catalan and Basque Subset)" size="1242958" subdir="corpora" unzip="0" unzipped_size="6399295" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/conll2007.zip" webpage="http://nextens.uvt.nl/depparse-wiki/DataDownload" />
     <package author="Kevin Scannell" checksum="3cc831382dec41b8d9a06d93ef300352" copyright="Copyright (C) 2010 Kevin Scannell" id="crubadan" license="GPLv3" name="Crubadan Corpus" size="5288655" subdir="corpora" unzip="1" unzipped_size="11256183" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/crubadan.zip" webpage="http://borel.slu.edu/crubadan/" />
     <package checksum="631e959acaa42eea718daf04c5cdfa76" copyright="Copyright (C) 1995 University of Pennsylvania" id="dependency_treebank" license="This is a 10% fragment of Penn Treebank, (C) LDC 1995, which has been dependency parsed.  It is made available under fair use for the purposes of illustrating NLTK tools for tokenizing, tagging, chunking and parsing.  This data is for non-commercial use only." name="Dependency Parsed Treebank" sample="True" size="457429" subdir="corpora" unzip="1" unzipped_size="1069540" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/dependency_treebank.zip" />
+    <package checksum="6f9c042774b96366c93fd0f9a9adb697" id="dolch" name="Dolch Word List" size="2116" subdir="corpora" unzip="1" unzipped_size"1917" url="https://en.wikipedia.org/wiki/Dolch_word_list" />
     <package author="Philipp Koehn, University of Edinburgh" checksum="7621d5675990b1decc012c823716ee76" id="europarl_raw" name="Sample European Parliament Proceedings Parallel Corpus" size="12594977" subdir="corpora" unzip="1" unzipped_size="41396100" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/europarl_raw.zip" webpage="http://www.statmt.org/europarl" />
     <package checksum="de5f1df09949f080e0f616f0bc55967d" id="floresta" license="Non-commercial use only" name="Portuguese Treebank" size="1882021" subdir="corpora" unzip="1" unzipped_size="16414136" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/floresta.zip" webpage="http://www.linguateca.pt/Floresta/" />
     <package author="Collin F. Baker" checksum="cf68365950b2f048bcb48619de81f50a" id="framenet_v15" license="May be used for non-commercial purposes." name="FrameNet 1.5" size="69337891" subdir="corpora" unzip="1" unzipped_size="579133737" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/framenet_v15.zip" webpage="http://framenet.icsi.berkeley.edu" />
@@ -128,6 +129,7 @@
       <item ref="conll2007" />
       <item ref="crubadan" />
       <item ref="dependency_treebank" />
+      <item ref="dolch" />
       <item ref="floresta" />
       <item ref="framenet_v15" />
       <item ref="framenet_v17" />
@@ -204,6 +206,7 @@
       <item ref="conll2007" />
       <item ref="crubadan" />
       <item ref="dependency_treebank" />
+      <item ref="dolch" />
       <item ref="europarl_raw" />
       <item ref="floresta" />
       <item ref="framenet_v15" />

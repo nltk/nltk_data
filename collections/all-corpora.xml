@@ -15,6 +15,7 @@
     <item ref="conll2007"/>
     <item ref="crubadan"/>
     <item ref="dependency_treebank"/>
+    <item ref="dolch"/>
     <item ref="floresta"/>
     <item ref="framenet_v15"/>
     <item ref="framenet_v17"/>
