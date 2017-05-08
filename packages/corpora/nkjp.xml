@@ -1,0 +1,7 @@
+<package id="nkjp" name="National Corpus of Polish"
+         copyright="Copyright (C) 2008-2012 Narodowy Korpus Języka Polskiego"
+         author="Instytut Podstaw Informatyki PAN"
+         license="GNU GPL v. 3"
+         webpage="http://nkjp.pl"
+         unzip="1"
+         />
