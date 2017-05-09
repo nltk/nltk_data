@@ -1,0 +1,23 @@
+<collection id="popular" name="All the popular corpora and models">
+    <item ref="abc"/>
+    <item ref="alpino"/>
+    <item ref="brown"/>
+    <item ref="cess_cat"/>
+    <item ref="cess_esp"/>
+    <item ref="cmudict"/>
+    <item ref="dependency_treebank"/>
+    <item ref="gazetteers"/>
+    <item ref="genesis"/>
+    <item ref="gutenberg"/>
+    <item ref="inaugural"/>
+    <item ref="indian"/>
+    <item ref="movie_reviews"/>
+    <item ref="names"/>
+    <item ref="omw"/>
+    <item ref="ptb"/>
+    <item ref="shakespeare"/>
+    <item ref="stopwords"/>
+    <item ref="treebank"/>
+    <item ref="wordnet"/>
+    <item ref="words"/>
+</collection>
