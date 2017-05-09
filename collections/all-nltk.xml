@@ -1,4 +1,4 @@
-<collection id="all" name="All packages">
+<collection id="all-nltk" name="All packages available on nltk_data gh-pages branch">
     <item ref="abc"/>
     <item ref="alpino"/>
     <item ref="biocreative_ppi"/>
