@@ -1,4 +1,4 @@
-<collection id="all" name="Popular packages">
+<collection id="popular" name="Popular packages">
     <item ref="cmudict"/>
     <item ref="gazetteers"/>
     <item ref="genesis"/>
