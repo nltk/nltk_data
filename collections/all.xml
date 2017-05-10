@@ -98,7 +98,6 @@
     <item ref="panlex_swadesh"/>
     <item ref="mte_teip5"/>
     <item ref="averaged_perceptron_tagger"/>
-    <item ref="panlex_lite"/>
     <item ref="perluniprops"/>
     <item ref="nonbreaking_prefixes"/>
     <item ref="vader_lexicon"/>
