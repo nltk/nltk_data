@@ -463,7 +463,6 @@
     </collection>
     <collection id="third-party" name="Third-party data packages">
       <item ref="dolch" />
-      <item ref="panlex_lite" />
     </collection>
   </collections>
 </nltk_data>
