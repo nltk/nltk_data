@@ -2,295 +2,155 @@
 <?xml-stylesheet href="index.xsl" type="text/xsl"?>
 <nltk_data>
   <packages>
-    <package checksum="d577c2cd0fdae148b36d046b14eb48e6" id="maxent_ne_chunker" languages="English" name="ACE Named Entity Chunker (Maximum entropy)" size="13404747" subdir="chunkers" unzip="1" unzipped_size="23604982" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/chunkers/maxent_ne_chunker.zip" />
-    <package author="Australian Broadcasting Commission" checksum="ffb36b67ff24cbf7daaf171c897eb904" id="abc" name="Australian Broadcasting Commission 2006" size="1487851" subdir="corpora" unzip="1" unzipped_size="4054966" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/abc.zip" webpage="http://www.abc.net.au/" />
-    <package checksum="ae529a1c5f13d6074f5b0d68d8edb537" contact="Gertjan van Noord" id="alpino" license="Distributed with permission of Gertjan van Noord" name="Alpino Dutch Treebank" size="2797255" subdir="corpora" unzip="1" unzipped_size="21604821" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/alpino.zip" webpage="http://www.let.rug.nl/~vannoord/trees/" />
-    <package checksum="d3be36b53ab201372f1cd63ffc75e9a9" copyright="Public Domain (not copyrighted)" id="biocreative_ppi" license="Public Domain" name="BioCreAtIvE (Critical Assessment of Information Extraction Systems in Biology)" size="223566" subdir="corpora" unzip="1" unzipped_size="1537086" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/biocreative_ppi.zip" webpage="http://www.mitre.org/public/biocreative/" />
-    <package author="W. N. Francis and H. Kucera" checksum="a0a8630959d3d937873b1265b0a05497" id="brown" license="May be used for non-commercial purposes." name="Brown Corpus" size="3314357" subdir="corpora" unzip="1" unzipped_size="10117565" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/brown.zip" webpage="http://www.hit.uib.no/icame/brown/bcm.html" />
-    <package author="W. N. Francis and H. Kucera" checksum="3c7fe43ebf0a4c7ad3ebb63dab027e09" contact="Lou Burnard -- lou.burnard@oucs.ox.ac.uk" id="brown_tei" license="May be used for non-commercial purposes." name="Brown Corpus (TEI XML Version)" size="8737738" subdir="corpora" unzip="1" unzipped_size="56814689" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/brown_tei.zip" webpage="http://www.hit.uib.no/icame/brown/bcm.html" />
-    <package checksum="e91ac59ec6e98e3b297e2d2eab83084d" id="cess_cat" license="If you use these corpora for research, please cite thusly: CESS-Cat project (M. Antonia Mart&#237;, MarionaTaul&#233;, Llu&#237;s M&#225;rquez, Manuel Bertran (2007) ?CESS-ECE: A Multilingual and Multilevel Annotated Corpus? in http://www.lsi.upc.edu/~mbertran/cess-ece/publications)." name="CESS-CAT Treebank" size="5396688" subdir="corpora" unzip="1" unzipped_size="33720460" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/cess_cat.zip" webpage="http://clic.ub.edu/cessece/" />
-    <package checksum="684432d4f6384b8f0bd19fee5dc15925" id="cess_esp" license="If you use these corpora for research, please cite thusly: CESS-Cat project (M. Antonia Mart&#237;, MarionaTaul&#233;, Llu&#237;s M&#225;rquez, Manuel Bertran (2007) ?CESS-ECE: A Multilingual and Multilevel Annotated Corpus? in http://www.lsi.upc.edu/~mbertran/cess-ece/publications)." name="CESS-ESP Treebank" size="2220392" subdir="corpora" unzip="1" unzipped_size="13233272" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/cess_esp.zip" webpage="http://clic.ub.edu/cessece/" />
-    <package author="David Warren and Fernando Pereira" checksum="6832873fe92996846ac5bb21c5d84eb8" copyright="Copyright (C) 1982 David Warren and Fernando Pereira" id="chat80" license="This program may be used, copied, altered or included in other programs only for academic purposes and provided that the authorship of the initial program is aknowledged.  Use for commercial purposes without the previous written agreement of the authors is forbidden." name="Chat-80 Data Files" size="19209" subdir="corpora" unzip="1" unzipped_size="63817" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/chat80.zip" webpage="http://www.cis.upenn.edu/~pereira/oldies.html" />
-    <package checksum="29cbf1aa02ad8abc72dd955fe74f882c" id="city_database" name="City Database" note="A very small database of information about cities" size="1708" subdir="corpora" unzip="1" unzipped_size="4096" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/city_database.zip" />
-    <package checksum="58f743ff818b983b89ef9302b509fc41" copyright="Copyright 1998 Carnegie Mellon University" id="cmudict" license="Use of this dictionary, for any research or commercial purpose, is completely unrestricted.  If you use or redistribute this material, we would appreciate acknowlegement of its origin." name="The Carnegie Mellon Pronouncing Dictionary (0.6)" size="896069" subdir="corpora" unzip="1" unzipped_size="3824638" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/cmudict.zip" webpage="ftp://ftp.cs.cmu.edu/project/speech/dict/" />
-    <package author="Nitin Jindal and Bing Liu" checksum="df2d005f455afb760fa37d7f565400f1" copyright="Copyright (C) 2006 Nitin Jindal and Bing Liu" id="comparative_sentences" license="Creative Commons Attribution 4.0 International" licenseurl="http://creativecommons.org/licenses/by/4.0/" name="Comparative Sentence Dataset" size="279121" subdir="corpora" unzip="1" unzipped_size="774200" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/comparative_sentences.zip" webpage="http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets" />
-    <package author="Reinhard Rapp" checksum="8e1e34e2f052d8188fd877b2c821b42d" id="comtrans" name="ComTrans Corpus Sample" size="11904518" subdir="corpora" unzip="0" unzipped_size="35387522" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/comtrans.zip" webpage="http://www.fask.uni-mainz.de/user/rapp/comtrans/" />
-    <package checksum="9529b285edd5fe47271da69df1052301" contact="Erik Tjong Kim Sang (erikt@uia.ua.ac.be)" id="conll2000" name="CONLL 2000 Chunking Corpus" size="756607" subdir="corpora" unzip="1" unzipped_size="3495903" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/conll2000.zip" webpage="http://www.cnts.ua.ac.be/conll2000/chunking/" />
-    <package checksum="67bb4ca75fa81544d42a159524726e78" id="conll2002" name="CONLL 2002 Named Entity Recognition Corpus" size="1867449" subdir="corpora" unzip="1" unzipped_size="7785638" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/conll2002.zip" webpage="http://www.cnts.ua.ac.be/conll2002/ner/" />
-    <package checksum="b9015928e35c41f0695525289df5208f" contact="Kepa Sarasola" copyright="Copyright (C) 2007 The University of the Basque Country" id="conll2007" license="Creative Commons Attribution-NonCommercial-NoDerivativeWorks license" name="Dependency Treebanks from CoNLL 2007 (Catalan and Basque Subset)" size="1242958" subdir="corpora" unzip="0" unzipped_size="6399295" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/conll2007.zip" webpage="http://nextens.uvt.nl/depparse-wiki/DataDownload" />
-    <package author="Kevin Scannell" checksum="3cc831382dec41b8d9a06d93ef300352" copyright="Copyright (C) 2010 Kevin Scannell" id="crubadan" license="GPLv3" name="Crubadan Corpus" size="5288655" subdir="corpora" unzip="1" unzipped_size="11256183" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/crubadan.zip" webpage="http://borel.slu.edu/crubadan/" />
-    <package checksum="631e959acaa42eea718daf04c5cdfa76" copyright="Copyright (C) 1995 University of Pennsylvania" id="dependency_treebank" license="This is a 10% fragment of Penn Treebank, (C) LDC 1995, which has been dependency parsed.  It is made available under fair use for the purposes of illustrating NLTK tools for tokenizing, tagging, chunking and parsing.  This data is for non-commercial use only." name="Dependency Parsed Treebank" sample="True" size="457429" subdir="corpora" unzip="1" unzipped_size="1069540" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/dependency_treebank.zip" />
-    <package checksum="6f9c042774b96366c93fd0f9a9adb697" id="dolch" name="Dolch Word List" size="2116" subdir="corpora" unzip="1" unzipped_size="1917" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/dolch.zip" webpage="https://en.wikipedia.org/wiki/Dolch_word_list" />
-    <package author="Philipp Koehn, University of Edinburgh" checksum="7621d5675990b1decc012c823716ee76" id="europarl_raw" name="Sample European Parliament Proceedings Parallel Corpus" size="12594977" subdir="corpora" unzip="1" unzipped_size="41396100" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/europarl_raw.zip" webpage="http://www.statmt.org/europarl" />
-    <package checksum="de5f1df09949f080e0f616f0bc55967d" id="floresta" license="Non-commercial use only" name="Portuguese Treebank" size="1882021" subdir="corpora" unzip="1" unzipped_size="16414136" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/floresta.zip" webpage="http://www.linguateca.pt/Floresta/" />
-    <package author="Collin F. Baker" checksum="cf68365950b2f048bcb48619de81f50a" id="framenet_v15" license="May be used for non-commercial purposes." name="FrameNet 1.5" size="69337891" subdir="corpora" unzip="1" unzipped_size="579133737" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/framenet_v15.zip" webpage="http://framenet.icsi.berkeley.edu" />
-    <package author="Collin F. Baker" checksum="aaef1cfdcf37000cf2a5c562407fbddb" id="framenet_v17" license="May be used for non-commercial purposes." name="FrameNet 1.7" size="99207152" subdir="corpora" unzip="1" unzipped_size="855026962" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/framenet_v17.zip" webpage="http://framenet.icsi.berkeley.edu" />
-    <package checksum="1dd15c714a2be985c482a13d90e9caa4" id="gazetteers" license="GNU Free Documentation License; or public domain (depending on the file)" name="Gazeteer Lists" size="8265" subdir="corpora" unzip="1" unzipped_size="12711" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/gazetteers.zip" />
-    <package checksum="2a76432753c01fe179684e0ae3a4d023" copyright="public domain" id="genesis" license="public domain" name="Genesis Corpus" size="473239" subdir="corpora" unzip="1" unzipped_size="1426122" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/genesis.zip" />
-    <package checksum="48c9c8605cd70b0230687557ee543633" copyright="public domain" id="gutenberg" license="public domain" name="Project Gutenberg Selections" size="4251829" subdir="corpora" unzip="1" unzipped_size="11802669" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/gutenberg.zip" webpage="http://gutenberg.net/" />
-    <package checksum="34157f569624bc8d642ef8da5722b14a" id="ieer" name="NIST IE-ER DATA SAMPLE" size="166156" subdir="corpora" unzip="1" unzipped_size="541349" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/ieer.zip" webpage="http://www.itl.nist.gov/iad/894.01/tests/ie-er/er_99/er_99.htm" />
-    <package checksum="54af23bfe81ee22b2d0cc0e28c8399e1" copyright="public domain" id="inaugural" license="public domain" name="C-Span Inaugural Address Corpus" size="321354" subdir="corpora" unzip="1" unzipped_size="773075" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/inaugural.zip" />
-    <package author="A Kumaran" checksum="599a684793935ecbcf8276133945037c" id="indian" license="Distributed with permission" name="Indian Language POS-Tagged Corpus" size="199187" subdir="corpora" unzip="1" unzipped_size="1091033" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/indian.zip" />
-    <package checksum="96e30423d6887fad17fc44f2f30d920d" id="jeita" license="Freely re-distributable under the same license as the original JEITA corpus. Each document retains its own license from Aozora bunko and Project Sugita Genpaku." name="JEITA Public Morphologically Tagged Corpus (in ChaSen format)" size="16531215" subdir="corpora" unzip="0" unzipped_size="134170650" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/jeita.zip" webpage="http://lilyx.net/pages/nltkjapanesecorpus.html" />
-    <package checksum="68a8716e0233ad9c0ed0947952e4eb3e" id="kimmo" name="PC-KIMMO Data Files" size="186958" subdir="corpora" unzip="1" unzipped_size="814609" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/kimmo.zip" webpage="http://www.sil.org/pckimmo/" />
-    <package checksum="992f8a3647f333e28a9958eba4bd67c7" id="knbc" license="Freely re-distributable under the same license as the original KNB Corpus." name="KNB Corpus (Annotated blog corpus)" size="8760788" subdir="corpora" unzip="0" unzipped_size="23601139" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/knbc.zip" webpage="http://lilyx.net/pages/nltkjapanesecorpus.html" />
-    <package author="Dekang Lin" checksum="288cc15e4ed257c8598d6f7a30199db9" id="lin_thesaurus" license="Distributed with permission of Dekang Lin" name="Lin's Dependency Thesaurus" size="89154019" subdir="corpora" unzip="1" unzipped_size="210421609" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/lin_thesaurus.zip" webpage="http://webdocs.cs.ualberta.ca/~lindek/downloads.htm" />
-    <package checksum="cf216ae5b37cca24866909f8594c5395" id="mac_morpho" license="Distributed with permission of N&#250;cleo Interinstitucional de Ling&#252;&#237;stica Computacional (NILC), Universidade de S&#227;o Paulo (USP) in S&#227;o Carlos, Universidade Federal de S&#227;o Carlos (UFSCar), Universidade Estadual Paulista (UNESP) of Araraquara." name="MAC-MORPHO: Brazilian Portuguese news text with part-of-speech tags" size="3013904" subdir="corpora" unzip="1" unzipped_size="10941402" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/mac_morpho.zip" webpage="http://www.nilc.icmc.usp.br/lacioweb/" />
-    <package author="Machado de Assis" checksum="d186f7d6715479a8bec48b8b8030858e" id="machado" license="Public Domain" name="Machado de Assis -- Obra Completa" size="6151774" subdir="corpora" unzip="0" unzipped_size="14855338" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/machado.zip" webpage="http://machado.mec.gov.br/" />
-    <package author="Nancy Ide" checksum="a03d3ae8c6c2a1707885066e4d62582a" copyright="Copyright (C) 2014 American National Corpus" id="masc_tagged" license="This data may be used for the purposes of linguistic education, research, and development, including commercial development." name="MASC Tagged Corpus" size="1602143" subdir="corpora" unzip="0" unzipped_size="4963879" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/masc_tagged.zip" webpage="http://www.anc.org/" />
-    <package author="Bo Pang and Lillian Lee" checksum="155de2b77c6834dd8eea7cbe88e93acb" copyright="Copyright (C) 2004 Bo Pang and Lillian Lee" id="movie_reviews" license="Creative Commons Attribution 4.0 International" licenseurl="http://creativecommons.org/licenses/by/4.0/" name="Sentiment Polarity Dataset Version 2.0" size="4004848" subdir="corpora" unzip="1" unzipped_size="7790571" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/movie_reviews.zip" webpage="http://www.cs.cornell.edu/people/pabo/movie-review-data/" />
-    <package author="Erjavec, Toma&#382;; Barbu, Ana-Maria; Derzhanski, Ivan; Dimitrova, Ludmila; Garab&#237;k, Radovan; Ide, Nancy; Kaalep, Heiki-Jaan; Kotsyba, Natalia; Krstev, Cvetana; Oravecz, Csaba; Petkevi&#269;, Vladim&#237;r; Priest-Dorman, Greg; QasemiZadeh, Behrang; Radziszewski, Adam; Simov, Kiril; Tufi&#351;, Dan and Zdravkova, Katerina" checksum="27aa12b3546cb241df8699506ab15128" id="mte_teip5" license="Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)" name="MULTEXT-East 1984 annotated corpus 4.0" size="14800561" subdir="corpora" unzip="1" unzipped_size="122461442" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/mte_teip5.zip" webpage="https://www.clarin.si/repository/xmlui/handle/11356/1043" />
-    <package author="Mark Kantrowitz and Bill Ross" checksum="93844d7c995ad28f40528c08a3430175" copyright="Copyright (C) 1991 Mark Kantrowitz" id="names" license="You may use the lists of names for any purpose, so long as credit is given in any published work. You may also redistribute the list if you provide the recipients with a copy of this README file. The lists are not in the public domain (I retain the copyright on the lists) but are freely redistributable.  If you have any additions to the lists of names, I would appreciate receiving them." name="Names Corpus, Version 1.3 (1994-03-29)" size="21326" subdir="corpora" unzip="1" unzipped_size="56572" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/names.zip" webpage="http://www-2.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/" />
-    <package checksum="1d0b08de34eba1f013ecb8169d2e3bec" contact="Adam Meyers" id="nombank.1.0" license="Distributed with permission" name="NomBank Corpus 1.0" size="6683763" subdir="corpora" unzip="0" unzipped_size="42327812" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/nombank.1.0.zip" webpage="http://nlp.cs.nyu.edu/meyers/NomBank.html" />
-    <package checksum="5b2818385ebdb7887890a25396aadc90" id="nonbreaking_prefixes" license="Gnu LGPL" name="Non-Breaking Prefixes (Moses Decoder)" size="22864" subdir="corpora" unzip="1" unzipped_size="43190" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/nonbreaking_prefixes.zip" webpage="https://github.com/moses-smt/mosesdecoder/tree/master/scripts/share/nonbreaking_prefixes" />
-    <package author="Craig Martell (cmartell@nps.edu)" checksum="72d1b905ba2be48d711690b012856c79" id="nps_chat" license="This corpus is distributed solely for non-commercial, non-profit educational and research use. It is a derivative compilation work of multiple works whose copyrights are held by the respective original authors." name="NPS Chat" size="301366" subdir="corpora" unzip="1" unzipped_size="2578726" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/nps_chat.zip" webpage="http://faculty.nps.edu/cmartell/NPSChat.htm" />
-    <package author="Francis Bond" checksum="2206e933484adbeb01d09d8981786070" copyright="Please consult the copyright statements of the individual Wordnets" id="omw" license="Please consult the LICENSE files included with the individual Wordnets. Note that all permit redistribution." name="Open Multilingual Wordnet" size="11381206" subdir="corpora" unzip="1" unzipped_size="48320874" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/omw.zip" webpage="http://compling.hss.ntu.edu.sg/omw/" />
-    <package author="Bing Liu" checksum="43a521f055063e001845b9d484a50173" copyright="Copyright (C) 2011 Bing Liu" id="opinion_lexicon" license="Creative Commons Attribution 4.0 International" licenseurl="http://creativecommons.org/licenses/by/4.0/" name="Opinion Lexicon" size="24947" subdir="corpora" unzip="1" unzipped_size="67865" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/opinion_lexicon.zip" webpage="http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets" />
-    <package author="Jonathan Pool (editor)" checksum="66dd080f09ac17db3d31bb4d667d0794" id="panlex_swadesh" license="CC0 1.0 Universal" name="PanLex Swadesh Corpora" size="2861668" subdir="corpora" unzip="0" unzipped_size="4418150" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/panlex_swadesh.zip" webpage="http://panlex.org/" />
-    <package author="Cathy Bow, University of Melbourne" checksum="745ee9036c5ca3226be24c97515f5707" id="paradigms" license="Distributed with the permission of the author" name="Paradigm Corpus" size="24902" subdir="corpora" unzip="1" unzipped_size="361186" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/paradigms.zip" />
-    <package checksum="e72135042dc48772acad309a6adbb6f0" id="pe08" license="Distributed with permission" name="Cross-Framework and Cross-Domain Parser Evaluation Shared Task" size="80735" subdir="corpora" unzip="1" unzipped_size="296619" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/pe08.zip" version="Release 3 (20 April 2008)" webpage=" http://www-tsujii.is.s.u-tokyo.ac.jp/pe08-st/" />
-    <package checksum="d07b2ca7b5b351a24f4db8ae8fbc9e98" id="pil" license="Distributed with permission" name="The Patient Information Leaflet (PIL) Corpus" size="1510205" subdir="corpora" unzip="1" unzipped_size="4170899" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/pil.zip" version="Version 2.0 (31 March 2006)" webpage="http://mcs.open.ac.uk/nlg/old_projects/pills/corpus/" />
-    <package author="I. Kurcz, A. Lewicki, J. Sambor, K. Szafran, J. Woronczak" checksum="bcbdcf0fc2420fac238ca17dc7bfe423" id="pl196x" license="GNU General Public License" name="Polish language of the XX century sixties" size="7051453" subdir="corpora" unzip="1" unzipped_size="58299303" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/pl196x.zip" webpage="http://www.mimuw.edu.pl/polszczyzna/pl196x/index_en.htm" />
-    <package author="Adwait Ratnaparkhi" checksum="cce212b7ace8e64722ba2f41f802a5d0" copyright="(C) 1994 Adwait Ratnaparkhi" id="ppattach" license="Distributed with the permission of the author." name="Prepositional Phrase Attachment Corpus" size="781714" subdir="corpora" unzip="1" unzipped_size="3113650" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/ppattach.zip" webpage="ftp://ftp.cis.upenn.edu/pub/adwait/PPattachData/" />
-    <package author="Andrew Ko, Carnegie Mellon University" checksum="8781ace4c0a181c5875cdbfc01e895fb" id="problem_reports" name="Problem Report Corpus" size="1032942" subdir="corpora" unzip="1" unzipped_size="3467763" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/problem_reports.zip" webpage="http://www.cs.cmu.edu/~marmalade/reports.html" />
-    <package author="Bing Liu" checksum="c13be66052027a4605ca456d7cda0917" copyright="Copyright (C) 2004 Bing Liu" id="product_reviews_1" license="Creative Commons Attribution 4.0 International" licenseurl="http://creativecommons.org/licenses/by/4.0/" name="Product Reviews (5 Products)" size="141287" subdir="corpora" unzip="1" unzipped_size="396548" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/product_reviews_1.zip" webpage="http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets" />
-    <package author="Bing Liu" checksum="522134e8b91086473299c3800c4adbae" copyright="Copyright (C) 2007 Bing Liu" id="product_reviews_2" license="Creative Commons Attribution 4.0 International" licenseurl="http://creativecommons.org/licenses/by/4.0/" name="Product Reviews (9 Products)" size="170698" subdir="corpora" unzip="1" unzipped_size="438549" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/product_reviews_2.zip" webpage="http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets" />
-    <package checksum="2397782c6e6f46c9657f85db8a5421f6" contact="Martha Palmer" id="propbank" license="Distributed with permission" name="Proposition Bank Corpus 1.0" size="5323498" subdir="corpora" unzip="0" unzipped_size="18831005" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/propbank.zip" webpage="http://verbs.colorado.edu/~mpalmer/projects/ace.html" />
-    <package author="Bing Liu" checksum="c4c7e61fb4d57a2f6c95317194da0f17" copyright="Copyright (C) 2008 Bing Liu" id="pros_cons" license="Creative Commons Attribution 4.0 International" licenseurl="http://creativecommons.org/licenses/by/4.0/" name="Pros and Cons" size="746276" subdir="corpora" unzip="1" unzipped_size="2921218" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/pros_cons.zip" webpage="http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets" />
-    <package checksum="7b633a1b7770279eab00bc1108769c67" copyright="Copyright (C) 1995 University of Pennsylvania" id="ptb" license="This is a stub for the full Penn Treebank Corpus version 3." name="Penn Treebank" size="6289" subdir="corpora" unzip="1" unzipped_size="63036" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/ptb.zip" />
-    <package author="Xin Li and Dan Roth, UIUC" checksum="afd4145ac31cb8d7db715974b9b8b57a" id="qc" name="Experimental Data for Question Classification" size="125456" subdir="corpora" unzip="1" unzipped_size="361090" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/qc.zip" webpage="http://l2r.cs.uiuc.edu/~cogcomp/Data/QA/QC/" />
-    <package checksum="c2acb24d5cccf8035e0fe8d29f440a68" id="reuters" license="The copyright for the text of newswire articles and Reuters annotations in the Reuters-21578 collection resides with Reuters Ltd. Reuters Ltd. and Carnegie Group, Inc. have agreed to allow the free distribution of this data *for research purposes only*.  If you publish results based on this data set, please acknowledge its use, refer to the data set by the name 'Reuters-21578, Distribution 1.0', and inform your readers of the current location of the data set." name="The Reuters-21578 benchmark corpus, ApteMod version" size="6378691" subdir="corpora" unzip="0" unzipped_size="9073648" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/reuters.zip" webpage="http://kdd.ics.uci.edu/databases/reuters21578/reuters21578.html" />
-    <package checksum="ca21663daa326a3bb53001c3d82e62d6" id="rte" name="PASCAL RTE Challenges 1, 2, and 3" size="386303" subdir="corpora" unzip="1" unzipped_size="1279930" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/rte.zip" webpage="http://www.pascal-network.org/Challenges/RTE/" />
-    <package author="Rada Mihalcea (rada@cs.unt.edu)" checksum="46c095f0ab7090132567f87252af724f" id="semcor" license="You are granted permission to use, copy, modify and distribute this database for any purpose and without fee and royalty is hereby granted, provided that you agree to comply with the Princeton copyright notice and statements, including the disclaimer, and that the same appear on ALL copies of the database, including modifications that you make for internal use or for distribution.  See semcor/README for more information." name="SemCor 3.0" size="4397021" subdir="corpora" unzip="0" unzipped_size="37425596" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/semcor.zip" webpage="http://www.cse.unt.edu/~rada/downloads.html#semcor" />
-    <package checksum="bfc6a33c62ddc2ec24b02701a2f364ff" contact="Ted Pedersen (tpederse@umn.edu)" id="senseval" license="Distributed with permission." name="SENSEVAL 2 Corpus: Sense Tagged Text" size="2151350" subdir="corpora" unzip="1" unzipped_size="16463075" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/senseval.zip" webpage="http://www.senseval.org/" />
-    <package author="Bo Pang and Lillian Lee" checksum="5cdc0cae7f558040d050c90eb2b72e97" copyright="Copyright (C) 2005 Bo Pang and Lillian Lee" id="sentence_polarity" license="Creative Commons Attribution 4.0 International" licenseurl="http://creativecommons.org/licenses/by/4.0/" name="Sentence Polarity Dataset v1.0" size="490256" subdir="corpora" unzip="1" unzipped_size="1241127" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/sentence_polarity.zip" webpage="http://www.cs.cornell.edu/People/pabo/people/pabo/movie-review-data" />
-    <package author="Stefano Baccianella, Andrea Esuli, and Fabrizio Sebastiani" checksum="5043f00829b7db4dd5f21507e092b76a" copyright="Copyright (C) 2013 SentiWordNet Project" id="sentiwordnet" license="Creative Commons Attribution ShareAlike 3.0 Unported license" name="SentiWordNet" size="4686546" subdir="corpora" unzip="1" unzipped_size="13591402" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/sentiwordnet.zip" webpage="http://sentiwordnet.isti.cnr.it/" />
-    <package checksum="2332b32a7d83d657092ba4667c2c84c3" copyright="public domain" id="shakespeare" license="public domain" name="Shakespeare XML Corpus Sample" sample="True" size="475458" subdir="corpora" unzip="1" unzipped_size="1727210" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/shakespeare.zip" webpage="http://www.andrew.cmu.edu/user/akj/shakespeare/" />
-    <package checksum="3e314e26c852c5796488244ffef2ac91" id="sinica_treebank" license="Distributed with the Natural Language Toolkit under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike License [http://creativecommons.org/licenses/by-nc-sa/2.5/]." name="Sinica Treebank Corpus Sample" sample="True" size="899237" subdir="corpora" unzip="1" unzipped_size="3293082" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/sinica_treebank.zip" webpage="http://rocling.iis.sinica.edu.tw/CKIP/engversion/treebank.htm" />
-    <package author="Sofia Gustafson-Capkova, Yvonne Samuelsson, and Martin Volk" checksum="8743ff232d76aaf2ff8a10523503a659" id="smultron" name="SMULTRON Corpus Sample" size="166207" subdir="corpora" unzip="1" unzipped_size="1677647" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/smultron.zip" webpage="http://www.ling.su.se/DaLi/research/smultron/index.htm" />
-    <package checksum="044f2d20c592b17a26ac0102111833c9" copyright="public domain" id="state_union" license="public domain" name="C-Span State of the Union Address Corpus" size="808757" subdir="corpora" unzip="1" unzipped_size="2073917" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/state_union.zip" webpage="http://www.c-span.org/executive/stateoftheunion.asp" />
-    <package checksum="b8dbb98ed29fae704ddd31a182fffce7" id="stopwords" name="Stopwords Corpus" size="11444" subdir="corpora" unzip="1" unzipped_size="20991" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/stopwords.zip" webpage="ftp://ftp.cs.cornell.edu/pub/smart/english.stop and http://snowball.tartarus.org/ and others" />
-    <package author="Bo Pang and Lillian Lee" checksum="a81a44513903ba6bb86f85aeff149561" copyright="Copyright (C) 2004 Bo Pang and Lillian Lee" id="subjectivity" license="Creative Commons Attribution 4.0 International" licenseurl="http://creativecommons.org/licenses/by/4.0/" name="Subjectivity Dataset v1.0" size="521628" subdir="corpora" unzip="1" unzipped_size="1303352" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/subjectivity.zip" webpage=" http://www.cs.cornell.edu/People/pabo/people/pabo/movie-review-data" />
-    <package checksum="6612ccb71f327e85780dc7813dee40f6" id="swadesh" license="GNU Free Documentation License" name="Swadesh Wordlists" size="22828" subdir="corpora" unzip="1" unzipped_size="39998" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/swadesh.zip" webpage="http://en.wiktionary.org/wiki/Appendix:Swadesh_list" />
-    <package checksum="878df010a9f2c2d0a6546a8365f10595" id="switchboard" license="Permission is granted for use of this material in accordance with the Open Content License [http://opencontent.org/opl.shtml].  This corpus contains transcripts and annotations for 36 calls from the Switchboard Corpus [http://www.ldc.upenn.edu/Catalog/LDC93S7.html]." name="Switchboard Corpus Sample" sample="True" size="791161" subdir="corpora" unzip="1" unzipped_size="2541179" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/switchboard.zip" />
-    <package checksum="34c047c4749a811287f2c652104d7849" id="timit" license="This corpus sample is Copyright 1993 Linguistic Data Consortium, and is distributed under the terms of the Creative Commons Attribution, Non-Commercial, ShareAlike license.  http://creativecommons.org/" name="TIMIT Corpus Sample" sample="True" size="22251869" subdir="corpora" unzip="1" unzipped_size="31932925" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/timit.zip" webpage="http://www.ldc.upenn.edu/Catalog/CatalogEntry.jsp?catalogId=LDC93S1" />
-    <package checksum="26657c1b8b5f5afdc3d5d754393a9216" id="toolbox" name="Toolbox Sample Files" size="250616" subdir="corpora" unzip="1" unzipped_size="829593" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/toolbox.zip" />
-    <package checksum="78c24a97940c2504d0ad35dd3f8a560b" copyright="Copyright (C) 1995 University of Pennsylvania" id="treebank" license="This is a 10% fragment of Penn Treebank, (C) LDC 1995.  It is made available under fair use for the purposes of illustrating NLTK tools for tokenizing, tagging, chunking and parsing.  This data is for non-commercial use only." name="Penn Treebank Sample" sample="True" size="1740034" subdir="corpora" unzip="1" unzipped_size="5963497" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/treebank.zip" />
-    <package checksum="02fc79b5adc0357bc1e14747246fd3c1" copyright="Copyright (C) 2015 Twitter, Inc" id="twitter_samples" license="Must be used subject to Twitter Developer Agreement     (https://dev.twitter.com/overview/terms/agreement)" name="Twitter Samples" note="Sample of Tweets collected from the Twitter APIs,         observing the 50k limit required by https://dev.twitter.com/overview/terms/policy#6._Be_a_Good_Partner_to_Twitter " size="16007673" subdir="corpora" unzip="1" unzipped_size="122350791" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/twitter_samples.zip" />
-    <package checksum="745b3a90feb25c95fc805ebbd1ef5258" copyright="public domain" id="udhr" license="public domain" name="Universal Declaration of Human Rights Corpus" size="1170177" subdir="corpora" unzip="1" unzipped_size="3261577" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/udhr.zip" webpage="http://www.un.org/Overview/rights.html" />
-    <package checksum="e604482d2dc8dd2580af7d97c1bf0a80" copyright="public domain" id="udhr2" license="public domain" name="Universal Declaration of Human Rights Corpus (Unicode Version)" size="1653975" subdir="corpora" unzip="1" unzipped_size="5677920" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/udhr2.zip" webpage="http://unicode.org/udhr/" />
-    <package checksum="d46699450dd2287f5c115d8c1a0819f1" id="unicode_samples" name="Unicode Samples" note="A very small corpus used to demonstrate unicode encoding in chapter 10 of the book" size="1212" subdir="corpora" unzip="1" unzipped_size="643" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/unicode_samples.zip" />
-    <package checksum="4acd3991768a727be019a8021fe376d2" id="universal_treebanks_v20" license="Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States" name="Universal Treebanks Version 2.0" size="25908853" subdir="corpora" unzip="0" unzipped_size="119113962" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/universal_treebanks_v20.zip" webpage="https://code.google.com/p/uni-dep-tb/" />
-    <package author="Karin Kipper-Schuler" checksum="427dac60e4a94ae910248ccd9986a22a" id="verbnet" license="Distributed with permission of the author." name="VerbNet Lexicon, Version 2.1" size="323661" subdir="corpora" unzip="1" unzipped_size="2474526" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/verbnet.zip" version="2.1" webpage="http://verbs.colorado.edu/~mpalmer/projects/verbnet.html" />
-    <package checksum="6c7680030aae5c997b1370f832545c6a" id="webtext" name="Web Text Corpus" size="646297" subdir="corpora" unzip="1" unzipped_size="1726918" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/webtext.zip" />
-    <package checksum="b3f38606f626e54c6f060548546f71f0" copyright="WordNet 3.0 Copyright 2006 by Princeton University.  All rights reserved." id="wordnet" license="Permission to use, copy, modify and distribute this software and database and its documentation for any purpose and without fee or royalty is hereby granted, provided that you agree to comply with the following copyright notice and statements, including the disclaimer, and that the same appear on ALL copies of the software, database and documentation, including modifications that you make for internal use or for distribution.... [see webpage for full license]" name="WordNet" size="10775600" subdir="corpora" unzip="1" unzipped_size="36353991" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/wordnet.zip" version="3.0" webpage="http://wordnet.princeton.edu/" />
-    <package checksum="25f0185b31693fa11ea898e4feda528c" id="wordnet_ic" name="WordNet-InfoContent" size="12056682" subdir="corpora" unzip="1" unzipped_size="34220359" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/wordnet_ic.zip" version="3.0" webpage="http://wn-similarity.sourceforge.net" />
-    <package checksum="8594d9d5422e01d993dfbbc3f38d3ae5" copyright="public domain" id="words" license="public domain" name="Word Lists" size="757777" subdir="corpora" unzip="1" unzipped_size="2498552" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/words.zip" webpage="http://en.wikipedia.org/wiki/Words_(Unix)" />
-    <package available="False" checksum="6582cd98ca26c35d9c4eaaa4350ce8f3" id="ycoe" name="York-Toronto-Helsinki Parsed Corpus of Old English Prose" size="477" subdir="corpora" unzip="1" unzipped_size="277" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/ycoe.zip" webpage="http://www.ota.ahds.ac.uk/" />
-    <package author="Kepa Sarasola" checksum="0e3518cb2aeb2600cb2841df7f035606" id="basque_grammars" languages="Spanish" name="Grammars for Basque" size="4704" subdir="grammars" unzip="1" unzipped_size="5550" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/grammars/basque_grammars.zip" />
-    <package author="Ewan Klein" checksum="2e6bc2e5d678fc5d14e4c0747c69083e" id="book_grammars" languages="English" name="Grammars from NLTK Book" size="9103" subdir="grammars" unzip="1" unzipped_size="21179" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/grammars/book_grammars.zip" />
-    <package checksum="135aa813bd721d59ae595d9d7f115dc8" contact="John A. Carroll" id="large_grammars" languages="English" license="See the individual grammar files" name="Large context-free and feature-based grammars for parser comparison" size="283747" subdir="grammars" unzip="1" unzipped_size="4115732" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/grammars/large_grammars.zip" webpage="http://www.informatics.sussex.ac.uk/research/groups/nlp/carroll/elsps.html" />
-    <package author="" checksum="c4a2a01345d1e61c8febd8d498c5d2d6" id="sample_grammars" languages="English" name="Sample Grammars" size="20293" subdir="grammars" unzip="1" unzipped_size="61718" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/grammars/sample_grammars.zip" />
-    <package author="Kepa Sarasola" checksum="12f66b8e22beadd6ed202e95453465af" id="spanish_grammars" languages="Spanish" name="Grammars for Spanish" size="4047" subdir="grammars" unzip="1" unzipped_size="3980" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/grammars/spanish_grammars.zip" />
-    <package author="UCREL, Lancaster University" checksum="e15834e0dd89b107925af6bb11a8eaa4" id="tagsets" languages="English" name="Help on Tagsets" size="34531" subdir="help" unzip="1" unzipped_size="79723" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/help/tagsets.zip" />
-    <package checksum="e5836f76779020b225ad6114372b954a" id="mwa_ppdb" license="Creative Commons Attribution 3.0 Unported (CC-BY)" name="The monolingual word aligner (Sultan et al. 2015) subset of the Paraphrase Database." size="1594711" subdir="misc" unzip="1" unzipped_size="3657054" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/misc/mwa_ppdb.zip" webpage="http://www.cis.upenn.edu/~ccb/ppdb/" />
-    <package checksum="7f2d9aaceb881e3bd2d3576e9c5bace9" id="perluniprops" license="" name="perluniprops: Index of Unicode Version 7.0.0 character properties in Perl" size="48770" subdir="misc" unzip="1" unzipped_size="74568" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/misc/perluniprops.zip" webpage="http://perldoc.perl.org/perluniprops.html" />
+    <package checksum="d1d1a23377f9ab4c12d77c7a078318ac" id="word2vec_sample" name="Word2Vec Sample" size="49396025" subdir="models" unzip="1" unzipped_size="138432415" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/models/word2vec_sample.zip" webpage="https://code.google.com/p/word2vec/" />
     <package checksum="51d0c9c288b4f790bf255b5c9c3533ab" id="bllip_wsj_no_aux" name="BLLIP Parser: WSJ Model" size="24516205" subdir="models" unzip="1" unzipped_size="54298623" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/models/bllip_wsj_no_aux.zip" webpage="http://nlp.stanford.edu/~mcclosky/models/" />
     <package checksum="715531d058ec253bd0683d0df23ec868" id="moses_sample" name="Moses Sample Models" size="10961490" subdir="models" unzip="1" unzipped_size="10985045" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/models/moses_sample.zip" webpage="http://www.statmt.org/moses/?n=Moses.SampleData" />
     <package checksum="2067e40eaf94ccb632007b91073aa433" id="wmt15_eval" name="Evaluation data from WMT15" size="383096" subdir="models" unzip="1" unzipped_size="1247631" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/models/wmt15_eval.zip" webpage="http://www.statmt.org/wmt15/" />
-    <package checksum="d1d1a23377f9ab4c12d77c7a078318ac" id="word2vec_sample" name="Word2Vec Sample" size="49396025" subdir="models" unzip="1" unzipped_size="138432415" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/models/word2vec_sample.zip" webpage="https://code.google.com/p/word2vec/" />
     <package author="C.J. Hutto and Eric Gilbert" checksum="8b3824e2c39b655dd225fb266c8bea53" id="vader_lexicon" license="MIT License" name="VADER Sentiment Lexicon" size="90486" subdir="sentiment" unzip="0" unzipped_size="434147" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/sentiment/vader_lexicon.zip" webpage="https://github.com/cjhutto/vaderSentiment" />
     <package checksum="6af70bbc602aecd18aa0b9cfa7be2aa1" id="porter_test" name="Porter Stemmer Test Files" size="200510" subdir="stemmers" unzip="1" unzipped_size="680060" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/stemmers/porter_test.zip" />
-    <package author="Viviane Moreira Orengo (vmorengo@inf.ufrgs.br) and Christian Huyck" checksum="648798996224694251834699fa6e55f7" id="rslp" languages="Portuguese" name="RSLP Stemmer (Removedor de Sufixos da Lingua Portuguesa)" size="3805" subdir="stemmers" unzip="1" unzipped_size="7269" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/stemmers/rslp.zip" />
     <package checksum="cba1cf17b887789e6df5f2c87c6e56fb" id="snowball_data" languages="Danish, Dutch, English, Finnish, French, German,          Hungarian, Italian, Norwegian, Portuguese, Romanian, Russian,          Spanish, Swedish, Turkish" name="Snowball Data" size="6785405" subdir="stemmers" unzip="0" unzipped_size="36360836" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/stemmers/snowball_data.zip" webpage="https://github.com/snowballstem/snowball-data" />
-    <package checksum="05c91d607ee1043181233365b3f76978" id="averaged_perceptron_tagger" languages="English" name="Averaged Perceptron Tagger" size="2526731" subdir="taggers" unzip="1" unzipped_size="6138625" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/taggers/averaged_perceptron_tagger.zip" />
-    <package checksum="f7051368e4aff6718f8b38c1362dfdb1" id="averaged_perceptron_tagger_ru" languages="Russian" name="Averaged Perceptron Tagger (Russian)" size="8628828" subdir="taggers" unzip="1" unzipped_size="23247411" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/taggers/averaged_perceptron_tagger_ru.zip" webpage="http://www.ruscorpora.ru/en/" />
-    <package checksum="b879eaf39f3dbb97c551e9df5db93ec9" id="hmm_treebank_pos_tagger" languages="English" name="Treebank Part of Speech Tagger (HMM)" size="750857" subdir="taggers" unzip="1" unzipped_size="750354" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/taggers/hmm_treebank_pos_tagger.zip" />
-    <package checksum="e3b8a5353056073e164c5b06d0cc1fa7" id="maxent_treebank_pos_tagger" languages="English" name="Treebank Part of Speech Tagger (Maximum entropy)" size="10156853" subdir="taggers" unzip="1" unzipped_size="17961132" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/taggers/maxent_treebank_pos_tagger.zip" />
-    <package checksum="137e73955092dd93345c8593c4691be9" id="universal_tagset" name="Mappings to the Universal Part-of-Speech Tagset" size="19095" subdir="taggers" unzip="1" unzipped_size="37147" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/taggers/universal_tagset.zip" />
+    <package author="Viviane Moreira Orengo (vmorengo@inf.ufrgs.br) and Christian Huyck" checksum="648798996224694251834699fa6e55f7" id="rslp" languages="Portuguese" name="RSLP Stemmer (Removedor de Sufixos da Lingua Portuguesa)" size="3805" subdir="stemmers" unzip="1" unzipped_size="7269" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/stemmers/rslp.zip" />
+    <package checksum="d577c2cd0fdae148b36d046b14eb48e6" id="maxent_ne_chunker" languages="English" name="ACE Named Entity Chunker (Maximum entropy)" size="13404747" subdir="chunkers" unzip="1" unzipped_size="23604982" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/chunkers/maxent_ne_chunker.zip" />
     <package author="Jan Strunk" checksum="9d2fe21ea644bff6b04a5cb4bbaf56af" id="punkt" languages="Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Italian, Norwegian, Polish, Portuguese, Slovene, Spanish, Swedish, Turkish" name="Punkt Tokenizer Models" size="13681404" subdir="tokenizers" unzip="1" unzipped_size="36731110" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/tokenizers/punkt.zip" />
+    <package checksum="631e959acaa42eea718daf04c5cdfa76" copyright="Copyright (C) 1995 University of Pennsylvania" id="dependency_treebank" license="This is a 10% fragment of Penn Treebank, (C) LDC 1995, which has been dependency parsed.  It is made available under fair use for the purposes of illustrating NLTK tools for tokenizing, tagging, chunking and parsing.  This data is for non-commercial use only." name="Dependency Parsed Treebank" sample="True" size="457429" subdir="corpora" unzip="1" unzipped_size="1069540" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/dependency_treebank.zip" />
+    <package checksum="d3be36b53ab201372f1cd63ffc75e9a9" copyright="Public Domain (not copyrighted)" id="biocreative_ppi" license="Public Domain" name="BioCreAtIvE (Critical Assessment of Information Extraction Systems in Biology)" size="223566" subdir="corpora" unzip="1" unzipped_size="1537086" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/biocreative_ppi.zip" webpage="http://www.mitre.org/public/biocreative/" />
+    <package checksum="4acd3991768a727be019a8021fe376d2" id="universal_treebanks_v20" license="Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States" name="Universal Treebanks Version 2.0" size="25908853" subdir="corpora" unzip="0" unzipped_size="119113962" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/universal_treebanks_v20.zip" webpage="https://code.google.com/p/uni-dep-tb/" />
+    <package checksum="044f2d20c592b17a26ac0102111833c9" copyright="public domain" id="state_union" license="public domain" name="C-Span State of the Union Address Corpus" size="808757" subdir="corpora" unzip="1" unzipped_size="2073917" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/state_union.zip" webpage="http://www.c-span.org/executive/stateoftheunion.asp" />
+    <package checksum="68a8716e0233ad9c0ed0947952e4eb3e" id="kimmo" name="PC-KIMMO Data Files" size="186958" subdir="corpora" unzip="1" unzipped_size="814609" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/kimmo.zip" webpage="http://www.sil.org/pckimmo/" />
+    <package checksum="ca21663daa326a3bb53001c3d82e62d6" id="rte" name="PASCAL RTE Challenges 1, 2, and 3" size="386303" subdir="corpora" unzip="1" unzipped_size="1279930" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/rte.zip" webpage="http://www.pascal-network.org/Challenges/RTE/" />
+    <package checksum="745b3a90feb25c95fc805ebbd1ef5258" copyright="public domain" id="udhr" license="public domain" name="Universal Declaration of Human Rights Corpus" size="1170177" subdir="corpora" unzip="1" unzipped_size="3261577" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/udhr.zip" webpage="http://www.un.org/Overview/rights.html" />
+    <package checksum="1d0b08de34eba1f013ecb8169d2e3bec" contact="Adam Meyers" id="nombank.1.0" license="Distributed with permission" name="NomBank Corpus 1.0" size="6683763" subdir="corpora" unzip="0" unzipped_size="42327812" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/nombank.1.0.zip" webpage="http://nlp.cs.nyu.edu/meyers/NomBank.html" />
+    <package available="False" checksum="6582cd98ca26c35d9c4eaaa4350ce8f3" id="ycoe" name="York-Toronto-Helsinki Parsed Corpus of Old English Prose" size="477" subdir="corpora" unzip="1" unzipped_size="277" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/ycoe.zip" webpage="http://www.ota.ahds.ac.uk/" />
+    <package author="David Warren and Fernando Pereira" checksum="6832873fe92996846ac5bb21c5d84eb8" copyright="Copyright (C) 1982 David Warren and Fernando Pereira" id="chat80" license="This program may be used, copied, altered or included in other programs only for academic purposes and provided that the authorship of the initial program is aknowledged.  Use for commercial purposes without the previous written agreement of the authors is forbidden." name="Chat-80 Data Files" size="19209" subdir="corpora" unzip="1" unzipped_size="63817" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/chat80.zip" webpage="http://www.cis.upenn.edu/~pereira/oldies.html" />
+    <package author="Bo Pang and Lillian Lee" checksum="155de2b77c6834dd8eea7cbe88e93acb" copyright="Copyright (C) 2004 Bo Pang and Lillian Lee" id="movie_reviews" license="Creative Commons Attribution 4.0 International" licenseurl="http://creativecommons.org/licenses/by/4.0/" name="Sentiment Polarity Dataset Version 2.0" size="4004848" subdir="corpora" unzip="1" unzipped_size="7790571" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/movie_reviews.zip" webpage="http://www.cs.cornell.edu/people/pabo/movie-review-data/" />
+    <package author="Collin F. Baker" checksum="cf68365950b2f048bcb48619de81f50a" id="framenet_v15" license="May be used for non-commercial purposes." name="FrameNet 1.5" size="69337891" subdir="corpora" unzip="1" unzipped_size="579133737" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/framenet_v15.zip" webpage="http://framenet.icsi.berkeley.edu" />
+    <package checksum="e72135042dc48772acad309a6adbb6f0" id="pe08" license="Distributed with permission" name="Cross-Framework and Cross-Domain Parser Evaluation Shared Task" size="80735" subdir="corpora" unzip="1" unzipped_size="296619" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/pe08.zip" version="Release 3 (20 April 2008)" webpage=" http://www-tsujii.is.s.u-tokyo.ac.jp/pe08-st/" />
+    <package checksum="2397782c6e6f46c9657f85db8a5421f6" contact="Martha Palmer" id="propbank" license="Distributed with permission" name="Proposition Bank Corpus 1.0" size="5323498" subdir="corpora" unzip="0" unzipped_size="18831005" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/propbank.zip" webpage="http://verbs.colorado.edu/~mpalmer/projects/ace.html" />
+    <package checksum="de5f1df09949f080e0f616f0bc55967d" id="floresta" license="Non-commercial use only" name="Portuguese Treebank" size="1882021" subdir="corpora" unzip="1" unzipped_size="16414136" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/floresta.zip" webpage="http://www.linguateca.pt/Floresta/" />
+    <package checksum="b9015928e35c41f0695525289df5208f" contact="Kepa Sarasola" copyright="Copyright (C) 2007 The University of the Basque Country" id="conll2007" license="Creative Commons Attribution-NonCommercial-NoDerivativeWorks license" name="Dependency Treebanks from CoNLL 2007 (Catalan and Basque Subset)" size="1242958" subdir="corpora" unzip="0" unzipped_size="6399295" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/conll2007.zip" webpage="http://nextens.uvt.nl/depparse-wiki/DataDownload" />
+    <package checksum="e91ac59ec6e98e3b297e2d2eab83084d" id="cess_cat" license="If you use these corpora for research, please cite thusly: CESS-Cat project (M. Antonia Mart&#237;, MarionaTaul&#233;, Llu&#237;s M&#225;rquez, Manuel Bertran (2007) ?CESS-ECE: A Multilingual and Multilevel Annotated Corpus? in http://www.lsi.upc.edu/~mbertran/cess-ece/publications)." name="CESS-CAT Treebank" size="5396688" subdir="corpora" unzip="1" unzipped_size="33720460" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/cess_cat.zip" webpage="http://clic.ub.edu/cessece/" />
+    <package checksum="78c24a97940c2504d0ad35dd3f8a560b" copyright="Copyright (C) 1995 University of Pennsylvania" id="treebank" license="This is a 10% fragment of Penn Treebank, (C) LDC 1995.  It is made available under fair use for the purposes of illustrating NLTK tools for tokenizing, tagging, chunking and parsing.  This data is for non-commercial use only." name="Penn Treebank Sample" sample="True" size="1740034" subdir="corpora" unzip="1" unzipped_size="5963497" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/treebank.zip" />
+    <package author="Craig Martell (cmartell@nps.edu)" checksum="72d1b905ba2be48d711690b012856c79" id="nps_chat" license="This corpus is distributed solely for non-commercial, non-profit educational and research use. It is a derivative compilation work of multiple works whose copyrights are held by the respective original authors." name="NPS Chat" size="301366" subdir="corpora" unzip="1" unzipped_size="2578726" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/nps_chat.zip" webpage="http://faculty.nps.edu/cmartell/NPSChat.htm" />
+    <package checksum="26657c1b8b5f5afdc3d5d754393a9216" id="toolbox" name="Toolbox Sample Files" size="250616" subdir="corpora" unzip="1" unzipped_size="829593" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/toolbox.zip" />
+    <package author="Rada Mihalcea (rada@cs.unt.edu)" checksum="46c095f0ab7090132567f87252af724f" id="semcor" license="You are granted permission to use, copy, modify and distribute this database for any purpose and without fee and royalty is hereby granted, provided that you agree to comply with the Princeton copyright notice and statements, including the disclaimer, and that the same appear on ALL copies of the database, including modifications that you make for internal use or for distribution.  See semcor/README for more information." name="SemCor 3.0" size="4397021" subdir="corpora" unzip="0" unzipped_size="37425596" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/semcor.zip" webpage="http://www.cse.unt.edu/~rada/downloads.html#semcor" />
+    <package author="Stefano Baccianella, Andrea Esuli, and Fabrizio Sebastiani" checksum="5043f00829b7db4dd5f21507e092b76a" copyright="Copyright (C) 2013 SentiWordNet Project" id="sentiwordnet" license="Creative Commons Attribution ShareAlike 3.0 Unported license" name="SentiWordNet" size="4686546" subdir="corpora" unzip="1" unzipped_size="13591402" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/sentiwordnet.zip" webpage="http://sentiwordnet.isti.cnr.it/" />
+    <package author="Adwait Ratnaparkhi" checksum="cce212b7ace8e64722ba2f41f802a5d0" copyright="(C) 1994 Adwait Ratnaparkhi" id="ppattach" license="Distributed with the permission of the author." name="Prepositional Phrase Attachment Corpus" size="781714" subdir="corpora" unzip="1" unzipped_size="3113650" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/ppattach.zip" webpage="ftp://ftp.cis.upenn.edu/pub/adwait/PPattachData/" />
+    <package checksum="b8dbb98ed29fae704ddd31a182fffce7" id="stopwords" name="Stopwords Corpus" size="11444" subdir="corpora" unzip="1" unzipped_size="20991" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/stopwords.zip" webpage="ftp://ftp.cs.cornell.edu/pub/smart/english.stop and http://snowball.tartarus.org/ and others" />
+    <package checksum="67bb4ca75fa81544d42a159524726e78" id="conll2002" name="CONLL 2002 Named Entity Recognition Corpus" size="1867449" subdir="corpora" unzip="1" unzipped_size="7785638" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/conll2002.zip" webpage="http://www.cnts.ua.ac.be/conll2002/ner/" />
+    <package checksum="9529b285edd5fe47271da69df1052301" contact="Erik Tjong Kim Sang (erikt@uia.ua.ac.be)" id="conll2000" name="CONLL 2000 Chunking Corpus" size="756607" subdir="corpora" unzip="1" unzipped_size="3495903" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/conll2000.zip" webpage="http://www.cnts.ua.ac.be/conll2000/chunking/" />
+    <package author="Kevin Scannell" checksum="3cc831382dec41b8d9a06d93ef300352" copyright="Copyright (C) 2010 Kevin Scannell" id="crubadan" license="GPLv3" name="Crubadan Corpus" size="5288655" subdir="corpora" unzip="1" unzipped_size="11256183" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/crubadan.zip" webpage="http://borel.slu.edu/crubadan/" />
+    <package checksum="6f9c042774b96366c93fd0f9a9adb697" id="dolch" name="Dolch Word List" size="2116" subdir="corpora" unzip="1" unzipped_size="1917" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/dolch.zip" webpage="https://en.wikipedia.org/wiki/Dolch_word_list" />
+    <package checksum="ae529a1c5f13d6074f5b0d68d8edb537" contact="Gertjan van Noord" id="alpino" license="Distributed with permission of Gertjan van Noord" name="Alpino Dutch Treebank" size="2797255" subdir="corpora" unzip="1" unzipped_size="21604821" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/alpino.zip" webpage="http://www.let.rug.nl/~vannoord/trees/" />
+    <package checksum="5b2818385ebdb7887890a25396aadc90" id="nonbreaking_prefixes" license="Gnu LGPL" name="Non-Breaking Prefixes (Moses Decoder)" size="22864" subdir="corpora" unzip="1" unzipped_size="43190" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/nonbreaking_prefixes.zip" webpage="https://github.com/moses-smt/mosesdecoder/tree/master/scripts/share/nonbreaking_prefixes" />
+    <package author="Jonathan Pool (editor)" checksum="66dd080f09ac17db3d31bb4d667d0794" id="panlex_swadesh" license="CC0 1.0 Universal" name="PanLex Swadesh Corpora" size="2861668" subdir="corpora" unzip="0" unzipped_size="4418150" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/panlex_swadesh.zip" webpage="http://panlex.org/" />
+    <package checksum="3e314e26c852c5796488244ffef2ac91" id="sinica_treebank" license="Distributed with the Natural Language Toolkit under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike License [http://creativecommons.org/licenses/by-nc-sa/2.5/]." name="Sinica Treebank Corpus Sample" sample="True" size="899237" subdir="corpora" unzip="1" unzipped_size="3293082" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/sinica_treebank.zip" webpage="http://rocling.iis.sinica.edu.tw/CKIP/engversion/treebank.htm" />
+    <package author="Collin F. Baker" checksum="aaef1cfdcf37000cf2a5c562407fbddb" id="framenet_v17" license="May be used for non-commercial purposes." name="FrameNet 1.7" size="99207152" subdir="corpora" unzip="1" unzipped_size="855026962" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/framenet_v17.zip" webpage="http://framenet.icsi.berkeley.edu" />
+    <package checksum="878df010a9f2c2d0a6546a8365f10595" id="switchboard" license="Permission is granted for use of this material in accordance with the Open Content License [http://opencontent.org/opl.shtml].  This corpus contains transcripts and annotations for 36 calls from the Switchboard Corpus [http://www.ldc.upenn.edu/Catalog/LDC93S7.html]." name="Switchboard Corpus Sample" sample="True" size="791161" subdir="corpora" unzip="1" unzipped_size="2541179" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/switchboard.zip" />
+    <package author="Bo Pang and Lillian Lee" checksum="a81a44513903ba6bb86f85aeff149561" copyright="Copyright (C) 2004 Bo Pang and Lillian Lee" id="subjectivity" license="Creative Commons Attribution 4.0 International" licenseurl="http://creativecommons.org/licenses/by/4.0/" name="Subjectivity Dataset v1.0" size="521628" subdir="corpora" unzip="1" unzipped_size="1303352" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/subjectivity.zip" webpage=" http://www.cs.cornell.edu/People/pabo/people/pabo/movie-review-data" />
+    <package author="Bing Liu" checksum="522134e8b91086473299c3800c4adbae" copyright="Copyright (C) 2007 Bing Liu" id="product_reviews_2" license="Creative Commons Attribution 4.0 International" licenseurl="http://creativecommons.org/licenses/by/4.0/" name="Product Reviews (9 Products)" size="170698" subdir="corpora" unzip="1" unzipped_size="438549" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/product_reviews_2.zip" webpage="http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets" />
+    <package author="W. N. Francis and H. Kucera" checksum="3c7fe43ebf0a4c7ad3ebb63dab027e09" contact="Lou Burnard -- lou.burnard@oucs.ox.ac.uk" id="brown_tei" license="May be used for non-commercial purposes." name="Brown Corpus (TEI XML Version)" size="8737738" subdir="corpora" unzip="1" unzipped_size="56814689" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/brown_tei.zip" webpage="http://www.hit.uib.no/icame/brown/bcm.html" />
+    <package checksum="34157f569624bc8d642ef8da5722b14a" id="ieer" name="NIST IE-ER DATA SAMPLE" size="166156" subdir="corpora" unzip="1" unzipped_size="541349" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/ieer.zip" webpage="http://www.itl.nist.gov/iad/894.01/tests/ie-er/er_99/er_99.htm" />
+    <package checksum="2332b32a7d83d657092ba4667c2c84c3" copyright="public domain" id="shakespeare" license="public domain" name="Shakespeare XML Corpus Sample" sample="True" size="475458" subdir="corpora" unzip="1" unzipped_size="1727210" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/shakespeare.zip" webpage="http://www.andrew.cmu.edu/user/akj/shakespeare/" />
+    <package author="Francis Bond" checksum="2206e933484adbeb01d09d8981786070" copyright="Please consult the copyright statements of the individual Wordnets" id="omw" license="Please consult the LICENSE files included with the individual Wordnets. Note that all permit redistribution." name="Open Multilingual Wordnet" size="11381206" subdir="corpora" unzip="1" unzipped_size="48320874" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/omw.zip" webpage="http://compling.hss.ntu.edu.sg/omw/" />
+    <package author="Bing Liu" checksum="c13be66052027a4605ca456d7cda0917" copyright="Copyright (C) 2004 Bing Liu" id="product_reviews_1" license="Creative Commons Attribution 4.0 International" licenseurl="http://creativecommons.org/licenses/by/4.0/" name="Product Reviews (5 Products)" size="141287" subdir="corpora" unzip="1" unzipped_size="396548" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/product_reviews_1.zip" webpage="http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets" />
+    <package checksum="54af23bfe81ee22b2d0cc0e28c8399e1" copyright="public domain" id="inaugural" license="public domain" name="C-Span Inaugural Address Corpus" size="321354" subdir="corpora" unzip="1" unzipped_size="773075" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/inaugural.zip" />
+    <package checksum="25f0185b31693fa11ea898e4feda528c" id="wordnet_ic" name="WordNet-InfoContent" size="12056682" subdir="corpora" unzip="1" unzipped_size="34220359" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/wordnet_ic.zip" version="3.0" webpage="http://wn-similarity.sourceforge.net" />
+    <package checksum="6612ccb71f327e85780dc7813dee40f6" id="swadesh" license="GNU Free Documentation License" name="Swadesh Wordlists" size="22828" subdir="corpora" unzip="1" unzipped_size="39998" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/swadesh.zip" webpage="http://en.wiktionary.org/wiki/Appendix:Swadesh_list" />
+    <package checksum="34c047c4749a811287f2c652104d7849" id="timit" license="This corpus sample is Copyright 1993 Linguistic Data Consortium, and is distributed under the terms of the Creative Commons Attribution, Non-Commercial, ShareAlike license.  http://creativecommons.org/" name="TIMIT Corpus Sample" sample="True" size="22251869" subdir="corpora" unzip="1" unzipped_size="31932925" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/timit.zip" webpage="http://www.ldc.upenn.edu/Catalog/CatalogEntry.jsp?catalogId=LDC93S1" />
+    <package author="Nitin Jindal and Bing Liu" checksum="df2d005f455afb760fa37d7f565400f1" copyright="Copyright (C) 2006 Nitin Jindal and Bing Liu" id="comparative_sentences" license="Creative Commons Attribution 4.0 International" licenseurl="http://creativecommons.org/licenses/by/4.0/" name="Comparative Sentence Dataset" size="279121" subdir="corpora" unzip="1" unzipped_size="774200" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/comparative_sentences.zip" webpage="http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets" />
+    <package author="A Kumaran" checksum="599a684793935ecbcf8276133945037c" id="indian" license="Distributed with permission" name="Indian Language POS-Tagged Corpus" size="199187" subdir="corpora" unzip="1" unzipped_size="1091033" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/indian.zip" />
+    <package checksum="02fc79b5adc0357bc1e14747246fd3c1" copyright="Copyright (C) 2015 Twitter, Inc" id="twitter_samples" license="Must be used subject to Twitter Developer Agreement     (https://dev.twitter.com/overview/terms/agreement)" name="Twitter Samples" note="Sample of Tweets collected from the Twitter APIs,         observing the 50k limit required by https://dev.twitter.com/overview/terms/policy#6._Be_a_Good_Partner_to_Twitter " size="16007673" subdir="corpora" unzip="1" unzipped_size="122350791" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/twitter_samples.zip" />
+    <package checksum="e604482d2dc8dd2580af7d97c1bf0a80" copyright="public domain" id="udhr2" license="public domain" name="Universal Declaration of Human Rights Corpus (Unicode Version)" size="1653975" subdir="corpora" unzip="1" unzipped_size="5677920" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/udhr2.zip" webpage="http://unicode.org/udhr/" />
+    <package checksum="6c7680030aae5c997b1370f832545c6a" id="webtext" name="Web Text Corpus" size="646297" subdir="corpora" unzip="1" unzipped_size="1726918" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/webtext.zip" />
+    <package checksum="96e30423d6887fad17fc44f2f30d920d" id="jeita" license="Freely re-distributable under the same license as the original JEITA corpus. Each document retains its own license from Aozora bunko and Project Sugita Genpaku." name="JEITA Public Morphologically Tagged Corpus (in ChaSen format)" size="16531215" subdir="corpora" unzip="0" unzipped_size="134170650" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/jeita.zip" webpage="http://lilyx.net/pages/nltkjapanesecorpus.html" />
+    <package author="Dekang Lin" checksum="288cc15e4ed257c8598d6f7a30199db9" id="lin_thesaurus" license="Distributed with permission of Dekang Lin" name="Lin's Dependency Thesaurus" size="89154019" subdir="corpora" unzip="1" unzipped_size="210421609" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/lin_thesaurus.zip" webpage="http://webdocs.cs.ualberta.ca/~lindek/downloads.htm" />
+    <package author="Machado de Assis" checksum="d186f7d6715479a8bec48b8b8030858e" id="machado" license="Public Domain" name="Machado de Assis -- Obra Completa" size="6151774" subdir="corpora" unzip="0" unzipped_size="14855338" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/machado.zip" webpage="http://machado.mec.gov.br/" />
+    <package checksum="2a76432753c01fe179684e0ae3a4d023" copyright="public domain" id="genesis" license="public domain" name="Genesis Corpus" size="473239" subdir="corpora" unzip="1" unzipped_size="1426122" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/genesis.zip" />
+    <package author="Erjavec, Toma&#382;; Barbu, Ana-Maria; Derzhanski, Ivan; Dimitrova, Ludmila; Garab&#237;k, Radovan; Ide, Nancy; Kaalep, Heiki-Jaan; Kotsyba, Natalia; Krstev, Cvetana; Oravecz, Csaba; Petkevi&#269;, Vladim&#237;r; Priest-Dorman, Greg; QasemiZadeh, Behrang; Radziszewski, Adam; Simov, Kiril; Tufi&#351;, Dan and Zdravkova, Katerina" checksum="27aa12b3546cb241df8699506ab15128" id="mte_teip5" license="Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)" name="MULTEXT-East 1984 annotated corpus 4.0" size="14800561" subdir="corpora" unzip="1" unzipped_size="122461442" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/mte_teip5.zip" webpage="https://www.clarin.si/repository/xmlui/handle/11356/1043" />
+    <package checksum="cf216ae5b37cca24866909f8594c5395" id="mac_morpho" license="Distributed with permission of N&#250;cleo Interinstitucional de Ling&#252;&#237;stica Computacional (NILC), Universidade de S&#227;o Paulo (USP) in S&#227;o Carlos, Universidade Federal de S&#227;o Carlos (UFSCar), Universidade Estadual Paulista (UNESP) of Araraquara." name="MAC-MORPHO: Brazilian Portuguese news text with part-of-speech tags" size="3013904" subdir="corpora" unzip="1" unzipped_size="10941402" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/mac_morpho.zip" webpage="http://www.nilc.icmc.usp.br/lacioweb/" />
+    <package author="Sofia Gustafson-Capkova, Yvonne Samuelsson, and Martin Volk" checksum="8743ff232d76aaf2ff8a10523503a659" id="smultron" name="SMULTRON Corpus Sample" size="166207" subdir="corpora" unzip="1" unzipped_size="1677647" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/smultron.zip" webpage="http://www.ling.su.se/DaLi/research/smultron/index.htm" />
+    <package checksum="bfc6a33c62ddc2ec24b02701a2f364ff" contact="Ted Pedersen (tpederse@umn.edu)" id="senseval" license="Distributed with permission." name="SENSEVAL 2 Corpus: Sense Tagged Text" size="2151350" subdir="corpora" unzip="1" unzipped_size="16463075" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/senseval.zip" webpage="http://www.senseval.org/" />
+    <package author="Bo Pang and Lillian Lee" checksum="5cdc0cae7f558040d050c90eb2b72e97" copyright="Copyright (C) 2005 Bo Pang and Lillian Lee" id="sentence_polarity" license="Creative Commons Attribution 4.0 International" licenseurl="http://creativecommons.org/licenses/by/4.0/" name="Sentence Polarity Dataset v1.0" size="490256" subdir="corpora" unzip="1" unzipped_size="1241127" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/sentence_polarity.zip" webpage="http://www.cs.cornell.edu/People/pabo/people/pabo/movie-review-data" />
+    <package author="Andrew Ko, Carnegie Mellon University" checksum="8781ace4c0a181c5875cdbfc01e895fb" id="problem_reports" name="Problem Report Corpus" size="1032942" subdir="corpora" unzip="1" unzipped_size="3467763" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/problem_reports.zip" webpage="http://www.cs.cmu.edu/~marmalade/reports.html" />
+    <package checksum="d07b2ca7b5b351a24f4db8ae8fbc9e98" id="pil" license="Distributed with permission" name="The Patient Information Leaflet (PIL) Corpus" size="1510205" subdir="corpora" unzip="1" unzipped_size="4170899" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/pil.zip" version="Version 2.0 (31 March 2006)" webpage="http://mcs.open.ac.uk/nlg/old_projects/pills/corpus/" />
+    <package checksum="1dd15c714a2be985c482a13d90e9caa4" id="gazetteers" license="GNU Free Documentation License; or public domain (depending on the file)" name="Gazeteer Lists" size="8265" subdir="corpora" unzip="1" unzipped_size="12711" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/gazetteers.zip" />
+    <package checksum="684432d4f6384b8f0bd19fee5dc15925" id="cess_esp" license="If you use these corpora for research, please cite thusly: CESS-Cat project (M. Antonia Mart&#237;, MarionaTaul&#233;, Llu&#237;s M&#225;rquez, Manuel Bertran (2007) ?CESS-ECE: A Multilingual and Multilevel Annotated Corpus? in http://www.lsi.upc.edu/~mbertran/cess-ece/publications)." name="CESS-ESP Treebank" size="2220392" subdir="corpora" unzip="1" unzipped_size="13233272" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/cess_esp.zip" webpage="http://clic.ub.edu/cessece/" />
+    <package checksum="992f8a3647f333e28a9958eba4bd67c7" id="knbc" license="Freely re-distributable under the same license as the original KNB Corpus." name="KNB Corpus (Annotated blog corpus)" size="8760788" subdir="corpora" unzip="0" unzipped_size="23601139" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/knbc.zip" webpage="http://lilyx.net/pages/nltkjapanesecorpus.html" />
+    <package checksum="58f743ff818b983b89ef9302b509fc41" copyright="Copyright 1998 Carnegie Mellon University" id="cmudict" license="Use of this dictionary, for any research or commercial purpose, is completely unrestricted.  If you use or redistribute this material, we would appreciate acknowlegement of its origin." name="The Carnegie Mellon Pronouncing Dictionary (0.6)" size="896069" subdir="corpora" unzip="1" unzipped_size="3824638" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/cmudict.zip" webpage="ftp://ftp.cs.cmu.edu/project/speech/dict/" />
+    <package author="Nancy Ide" checksum="a03d3ae8c6c2a1707885066e4d62582a" copyright="Copyright (C) 2014 American National Corpus" id="masc_tagged" license="This data may be used for the purposes of linguistic education, research, and development, including commercial development." name="MASC Tagged Corpus" size="1602143" subdir="corpora" unzip="0" unzipped_size="4963879" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/masc_tagged.zip" webpage="http://www.anc.org/" />
+    <package checksum="8594d9d5422e01d993dfbbc3f38d3ae5" copyright="public domain" id="words" license="public domain" name="Word Lists" size="757777" subdir="corpora" unzip="1" unzipped_size="2498552" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/words.zip" webpage="http://en.wikipedia.org/wiki/Words_(Unix)" />
+    <package checksum="c2acb24d5cccf8035e0fe8d29f440a68" id="reuters" license="The copyright for the text of newswire articles and Reuters annotations in the Reuters-21578 collection resides with Reuters Ltd. Reuters Ltd. and Carnegie Group, Inc. have agreed to allow the free distribution of this data *for research purposes only*.  If you publish results based on this data set, please acknowledge its use, refer to the data set by the name 'Reuters-21578, Distribution 1.0', and inform your readers of the current location of the data set." name="The Reuters-21578 benchmark corpus, ApteMod version" size="6378691" subdir="corpora" unzip="0" unzipped_size="9073648" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/reuters.zip" webpage="http://kdd.ics.uci.edu/databases/reuters21578/reuters21578.html" />
+    <package checksum="29cbf1aa02ad8abc72dd955fe74f882c" id="city_database" name="City Database" note="A very small database of information about cities" size="1708" subdir="corpora" unzip="1" unzipped_size="4096" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/city_database.zip" />
+    <package author="Karin Kipper-Schuler" checksum="427dac60e4a94ae910248ccd9986a22a" id="verbnet" license="Distributed with permission of the author." name="VerbNet Lexicon, Version 2.1" size="323661" subdir="corpora" unzip="1" unzipped_size="2474526" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/verbnet.zip" version="2.1" webpage="http://verbs.colorado.edu/~mpalmer/projects/verbnet.html" />
+    <package author="Philipp Koehn, University of Edinburgh" checksum="7621d5675990b1decc012c823716ee76" id="europarl_raw" name="Sample European Parliament Proceedings Parallel Corpus" size="12594977" subdir="corpora" unzip="1" unzipped_size="41396100" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/europarl_raw.zip" webpage="http://www.statmt.org/europarl" />
+    <package checksum="b3f38606f626e54c6f060548546f71f0" copyright="WordNet 3.0 Copyright 2006 by Princeton University.  All rights reserved." id="wordnet" license="Permission to use, copy, modify and distribute this software and database and its documentation for any purpose and without fee or royalty is hereby granted, provided that you agree to comply with the following copyright notice and statements, including the disclaimer, and that the same appear on ALL copies of the software, database and documentation, including modifications that you make for internal use or for distribution.... [see webpage for full license]" name="WordNet" size="10775600" subdir="corpora" unzip="1" unzipped_size="36353991" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/wordnet.zip" version="3.0" webpage="http://wordnet.princeton.edu/" />
+    <package author="Reinhard Rapp" checksum="8e1e34e2f052d8188fd877b2c821b42d" id="comtrans" name="ComTrans Corpus Sample" size="11904518" subdir="corpora" unzip="0" unzipped_size="35387522" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/comtrans.zip" webpage="http://www.fask.uni-mainz.de/user/rapp/comtrans/" />
+    <package author="Cathy Bow, University of Melbourne" checksum="745ee9036c5ca3226be24c97515f5707" id="paradigms" license="Distributed with the permission of the author" name="Paradigm Corpus" size="24902" subdir="corpora" unzip="1" unzipped_size="361186" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/paradigms.zip" />
+    <package author="W. N. Francis and H. Kucera" checksum="a0a8630959d3d937873b1265b0a05497" id="brown" license="May be used for non-commercial purposes." name="Brown Corpus" size="3314357" subdir="corpora" unzip="1" unzipped_size="10117565" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/brown.zip" webpage="http://www.hit.uib.no/icame/brown/bcm.html" />
+    <package author="Bing Liu" checksum="43a521f055063e001845b9d484a50173" copyright="Copyright (C) 2011 Bing Liu" id="opinion_lexicon" license="Creative Commons Attribution 4.0 International" licenseurl="http://creativecommons.org/licenses/by/4.0/" name="Opinion Lexicon" size="24947" subdir="corpora" unzip="1" unzipped_size="67865" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/opinion_lexicon.zip" webpage="http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets" />
+    <package author="Bing Liu" checksum="c4c7e61fb4d57a2f6c95317194da0f17" copyright="Copyright (C) 2008 Bing Liu" id="pros_cons" license="Creative Commons Attribution 4.0 International" licenseurl="http://creativecommons.org/licenses/by/4.0/" name="Pros and Cons" size="746276" subdir="corpora" unzip="1" unzipped_size="2921218" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/pros_cons.zip" webpage="http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets" />
+    <package author="Xin Li and Dan Roth, UIUC" checksum="afd4145ac31cb8d7db715974b9b8b57a" id="qc" name="Experimental Data for Question Classification" size="125456" subdir="corpora" unzip="1" unzipped_size="361090" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/qc.zip" webpage="http://l2r.cs.uiuc.edu/~cogcomp/Data/QA/QC/" />
+    <package author="Australian Broadcasting Commission" checksum="ffb36b67ff24cbf7daaf171c897eb904" id="abc" name="Australian Broadcasting Commission 2006" size="1487851" subdir="corpora" unzip="1" unzipped_size="4054966" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/abc.zip" webpage="http://www.abc.net.au/" />
+    <package checksum="48c9c8605cd70b0230687557ee543633" copyright="public domain" id="gutenberg" license="public domain" name="Project Gutenberg Selections" size="4251829" subdir="corpora" unzip="1" unzipped_size="11802669" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/gutenberg.zip" webpage="http://gutenberg.net/" />
+    <package checksum="d46699450dd2287f5c115d8c1a0819f1" id="unicode_samples" name="Unicode Samples" note="A very small corpus used to demonstrate unicode encoding in chapter 10 of the book" size="1212" subdir="corpora" unzip="1" unzipped_size="643" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/unicode_samples.zip" />
+    <package author="I. Kurcz, A. Lewicki, J. Sambor, K. Szafran, J. Woronczak" checksum="bcbdcf0fc2420fac238ca17dc7bfe423" id="pl196x" license="GNU General Public License" name="Polish language of the XX century sixties" size="7051453" subdir="corpora" unzip="1" unzipped_size="58299303" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/pl196x.zip" webpage="http://www.mimuw.edu.pl/polszczyzna/pl196x/index_en.htm" />
+    <package checksum="7b633a1b7770279eab00bc1108769c67" copyright="Copyright (C) 1995 University of Pennsylvania" id="ptb" license="This is a stub for the full Penn Treebank Corpus version 3." name="Penn Treebank" size="6289" subdir="corpora" unzip="1" unzipped_size="63036" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/ptb.zip" />
+    <package author="Mark Kantrowitz and Bill Ross" checksum="93844d7c995ad28f40528c08a3430175" copyright="Copyright (C) 1991 Mark Kantrowitz" id="names" license="You may use the lists of names for any purpose, so long as credit is given in any published work. You may also redistribute the list if you provide the recipients with a copy of this README file. The lists are not in the public domain (I retain the copyright on the lists) but are freely redistributable.  If you have any additions to the lists of names, I would appreciate receiving them." name="Names Corpus, Version 1.3 (1994-03-29)" size="21326" subdir="corpora" unzip="1" unzipped_size="56572" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/names.zip" webpage="http://www-2.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/" />
+    <package author="Ewan Klein" checksum="2e6bc2e5d678fc5d14e4c0747c69083e" id="book_grammars" languages="English" name="Grammars from NLTK Book" size="9103" subdir="grammars" unzip="1" unzipped_size="21179" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/grammars/book_grammars.zip" />
+    <package author="Kepa Sarasola" checksum="12f66b8e22beadd6ed202e95453465af" id="spanish_grammars" languages="Spanish" name="Grammars for Spanish" size="4047" subdir="grammars" unzip="1" unzipped_size="3980" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/grammars/spanish_grammars.zip" />
+    <package author="Kepa Sarasola" checksum="0e3518cb2aeb2600cb2841df7f035606" id="basque_grammars" languages="Spanish" name="Grammars for Basque" size="4704" subdir="grammars" unzip="1" unzipped_size="5550" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/grammars/basque_grammars.zip" />
+    <package author="" checksum="c4a2a01345d1e61c8febd8d498c5d2d6" id="sample_grammars" languages="English" name="Sample Grammars" size="20293" subdir="grammars" unzip="1" unzipped_size="61718" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/grammars/sample_grammars.zip" />
+    <package checksum="135aa813bd721d59ae595d9d7f115dc8" contact="John A. Carroll" id="large_grammars" languages="English" license="See the individual grammar files" name="Large context-free and feature-based grammars for parser comparison" size="283747" subdir="grammars" unzip="1" unzipped_size="4115732" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/grammars/large_grammars.zip" webpage="http://www.informatics.sussex.ac.uk/research/groups/nlp/carroll/elsps.html" />
+    <package checksum="85948492de4001e44ef2027bccfb5089" id="perluniprops" license="" name="perluniprops: Index of Unicode Version 7.0.0 character properties in Perl" size="93424" subdir="misc" unzip="1" unzipped_size="126234" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/misc/perluniprops.zip" webpage="http://perldoc.perl.org/perluniprops.html" />
+    <package checksum="e5836f76779020b225ad6114372b954a" id="mwa_ppdb" license="Creative Commons Attribution 3.0 Unported (CC-BY)" name="The monolingual word aligner (Sultan et al. 2015) subset of the Paraphrase Database." size="1594711" subdir="misc" unzip="1" unzipped_size="3657054" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/misc/mwa_ppdb.zip" webpage="http://www.cis.upenn.edu/~ccb/ppdb/" />
+    <package checksum="b879eaf39f3dbb97c551e9df5db93ec9" id="hmm_treebank_pos_tagger" languages="English" name="Treebank Part of Speech Tagger (HMM)" size="750857" subdir="taggers" unzip="1" unzipped_size="750354" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/taggers/hmm_treebank_pos_tagger.zip" />
+    <package checksum="137e73955092dd93345c8593c4691be9" id="universal_tagset" name="Mappings to the Universal Part-of-Speech Tagset" size="19095" subdir="taggers" unzip="1" unzipped_size="37147" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/taggers/universal_tagset.zip" />
+    <package checksum="05c91d607ee1043181233365b3f76978" id="averaged_perceptron_tagger" languages="English" name="Averaged Perceptron Tagger" size="2526731" subdir="taggers" unzip="1" unzipped_size="6138625" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/taggers/averaged_perceptron_tagger.zip" />
+    <package checksum="e3b8a5353056073e164c5b06d0cc1fa7" id="maxent_treebank_pos_tagger" languages="English" name="Treebank Part of Speech Tagger (Maximum entropy)" size="10156853" subdir="taggers" unzip="1" unzipped_size="17961132" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/taggers/maxent_treebank_pos_tagger.zip" />
+    <package checksum="f7051368e4aff6718f8b38c1362dfdb1" id="averaged_perceptron_tagger_ru" languages="Russian" name="Averaged Perceptron Tagger (Russian)" size="8628828" subdir="taggers" unzip="1" unzipped_size="23247411" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/taggers/averaged_perceptron_tagger_ru.zip" webpage="http://www.ruscorpora.ru/en/" />
+    <package author="UCREL, Lancaster University" checksum="e15834e0dd89b107925af6bb11a8eaa4" id="tagsets" languages="English" name="Help on Tagsets" size="34531" subdir="help" unzip="1" unzipped_size="79723" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/help/tagsets.zip" />
   </packages>
   <collections>
-    <collection id="all-corpora" name="All the corpora">
+    <collection id="book" name="Everything used in the NLTK Book">
       <item ref="abc" />
-      <item ref="alpino" />
-      <item ref="biocreative_ppi" />
       <item ref="brown" />
-      <item ref="brown_tei" />
-      <item ref="cess_cat" />
-      <item ref="cess_esp" />
       <item ref="chat80" />
-      <item ref="city_database" />
       <item ref="cmudict" />
-      <item ref="comtrans" />
       <item ref="conll2000" />
       <item ref="conll2002" />
-      <item ref="conll2007" />
-      <item ref="crubadan" />
       <item ref="dependency_treebank" />
-      <item ref="dolch" />
-      <item ref="floresta" />
-      <item ref="framenet_v15" />
-      <item ref="framenet_v17" />
-      <item ref="gazetteers" />
       <item ref="genesis" />
       <item ref="gutenberg" />
       <item ref="ieer" />
       <item ref="inaugural" />
-      <item ref="indian" />
-      <item ref="jeita" />
-      <item ref="kimmo" />
-      <item ref="knbc" />
-      <item ref="lin_thesaurus" />
-      <item ref="mac_morpho" />
-      <item ref="machado" />
-      <item ref="masc_tagged" />
       <item ref="movie_reviews" />
-      <item ref="names" />
-      <item ref="nombank.1.0" />
       <item ref="nps_chat" />
-      <item ref="omw" />
-      <item ref="paradigms" />
-      <item ref="pil" />
-      <item ref="pl196x" />
+      <item ref="names" />
       <item ref="ppattach" />
-      <item ref="problem_reports" />
-      <item ref="propbank" />
-      <item ref="ptb" />
-      <item ref="qc" />
       <item ref="reuters" />
-      <item ref="rte" />
-      <item ref="semcor" />
       <item ref="senseval" />
-      <item ref="sentiwordnet" />
-      <item ref="shakespeare" />
-      <item ref="sinica_treebank" />
       <item ref="state_union" />
       <item ref="stopwords" />
       <item ref="swadesh" />
-      <item ref="switchboard" />
       <item ref="timit" />
-      <item ref="toolbox" />
       <item ref="treebank" />
+      <item ref="toolbox" />
       <item ref="udhr" />
       <item ref="udhr2" />
       <item ref="unicode_samples" />
-      <item ref="universal_treebanks_v20" />
-      <item ref="verbnet" />
       <item ref="webtext" />
       <item ref="wordnet" />
       <item ref="wordnet_ic" />
       <item ref="words" />
-      <item ref="ycoe" />
-      <item ref="panlex_swadesh" />
-      <item ref="mte_teip5" />
-      <item ref="nonbreaking_prefixes" />
-    </collection>
-    <collection id="all-nltk" name="All packages available on nltk_data gh-pages branch">
-      <item ref="abc" />
-      <item ref="alpino" />
-      <item ref="biocreative_ppi" />
-      <item ref="brown" />
-      <item ref="brown_tei" />
-      <item ref="cess_cat" />
-      <item ref="cess_esp" />
-      <item ref="chat80" />
-      <item ref="city_database" />
-      <item ref="cmudict" />
-      <item ref="comparative_sentences" />
-      <item ref="comtrans" />
-      <item ref="conll2000" />
-      <item ref="conll2002" />
-      <item ref="conll2007" />
-      <item ref="crubadan" />
-      <item ref="dependency_treebank" />
-      <item ref="europarl_raw" />
-      <item ref="floresta" />
-      <item ref="framenet_v15" />
-      <item ref="framenet_v17" />
-      <item ref="gazetteers" />
-      <item ref="genesis" />
-      <item ref="gutenberg" />
-      <item ref="ieer" />
-      <item ref="inaugural" />
-      <item ref="indian" />
-      <item ref="jeita" />
-      <item ref="kimmo" />
-      <item ref="knbc" />
-      <item ref="lin_thesaurus" />
-      <item ref="mac_morpho" />
-      <item ref="machado" />
-      <item ref="masc_tagged" />
-      <item ref="moses_sample" />
-      <item ref="movie_reviews" />
-      <item ref="names" />
-      <item ref="nombank.1.0" />
-      <item ref="nps_chat" />
-      <item ref="omw" />
-      <item ref="opinion_lexicon" />
-      <item ref="paradigms" />
-      <item ref="pil" />
-      <item ref="pl196x" />
-      <item ref="ppattach" />
-      <item ref="problem_reports" />
-      <item ref="propbank" />
-      <item ref="ptb" />
-      <item ref="product_reviews_1" />
-      <item ref="product_reviews_2" />
-      <item ref="pros_cons" />
-      <item ref="qc" />
-      <item ref="reuters" />
-      <item ref="rte" />
-      <item ref="semcor" />
-      <item ref="senseval" />
-      <item ref="sentiwordnet" />
-      <item ref="sentence_polarity" />
-      <item ref="shakespeare" />
-      <item ref="sinica_treebank" />
-      <item ref="smultron" />
-      <item ref="state_union" />
-      <item ref="stopwords" />
-      <item ref="subjectivity" />
-      <item ref="swadesh" />
-      <item ref="switchboard" />
-      <item ref="timit" />
-      <item ref="toolbox" />
-      <item ref="treebank" />
-      <item ref="twitter_samples" />
-      <item ref="udhr" />
-      <item ref="udhr2" />
-      <item ref="unicode_samples" />
-      <item ref="universal_treebanks_v20" />
-      <item ref="verbnet" />
-      <item ref="webtext" />
-      <item ref="wordnet" />
-      <item ref="wordnet_ic" />
-      <item ref="words" />
-      <item ref="ycoe" />
-      <item ref="rslp" />
-      <item ref="hmm_treebank_pos_tagger" />
       <item ref="maxent_treebank_pos_tagger" />
-      <item ref="universal_tagset" />
       <item ref="maxent_ne_chunker" />
+      <item ref="universal_tagset" />
       <item ref="punkt" />
       <item ref="book_grammars" />
-      <item ref="sample_grammars" />
-      <item ref="spanish_grammars" />
-      <item ref="basque_grammars" />
-      <item ref="large_grammars" />
+      <item ref="city_database" />
       <item ref="tagsets" />
-      <item ref="snowball_data" />
-      <item ref="bllip_wsj_no_aux" />
-      <item ref="word2vec_sample" />
       <item ref="panlex_swadesh" />
-      <item ref="mte_teip5" />
       <item ref="averaged_perceptron_tagger" />
-      <item ref="perluniprops" />
-      <item ref="nonbreaking_prefixes" />
-      <item ref="vader_lexicon" />
-      <item ref="porter_test" />
-      <item ref="wmt15_eval" />
-      <item ref="mwa_ppdb" />
     </collection>
     <collection id="all" name="All packages">
       <item ref="abc" />
@@ -399,46 +259,83 @@
       <item ref="wmt15_eval" />
       <item ref="mwa_ppdb" />
     </collection>
-    <collection id="book" name="Everything used in the NLTK Book">
+    <collection id="third-party" name="Third-party data packages">
+      <item ref="dolch" />
+    </collection>
+    <collection id="all-corpora" name="All the corpora">
       <item ref="abc" />
+      <item ref="alpino" />
+      <item ref="biocreative_ppi" />
       <item ref="brown" />
+      <item ref="brown_tei" />
+      <item ref="cess_cat" />
+      <item ref="cess_esp" />
       <item ref="chat80" />
+      <item ref="city_database" />
       <item ref="cmudict" />
+      <item ref="comtrans" />
       <item ref="conll2000" />
       <item ref="conll2002" />
+      <item ref="conll2007" />
+      <item ref="crubadan" />
       <item ref="dependency_treebank" />
+      <item ref="dolch" />
+      <item ref="floresta" />
+      <item ref="framenet_v15" />
+      <item ref="framenet_v17" />
+      <item ref="gazetteers" />
       <item ref="genesis" />
       <item ref="gutenberg" />
       <item ref="ieer" />
       <item ref="inaugural" />
+      <item ref="indian" />
+      <item ref="jeita" />
+      <item ref="kimmo" />
+      <item ref="knbc" />
+      <item ref="lin_thesaurus" />
+      <item ref="mac_morpho" />
+      <item ref="machado" />
+      <item ref="masc_tagged" />
       <item ref="movie_reviews" />
-      <item ref="nps_chat" />
       <item ref="names" />
+      <item ref="nombank.1.0" />
+      <item ref="nps_chat" />
+      <item ref="omw" />
+      <item ref="paradigms" />
+      <item ref="pil" />
+      <item ref="pl196x" />
       <item ref="ppattach" />
+      <item ref="problem_reports" />
+      <item ref="propbank" />
+      <item ref="ptb" />
+      <item ref="qc" />
       <item ref="reuters" />
+      <item ref="rte" />
+      <item ref="semcor" />
       <item ref="senseval" />
+      <item ref="sentiwordnet" />
+      <item ref="shakespeare" />
+      <item ref="sinica_treebank" />
       <item ref="state_union" />
       <item ref="stopwords" />
       <item ref="swadesh" />
+      <item ref="switchboard" />
       <item ref="timit" />
-      <item ref="treebank" />
       <item ref="toolbox" />
+      <item ref="treebank" />
       <item ref="udhr" />
       <item ref="udhr2" />
       <item ref="unicode_samples" />
+      <item ref="universal_treebanks_v20" />
+      <item ref="verbnet" />
       <item ref="webtext" />
       <item ref="wordnet" />
       <item ref="wordnet_ic" />
       <item ref="words" />
-      <item ref="maxent_treebank_pos_tagger" />
-      <item ref="maxent_ne_chunker" />
-      <item ref="universal_tagset" />
-      <item ref="punkt" />
-      <item ref="book_grammars" />
-      <item ref="city_database" />
-      <item ref="tagsets" />
+      <item ref="ycoe" />
       <item ref="panlex_swadesh" />
-      <item ref="averaged_perceptron_tagger" />
+      <item ref="mte_teip5" />
+      <item ref="nonbreaking_prefixes" />
     </collection>
     <collection id="popular" name="Popular packages">
       <item ref="cmudict" />
@@ -461,8 +358,111 @@
       <item ref="snowball_data" />
       <item ref="averaged_perceptron_tagger" />
     </collection>
-    <collection id="third-party" name="Third-party data packages">
-      <item ref="dolch" />
+    <collection id="all-nltk" name="All packages available on nltk_data gh-pages branch">
+      <item ref="abc" />
+      <item ref="alpino" />
+      <item ref="biocreative_ppi" />
+      <item ref="brown" />
+      <item ref="brown_tei" />
+      <item ref="cess_cat" />
+      <item ref="cess_esp" />
+      <item ref="chat80" />
+      <item ref="city_database" />
+      <item ref="cmudict" />
+      <item ref="comparative_sentences" />
+      <item ref="comtrans" />
+      <item ref="conll2000" />
+      <item ref="conll2002" />
+      <item ref="conll2007" />
+      <item ref="crubadan" />
+      <item ref="dependency_treebank" />
+      <item ref="europarl_raw" />
+      <item ref="floresta" />
+      <item ref="framenet_v15" />
+      <item ref="framenet_v17" />
+      <item ref="gazetteers" />
+      <item ref="genesis" />
+      <item ref="gutenberg" />
+      <item ref="ieer" />
+      <item ref="inaugural" />
+      <item ref="indian" />
+      <item ref="jeita" />
+      <item ref="kimmo" />
+      <item ref="knbc" />
+      <item ref="lin_thesaurus" />
+      <item ref="mac_morpho" />
+      <item ref="machado" />
+      <item ref="masc_tagged" />
+      <item ref="moses_sample" />
+      <item ref="movie_reviews" />
+      <item ref="names" />
+      <item ref="nombank.1.0" />
+      <item ref="nps_chat" />
+      <item ref="omw" />
+      <item ref="opinion_lexicon" />
+      <item ref="paradigms" />
+      <item ref="pil" />
+      <item ref="pl196x" />
+      <item ref="ppattach" />
+      <item ref="problem_reports" />
+      <item ref="propbank" />
+      <item ref="ptb" />
+      <item ref="product_reviews_1" />
+      <item ref="product_reviews_2" />
+      <item ref="pros_cons" />
+      <item ref="qc" />
+      <item ref="reuters" />
+      <item ref="rte" />
+      <item ref="semcor" />
+      <item ref="senseval" />
+      <item ref="sentiwordnet" />
+      <item ref="sentence_polarity" />
+      <item ref="shakespeare" />
+      <item ref="sinica_treebank" />
+      <item ref="smultron" />
+      <item ref="state_union" />
+      <item ref="stopwords" />
+      <item ref="subjectivity" />
+      <item ref="swadesh" />
+      <item ref="switchboard" />
+      <item ref="timit" />
+      <item ref="toolbox" />
+      <item ref="treebank" />
+      <item ref="twitter_samples" />
+      <item ref="udhr" />
+      <item ref="udhr2" />
+      <item ref="unicode_samples" />
+      <item ref="universal_treebanks_v20" />
+      <item ref="verbnet" />
+      <item ref="webtext" />
+      <item ref="wordnet" />
+      <item ref="wordnet_ic" />
+      <item ref="words" />
+      <item ref="ycoe" />
+      <item ref="rslp" />
+      <item ref="hmm_treebank_pos_tagger" />
+      <item ref="maxent_treebank_pos_tagger" />
+      <item ref="universal_tagset" />
+      <item ref="maxent_ne_chunker" />
+      <item ref="punkt" />
+      <item ref="book_grammars" />
+      <item ref="sample_grammars" />
+      <item ref="spanish_grammars" />
+      <item ref="basque_grammars" />
+      <item ref="large_grammars" />
+      <item ref="tagsets" />
+      <item ref="snowball_data" />
+      <item ref="bllip_wsj_no_aux" />
+      <item ref="word2vec_sample" />
+      <item ref="panlex_swadesh" />
+      <item ref="mte_teip5" />
+      <item ref="averaged_perceptron_tagger" />
+      <item ref="perluniprops" />
+      <item ref="nonbreaking_prefixes" />
+      <item ref="vader_lexicon" />
+      <item ref="porter_test" />
+      <item ref="wmt15_eval" />
+      <item ref="mwa_ppdb" />
     </collection>
   </collections>
 </nltk_data>
