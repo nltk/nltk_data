@@ -1,0 +1,21 @@
+<collection id="tests" name="Packages for running tests">
+    <item ref="averaged_perceptron_tagger"/>
+    <item ref="porter_test"/>
+    <item ref="twitter_samples"/>
+    <item ref="wmt15_eval"/>
+    <item ref="subjectivity"/>
+    <item ref="framenet_v17"/>
+    <item ref="product_reviews_1"/>
+    <item ref="product_reviews_2"/>
+    <item ref="vader_lexicon"/>
+    <item ref="crubadan"/>
+    <item ref="mte_teip5"/>
+    <item ref="sentence_polarity"/>
+    <item ref="universal_treebanks_v20"/>
+    <item ref="panlex_swadesh"/>
+    <item ref="nonbreaking_prefixes"/>
+    <item ref="perluniprops"/>
+    <item ref="pros_cons"/>
+    <item ref="opinion_lexicon"/>
+    <item ref="comparative_sentences"/>
+</collection>
