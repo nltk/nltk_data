@@ -18,6 +18,7 @@
     <item ref="dependency_treebank"/>
     <item ref="dolch"/>
     <item ref="europarl_raw"/>
+    <item ref="excuses"/>
     <item ref="floresta"/>
     <item ref="framenet_v15"/>
     <item ref="framenet_v17"/>

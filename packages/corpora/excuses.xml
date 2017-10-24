@@ -1,0 +1,6 @@
+<package id="excuses" name="Excuses speeches"
+         license="Attribution-NonCommercial-ShareAlike"
+         copyright="Copyright (C) 2017 Halyna Lyubinska"
+         author="Halyna Lyubinska"
+         webpage="http://github.com/nltk/nltk_data/blob/gh-pages/packages/corpora/excuses.zip"
+         unzip="1"/>
