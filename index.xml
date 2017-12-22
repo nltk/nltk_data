@@ -24,7 +24,7 @@
     <package author="Philipp Koehn, University of Edinburgh" checksum="7621d5675990b1decc012c823716ee76" id="europarl_raw" name="Sample European Parliament Proceedings Parallel Corpus" size="12594977" subdir="corpora" unzip="1" unzipped_size="41396100" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/europarl_raw.zip" webpage="http://www.statmt.org/europarl" />
     <package checksum="de5f1df09949f080e0f616f0bc55967d" id="floresta" license="Non-commercial use only" name="Portuguese Treebank" size="1882021" subdir="corpora" unzip="1" unzipped_size="16414136" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/floresta.zip" webpage="http://www.linguateca.pt/Floresta/" />
     <package author="Collin F. Baker" checksum="cf68365950b2f048bcb48619de81f50a" id="framenet_v15" license="May be used for non-commercial purposes." name="FrameNet 1.5" size="69337891" subdir="corpora" unzip="1" unzipped_size="579133737" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/framenet_v15.zip" webpage="http://framenet.icsi.berkeley.edu" />
-    <package author="Collin F. Baker" checksum="aaef1cfdcf37000cf2a5c562407fbddb" id="framenet_v17" license="May be used for non-commercial purposes." name="FrameNet 1.7" size="99207152" subdir="corpora" unzip="1" unzipped_size="855026962" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/framenet_v17.zip" webpage="http://framenet.icsi.berkeley.edu" />
+    <package author="Collin F. Baker" checksum="aaef1cfdcf37000cf2a5c562407fbddb" id="framenet_v17" license="Creative Commons Attribution 3.0 Unported License" name="FrameNet 1.7" size="99207152" subdir="corpora" unzip="1" unzipped_size="855026962" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/framenet_v17.zip" webpage="http://framenet.icsi.berkeley.edu" />
     <package checksum="1dd15c714a2be985c482a13d90e9caa4" id="gazetteers" license="GNU Free Documentation License; or public domain (depending on the file)" name="Gazeteer Lists" size="8265" subdir="corpora" unzip="1" unzipped_size="12711" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/gazetteers.zip" />
     <package checksum="2a76432753c01fe179684e0ae3a4d023" copyright="public domain" id="genesis" license="public domain" name="Genesis Corpus" size="473239" subdir="corpora" unzip="1" unzipped_size="1426122" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/genesis.zip" />
     <package checksum="48c9c8605cd70b0230687557ee543633" copyright="public domain" id="gutenberg" license="public domain" name="Project Gutenberg Selections" size="4251829" subdir="corpora" unzip="1" unzipped_size="11802669" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/gutenberg.zip" webpage="http://gutenberg.net/" />
@@ -69,7 +69,7 @@
     <package checksum="3e314e26c852c5796488244ffef2ac91" id="sinica_treebank" license="Distributed with the Natural Language Toolkit under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike License [http://creativecommons.org/licenses/by-nc-sa/2.5/]." name="Sinica Treebank Corpus Sample" sample="True" size="899237" subdir="corpora" unzip="1" unzipped_size="3293082" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/sinica_treebank.zip" webpage="http://rocling.iis.sinica.edu.tw/CKIP/engversion/treebank.htm" />
     <package author="Sofia Gustafson-Capkova, Yvonne Samuelsson, and Martin Volk" checksum="8743ff232d76aaf2ff8a10523503a659" id="smultron" name="SMULTRON Corpus Sample" size="166207" subdir="corpora" unzip="1" unzipped_size="1677647" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/smultron.zip" webpage="http://www.ling.su.se/DaLi/research/smultron/index.htm" />
     <package checksum="044f2d20c592b17a26ac0102111833c9" copyright="public domain" id="state_union" license="public domain" name="C-Span State of the Union Address Corpus" size="808757" subdir="corpora" unzip="1" unzipped_size="2073917" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/state_union.zip" webpage="http://www.c-span.org/executive/stateoftheunion.asp" />
-    <package checksum="4a73d979040d5df1b20ba684bce87e55" id="stopwords" name="Stopwords Corpus" size="12224" subdir="corpora" unzip="1" unzipped_size="22919" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/stopwords.zip" webpage="ftp://ftp.cs.cornell.edu/pub/smart/english.stop and http://snowball.tartarus.org/ and others" />
+    <package checksum="18168dbc859fed47172540cdb64fe8bc" id="stopwords" name="Stopwords Corpus" size="15150" subdir="corpora" unzip="1" unzipped_size="30081" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/stopwords.zip" webpage="ftp://ftp.cs.cornell.edu/pub/smart/english.stop and http://snowball.tartarus.org/ and others" />
     <package author="Bo Pang and Lillian Lee" checksum="a81a44513903ba6bb86f85aeff149561" copyright="Copyright (C) 2004 Bo Pang and Lillian Lee" id="subjectivity" license="Creative Commons Attribution 4.0 International" licenseurl="http://creativecommons.org/licenses/by/4.0/" name="Subjectivity Dataset v1.0" size="521628" subdir="corpora" unzip="1" unzipped_size="1303352" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/subjectivity.zip" webpage=" http://www.cs.cornell.edu/People/pabo/people/pabo/movie-review-data" />
     <package checksum="6612ccb71f327e85780dc7813dee40f6" id="swadesh" license="GNU Free Documentation License" name="Swadesh Wordlists" size="22828" subdir="corpora" unzip="1" unzipped_size="39998" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/swadesh.zip" webpage="http://en.wiktionary.org/wiki/Appendix:Swadesh_list" />
     <package checksum="878df010a9f2c2d0a6546a8365f10595" id="switchboard" license="Permission is granted for use of this material in accordance with the Open Content License [http://opencontent.org/opl.shtml].  This corpus contains transcripts and annotations for 36 calls from the Switchboard Corpus [http://www.ldc.upenn.edu/Catalog/LDC93S7.html]." name="Switchboard Corpus Sample" sample="True" size="791161" subdir="corpora" unzip="1" unzipped_size="2541179" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/switchboard.zip" />
@@ -460,6 +460,27 @@
       <item ref="punkt" />
       <item ref="snowball_data" />
       <item ref="averaged_perceptron_tagger" />
+    </collection>
+    <collection id="tests" name="Packages for running tests">
+      <item ref="averaged_perceptron_tagger" />
+      <item ref="porter_test" />
+      <item ref="twitter_samples" />
+      <item ref="wmt15_eval" />
+      <item ref="subjectivity" />
+      <item ref="framenet_v17" />
+      <item ref="product_reviews_1" />
+      <item ref="product_reviews_2" />
+      <item ref="vader_lexicon" />
+      <item ref="crubadan" />
+      <item ref="mte_teip5" />
+      <item ref="sentence_polarity" />
+      <item ref="universal_treebanks_v20" />
+      <item ref="panlex_swadesh" />
+      <item ref="nonbreaking_prefixes" />
+      <item ref="perluniprops" />
+      <item ref="pros_cons" />
+      <item ref="opinion_lexicon" />
+      <item ref="comparative_sentences" />
     </collection>
     <collection id="third-party" name="Third-party data packages">
       <item ref="dolch" />
