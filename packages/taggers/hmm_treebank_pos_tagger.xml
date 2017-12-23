@@ -1,5 +1,0 @@
-<package id='hmm_treebank_pos_tagger' 
-         name='Treebank Part of Speech Tagger (HMM)'
-         languages="English"
-         unzip="1"
-         />
