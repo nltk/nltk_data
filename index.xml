@@ -267,7 +267,6 @@
       <item ref="words" />
       <item ref="ycoe" />
       <item ref="rslp" />
-      <item ref="hmm_treebank_pos_tagger" />
       <item ref="maxent_treebank_pos_tagger" />
       <item ref="universal_tagset" />
       <item ref="maxent_ne_chunker" />
@@ -374,7 +373,6 @@
       <item ref="words" />
       <item ref="ycoe" />
       <item ref="rslp" />
-      <item ref="hmm_treebank_pos_tagger" />
       <item ref="maxent_treebank_pos_tagger" />
       <item ref="universal_tagset" />
       <item ref="maxent_ne_chunker" />
