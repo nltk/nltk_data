@@ -64,6 +64,7 @@
     <item ref="unicode_samples"/>
     <item ref="universal_treebanks_v20"/>
     <item ref="verbnet"/>
+    <item ref="verbnet3"/>
     <item ref="webtext"/>
     <item ref="wordnet"/>
     <item ref="wordnet_ic"/>
