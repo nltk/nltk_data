@@ -11,6 +11,7 @@ xml_header = """<?xml version="1.0"?>
 """
 
 import sys
+import urllib.request
 from nltk.downloader import build_index
 from xml.etree import ElementTree
 
