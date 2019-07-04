@@ -39,7 +39,7 @@
     <item ref="nombank.1.0"/>
     <item ref="nps_chat"/>
     <item ref="omw"/>
-    <item ref="opinion_lexicon"/>   
+    <item ref="opinion_lexicon"/>
     <item ref="paradigms"/>
     <item ref="pil"/>
     <item ref="pl196x"/>
@@ -97,6 +97,7 @@
     <item ref="panlex_swadesh"/>
     <item ref="mte_teip5"/>
     <item ref="averaged_perceptron_tagger"/>
+    <item ref="averaged_perceptron_tagger_ru"/>
     <item ref="perluniprops"/>
     <item ref="nonbreaking_prefixes"/>
     <item ref="vader_lexicon"/>
