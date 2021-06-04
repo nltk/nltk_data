@@ -1,7 +1,7 @@
-<package id="names" name="Names Corpus, Version 1.3 (1994-03-29)"
+<package id="names" name="Names Corpus, Version 2.0 (2021-06-04)"
          copyright="Copyright (C) 1991 Mark Kantrowitz"
-         author="Mark Kantrowitz and Bill Ross"
+         author="Mark Kantrowitz, Bill Ross and David Arroyo Menéndez"
          license="You may use the lists of names for any purpose, so long as credit is given in any published work. You may also redistribute the list if you provide the recipients with a copy of this README file. The lists are not in the public domain (I retain the copyright on the lists) but are freely redistributable.  If you have any additions to the lists of names, I would appreciate receiving them."
-         webpage="http://www-2.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/"
+         webpage="https://github.com/davidam/damegender"
          unzip="1"
          />
