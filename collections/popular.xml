@@ -12,6 +12,7 @@
     <item ref="twitter_samples"/>
     <item ref="omw"/>
     <item ref="wordnet"/>
+    <item ref="wordnet31"/>
     <item ref="wordnet_ic"/>
     <item ref="words"/>
     <item ref="maxent_ne_chunker"/>

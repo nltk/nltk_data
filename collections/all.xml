@@ -78,6 +78,7 @@
     <item ref="verbnet3"/>
     <item ref="webtext"/>
     <item ref="wordnet"/>
+    <item ref="wordnet31"/>
     <item ref="wordnet_ic"/>
     <item ref="words"/>
     <item ref="ycoe"/>
