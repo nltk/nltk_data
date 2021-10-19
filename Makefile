@@ -1,4 +1,4 @@
-PYTHON = python
+PYTHON = python3
 BASEURL = https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages
 
 pkg_index:
