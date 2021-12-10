@@ -47,7 +47,8 @@
     <package id="crubadan" name="Crubadan Corpus" copyright="Copyright (C) 2010 Kevin Scannell" author="Kevin Scannell" license="GPLv3" webpage="http://borel.slu.edu/crubadan/" unzip="1" unzipped_size="11256183" size="5288655" checksum="3cc831382dec41b8d9a06d93ef300352" subdir="corpora" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/crubadan.zip" />
     <package id="alpino" name="Alpino Dutch Treebank" webpage="http://www.let.rug.nl/~vannoord/trees/" contact="Gertjan van Noord" license="Distributed with permission of Gertjan van Noord" unzip="1" unzipped_size="21604821" size="2797255" checksum="ae529a1c5f13d6074f5b0d68d8edb537" subdir="corpora" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/alpino.zip" />
     <package id="sinica_treebank" name="Sinica Treebank Corpus Sample" webpage="http://rocling.iis.sinica.edu.tw/CKIP/engversion/treebank.htm" license="Distributed with the Natural Language Toolkit under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike License [http://creativecommons.org/licenses/by-nc-sa/2.5/]." sample="True" unzip="1" unzipped_size="3293083" size="906706" checksum="979a905010d475a74475064211cd63c8" subdir="corpora" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/sinica_treebank.zip" />
-    <package id="omw" name="Open Multilingual Wordnet" author="Francis Bond" license="Please consult the LICENSE files included with the individual Wordnets. Note that all permit redistribution." copyright="Please consult the copyright statements of the individual Wordnets" webpage="http://compling.hss.ntu.edu.sg/omw/" unzip="1" unzipped_size="50269427" size="12110409" checksum="8e2adf0627365f0c51a05807737a5e5c" subdir="corpora" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/omw.zip" />
+    <package id="omw-1.4" name="Open Multilingual Wordnet" author="Francis Bond" license="Please consult the LICENSE files included with the individual Wordnets. Note that all permit redistribution." copyright="Please consult the copyright statements of the individual Wordnets" webpage="https://omwn.org/" unzip="1" unzipped_size="96786003" size="26634772" checksum="e2acd8d3aa9c7c3dca4d8d4d169a29b8" subdir="corpora" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/omw-1.4.zip" />
+    <package id="omw" name="Open Multilingual Wordnet" author="Francis Bond" license="Please consult the LICENSE files included with the individual Wordnets. Note that all permit redistribution." copyright="Please consult the copyright statements of the individual Wordnets" webpage="https://omwn.org/" unzip="1" unzipped_size="50269427" size="12110409" checksum="8e2adf0627365f0c51a05807737a5e5c" subdir="corpora" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/omw.zip" />
     <package id="gutenberg" name="Project Gutenberg Selections" webpage="http://gutenberg.net/" license="public domain" copyright="public domain" unzip="1" unzipped_size="11802669" size="4251829" checksum="48c9c8605cd70b0230687557ee543633" subdir="corpora" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/gutenberg.zip" />
     <package id="pil" name="The Patient Information Leaflet (PIL) Corpus" version="Version 2.0 (31 March 2006)" webpage="http://mcs.open.ac.uk/nlg/old_projects/pills/corpus/" license="Distributed with permission" unzip="1" unzipped_size="4170899" size="1510205" checksum="d07b2ca7b5b351a24f4db8ae8fbc9e98" subdir="corpora" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/pil.zip" />
     <package id="masc_tagged" name="MASC Tagged Corpus" copyright="Copyright (C) 2014 American National Corpus" author="Nancy Ide" license="This data may be used for the purposes of linguistic education, research, and development, including commercial development." webpage="http://www.anc.org/" unzip="0" unzipped_size="4963879" size="1602143" checksum="a03d3ae8c6c2a1707885066e4d62582a" subdir="corpora" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/masc_tagged.zip" />
@@ -153,6 +154,7 @@
       <item ref="names" />
       <item ref="nombank.1.0" />
       <item ref="nps_chat" />
+      <item ref="omw-1.4" />
       <item ref="omw" />
       <item ref="opinion_lexicon" />
       <item ref="paradigms" />
@@ -262,6 +264,7 @@
       <item ref="names" />
       <item ref="nombank.1.0" />
       <item ref="nps_chat" />
+      <item ref="omw-1.4" />
       <item ref="omw" />
       <item ref="paradigms" />
       <item ref="pil" />
@@ -313,6 +316,7 @@
       <item ref="stopwords" />
       <item ref="treebank" />
       <item ref="twitter_samples" />
+      <item ref="omw-1.4" />
       <item ref="omw" />
       <item ref="wordnet" />
       <item ref="wordnet31" />
@@ -425,6 +429,7 @@
       <item ref="names" />
       <item ref="nombank.1.0" />
       <item ref="nps_chat" />
+      <item ref="omw-1.4" />
       <item ref="omw" />
       <item ref="opinion_lexicon" />
       <item ref="paradigms" />
