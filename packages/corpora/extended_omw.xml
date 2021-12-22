@@ -1,0 +1,6 @@
+<package id="<corpus_name>" name="Extended Open Multilingual WordNet"
+         copyright="Copyright (C) 2013 Francis Bond and Ryan Foster"
+         license="CC by SA 3.0 Licence (for data from Wikitionary) and Unicode, Inc. Licence Agreement (for data from CLDR)"
+         webpage="http://compling.hss.ntu.edu.sg/omw/summx.html"
+         unzip="1"
+         />
