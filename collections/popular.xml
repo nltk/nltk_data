@@ -11,7 +11,9 @@
     <item ref="treebank"/>
     <item ref="twitter_samples"/>
     <item ref="omw"/>
+    <item ref="omw-1.4"/>
     <item ref="wordnet"/>
+    <item ref="wordnet2021"/>
     <item ref="wordnet31"/>
     <item ref="wordnet_ic"/>
     <item ref="words"/>
