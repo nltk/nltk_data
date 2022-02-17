@@ -26,6 +26,7 @@
     <package id="dependency_treebank" name="Dependency Parsed Treebank" sample="True" copyright="Copyright (C) 1995 University of Pennsylvania" license="This is a 10% fragment of Penn Treebank, (C) LDC 1995, which has been dependency parsed.  It is made available under fair use for the purposes of illustrating NLTK tools for tokenizing, tagging, chunking and parsing.  This data is for non-commercial use only." unzip="1" unzipped_size="1069540" size="457429" checksum="631e959acaa42eea718daf04c5cdfa76" subdir="corpora" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/dependency_treebank.zip" />
     <package id="dolch" name="Dolch Word List" webpage="https://en.wikipedia.org/wiki/Dolch_word_list" unzip="1" unzipped_size="1917" size="2116" checksum="6f9c042774b96366c93fd0f9a9adb697" subdir="corpora" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/dolch.zip" />
     <package id="europarl_raw" name="Sample European Parliament Proceedings Parallel Corpus" author="Philipp Koehn, University of Edinburgh" webpage="http://www.statmt.org/europarl" unzip="1" unzipped_size="41396100" size="12594977" checksum="7621d5675990b1decc012c823716ee76" subdir="corpora" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/europarl_raw.zip" />
+    <package id="extended_omw" name="Extended Open Multilingual WordNet" copyright="Copyright (C) 2013 Francis Bond and Ryan Foster" license="CC by SA 3.0 Licence (for data from Wikitionary) and Unicode, Inc. Licence Agreement (for data from CLDR)" webpage="http://compling.hss.ntu.edu.sg/omw/summx.html" unzip="1" unzipped_size="36087752" size="11251284" checksum="8cc3931b20fdc2a2fe1ed9d42567d51b" subdir="corpora" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/extended_omw.zip" />
     <package id="floresta" name="Portuguese Treebank" license="Non-commercial use only" webpage="http://www.linguateca.pt/Floresta/" unzip="1" unzipped_size="16414136" size="1882021" checksum="de5f1df09949f080e0f616f0bc55967d" subdir="corpora" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/floresta.zip" />
     <package id="framenet_v15" name="FrameNet 1.5" author="Collin F. Baker" license="May be used for non-commercial purposes." webpage="http://framenet.icsi.berkeley.edu" unzip="1" unzipped_size="579133737" size="69337891" checksum="cf68365950b2f048bcb48619de81f50a" subdir="corpora" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/framenet_v15.zip" />
     <package id="framenet_v17" name="FrameNet 1.7" author="Collin F. Baker" license="Creative Commons Attribution 3.0 Unported License" webpage="http://framenet.icsi.berkeley.edu" unzip="1" unzipped_size="855026962" size="99207152" checksum="aaef1cfdcf37000cf2a5c562407fbddb" subdir="corpora" url="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/framenet_v17.zip" />
@@ -139,6 +140,7 @@
       <item ref="dependency_treebank" />
       <item ref="dolch" />
       <item ref="europarl_raw" />
+      <item ref="extended_omw" />
       <item ref="floresta" />
       <item ref="framenet_v15" />
       <item ref="framenet_v17" />
@@ -246,6 +248,7 @@
       <item ref="dependency_treebank" />
       <item ref="dolch" />
       <item ref="europarl_raw" />
+      <item ref="extended_omw" />
       <item ref="floresta" />
       <item ref="framenet_v15" />
       <item ref="framenet_v17" />
@@ -341,6 +344,7 @@
       <item ref="dependency_treebank" />
       <item ref="dolch" />
       <item ref="europarl_raw" />
+      <item ref="extended_omw" />
       <item ref="floresta" />
       <item ref="framenet_v15" />
       <item ref="framenet_v17" />
