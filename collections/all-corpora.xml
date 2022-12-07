@@ -1,6 +1,7 @@
 <collection id="all-corpora" name="All the corpora">
   <item ref="abc" />
   <item ref="alpino" />
+  <item ref="bcp47" />
   <item ref="biocreative_ppi" />
   <item ref="brown" />
   <item ref="brown_tei" />

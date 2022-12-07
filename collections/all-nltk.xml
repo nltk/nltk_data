@@ -4,6 +4,7 @@
   <item ref="averaged_perceptron_tagger" />
   <item ref="averaged_perceptron_tagger_ru" />
   <item ref="basque_grammars" />
+  <item ref="bcp47" />
   <item ref="biocreative_ppi" />
   <item ref="bllip_wsj_no_aux" />
   <item ref="book_grammars" />
