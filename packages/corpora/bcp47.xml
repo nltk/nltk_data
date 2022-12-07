@@ -1,0 +1,6 @@
+<package id="bcp47" name="BCP-47 Language Tags"
+    license="IETF Trust and Unicode Inc."
+    copyright="Copyright (c) 2022 IETF Trust and Copyright (c) 1991-2022 Unicode"
+    webpage="https://www.rfc-editor.org/rfc/rfc5646.html"
+    unzip="0"
+     />
