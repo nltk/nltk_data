@@ -1,0 +1,7 @@
+<package id="wordnet2022" name="Open English Wordnet 2022"
+         version="2022"
+         license="This resource is derived from Princeton WordNet under the WordNet License and further developed under the Creative Commons Attribution 4.0 International License. You may share and adapt this resource providing attribution is given to both Princeton WordNet and the Open English WordNet team."
+         copyright="Open English Wordnet 2022 Copyright 2022 by the Open English Wordnet team. WordNet 3.1 Copyright 2011 by Princeton University. All rights reserved."
+         webpage="https://en-word.net/"
+         unzip="1"
+         />
