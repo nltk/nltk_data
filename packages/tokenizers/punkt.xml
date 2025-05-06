@@ -3,4 +3,5 @@
          author='Jan Strunk'
          languages="Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Italian, Malayalam, Norwegian, Polish, Portuguese, Russian, Slovene, Spanish, Swedish, Turkish"
          unzip="1"
+         license="MIT License"
          />
