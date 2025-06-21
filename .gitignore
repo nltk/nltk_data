@@ -1,0 +1,2 @@
+# Ignore index.xml so it is not committed by contributors
+index.xml
