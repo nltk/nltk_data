@@ -45,4 +45,6 @@ These packages are excluded under a strict OSI definition due to non-commercial 
 
 ---
 
+> Note: Some packages listed here may be “free” according to other standards (e.g., FSF guidelines), but are not OSI-compliant and are excluded from the main free set for maximum compatibility with open source distributors.
+
 *If you spot any errors or have clarification about these licenses, please comment—discussion is encouraged to ensure accuracy and clarity!*

@@ -40,4 +40,8 @@
 
 ---
 
+> **Note:**  
+> All packages listed above are widely accepted as “free” by both OSI and FSF definitions.  
+> In rare cases (e.g., the WordNet license or use of GPL for data), the FSF or some distributions have discussed additional details, but this does not affect the practical status of these packages: they are recognized as free and redistributable by all major open-source projects and distributors.
+
 *This list is based on the most recent license information available. Discussions and corrections are encouraged—please help improve this documentation if you spot anything unclear or incorrect!*
