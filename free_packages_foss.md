@@ -63,6 +63,6 @@ This section includes packages that are widely used and have a clear intention o
 * **omw-1.4**: License: "Please consult the LICENSE files... Note that all permit redistribution." (Same as above, a known "license trap" assumed to be free based on community trust).
 * **punkt**: License: Unstated (This package's license is a known issue. While widely assumed to be free, a formal FOSS-compliant license is needed for clarity).
 * **punkt_tab**: License: Unstated (Same as above, assumed free based on community trust).
-* **rslp**: License: Unstated (Implictly FOSS).
-* **rte**: License: Unstated (Implictly FOSS).
+* **rslp**: License: Unstated (Implicitly FOSS).
+* **rte**: License: Unstated (Implicitly FOSS).
 * **smultron**: License: Unstated (Likely FOSS-compatible, but needs a clear license).
