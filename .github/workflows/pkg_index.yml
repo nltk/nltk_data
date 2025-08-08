@@ -19,8 +19,8 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install dependencies
-        run: pip install nltk
+      - name: Install NLTK from develop branch
+        run: pip install git+https://github.com/nltk/nltk.git@develop
 
       - name: Install make
         run: sudo apt-get update && sudo apt-get install -y make
