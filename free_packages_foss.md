@@ -28,7 +28,6 @@ This section includes packages with explicit, standard, and legally clear FOSS l
 * **pros_cons**: License: Creative Commons Attribution 4.0 International
 * **product_reviews_1**: License: Creative Commons Attribution 4.0 International
 * **product_reviews_2**: License: Creative Commons Attribution 4.0 International
-* **semcor**: License: "Permission to use, copy, modify and distribute... without fee or royalty..." (FOSS-compatible).
 * **sentence_polarity**: License: Creative Commons Attribution 4.0 International
 * **sentiwordnet**: License: Creative Commons Attribution ShareAlike 3.0
 * **shakespeare**: License: public domain
@@ -59,7 +58,7 @@ This section includes packages that are widely used and have a clear intention o
 
 * **alpino**: License: "Distributed with permission." (FOSS-compatible, but non-standard).
 * **cmudict**: License: "Unrestricted use." (FOSS-compatible, but non-standard).
-* **omw**: License: "Please consult the LICENSE files... Note that all permit redistribution." (This is a known "license trap." While the project's intention is free, the ambiguous summary prevents simple redistribution. It is assumed free based on the community's trust.)
+* **omw**: License: "Please consult the LICENSE files... Note that all permit redistribution." (This is a known "license trap." While the project's intention is free, the ambiguous summary prevents simple redistribution.)
 * **omw-1.4**: License: "Please consult the LICENSE files... Note that all permit redistribution." (Same as above, a known "license trap" assumed to be free based on community trust).
 * **punkt**: License: Unstated (This package's license is a known issue. While widely assumed to be free, a formal FOSS-compliant license is needed for clarity).
 * **punkt_tab**: License: Unstated (Same as above, assumed free based on community trust).
