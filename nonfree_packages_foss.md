@@ -1,7 +1,8 @@
 ### Fundamentally Non-Compliant Licenses
 This section lists packages with licenses that explicitly forbid commercial use, restrict distribution, or are otherwise incompatible with FOSS principles.
 
-* **brown**: License: "May be used for non-commercial purposes."
+* **brown**: License: LDC - non-commercial use only.
+* **semcor**: License: LDC - non-commercial use only (annotations by Princeton).
 * **brown_tei**: License: "May be used for non-commercial purposes."
 * **chat80**: License: "only for academic purposes" and forbids commercial use.
 * **conll2007**: License: Creative Commons Attribution-NonCommercial-NoDerivativeWorks.
